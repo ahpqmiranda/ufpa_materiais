@@ -1,5 +1,13 @@
 import numpy as np
+import os
+import pandas as pd
+# resolveu o bug do read_excel instalando o 'openpyxl' via conda forge
 
+file = pd.read_excel('arrecadacao-da-receita-administrada-pela-rfb-por-municipio-2019.xlsx',
+                     index_col=None,
+                     header=None
+                     )
+print(file)
 
 def f(x, p):
     result = 0
