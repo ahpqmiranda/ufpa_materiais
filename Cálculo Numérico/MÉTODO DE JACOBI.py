@@ -15,19 +15,17 @@ def fun_jacobi(A, B, x_init, tol, N):
     while k < N:
         for i in np.arange(n):
             x[i] = B[i]
-            for j in [np.arange(i, 0), np.arange(0, i+1)]:
+            for j in [np.arange(i, 0), np.arange(0, i + 1)]:
                 x[i] -= np.matmul(A[i, j], x_init[j])
             u = A[i, j]
             x[i] /= u
             u = 0
 
-        if np.linalg.norm((x-x_init)/x) < tol:
+        if np.linalg.norm((x - x_init) / x) < tol:
             break
         x_init = np.copy(x)
 
-
-
-    erro = np.linalg.norm((x - x_init)/x)
+    erro = np.linalg.norm((x - x_init) / x)
     texto = 'solução {}\n erro associado: {}'.format(x, erro)
     return texto
 
