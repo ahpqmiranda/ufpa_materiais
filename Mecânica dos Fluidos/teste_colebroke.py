@@ -1,12 +1,10 @@
+import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import sympy as sp
-from random import randint
-import statsmodels.api as sm
-import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
 from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import PolynomialFeatures
-from sklearn.linear_model import LinearRegression
 
 sp.init_printing(use_latex='png', scale=1.0, order='grlex',
                  forecolor='Black', backcolor='White')
@@ -20,7 +18,7 @@ re = 1.7e+5  # n.º de reynolds para o fluido em questão
 
 rho = 998  # [kg/m3] -> Densidade do fluido (agua)
 
-mu = 0.001  # [Pa/s] -> Viscosidade dinamica do fluido (agua)
+mu = 0.001  # [Pa/s] -> Viscosidade dinâmica do fluido (agua)
 
 v = 1.0  # [mm/s] -> Velocidade do escoamento
 
@@ -29,34 +27,32 @@ Re = rho * Din * v / mu  # [] -> Numero de Reynolds
 start = 1
 end = 100
 spaces = 100
-delta = 1
+dispersion = 1
+x_lst = []
 f_lst = []
-g_lst = []
-gprime_lst = []
-f0 = 0.009
-guess = f0
-f0 = randint(1, 10) / 1000  # Palpite inicial (numero aleatorio)
+fd_list = []
+c = 0.009
 tolerancia = 1.00e-08
 
 
-def g(f):
+def colebroke(f):
     return 1 / (f ** 0.5) + 2.0 * np.log10(E / (3.7 * Din) + 2.51 / (Re * f ** 0.5))
 
 
-def gprime(f):
+def deriv_colebroke(f):
     return -0.5 * f ** (-1.5) - 2.51 * f ** (-1.5) / (
             Re * (2.51 * f ** (-0.5) / Re + 0.27027027027027 * E / Din) * np.log(10))
 
 
-while delta > tolerancia:
-    f = guess - ((g(guess)) / (gprime(guess)))
-    delta = abs(f - guess)
-    f_lst.append(f)
-    g_lst.append(g(f))
-    gprime_lst.append(gprime(f))
-    guess = f
+while dispersion > tolerancia:
+    f = c - ((colebroke(c)) / (deriv_colebroke(c)))
+    dispersion = abs(f - c)
+    x_lst.append(f)
+    f_lst.append(colebroke(f))
+    fd_list.append(deriv_colebroke(f))
+    c = f
 
-data_df = pd.DataFrame(list(zip(f_lst, g_lst, gprime_lst)),
+data_df = pd.DataFrame(list(zip(x_lst, f_lst, fd_list)),
                        columns=['fi', 'g(f)', 'g\'(f)'])
 
 plt.style.use('seaborn-bright')
@@ -69,9 +65,8 @@ x = np.array(range(len(m1)))
 
 plt.plot(x, m1, 'r')
 plt.plot(x, m2, 'g')
-plt.plot(x, m3, 'b')
-plt.legend(["fator de atrito", "eq. colebroke", "erro associado"])
-plt.axis([0, len(m1), 0, max([max(m1), max(m2), max(m3)])])
+plt.legend(["fator de atrito", "eq. colebroke"])
+plt.axis([0, len(m1), 0, max([max(m1), max(m2)])])
 plt.xlabel('Iterações')
 plt.ylabel('Aproximações')
 plt.title('Método de Newton Raphson')
