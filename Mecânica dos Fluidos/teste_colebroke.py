@@ -1,6 +1,8 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
+import math
+import scipy.constants as sc
 import sympy as sp
 from sklearn.linear_model import LinearRegression
 from sklearn.pipeline import make_pipeline
@@ -8,8 +10,6 @@ from sklearn.preprocessing import PolynomialFeatures
 
 sp.init_printing(use_latex='png', scale=1.0, order='grlex',
                  forecolor='Black', backcolor='White')
-x = sp.Symbol('x')
-
 E = 1.5e-4  # [m] -> Rugosidade da parede interna do duto
 
 Din = 1.22  # [m] -> Diâmetro interno do duto
@@ -18,12 +18,13 @@ re = 1.7e+5  # n.º de reynolds para o fluido em questão
 
 rho = 998  # [kg/m3] -> Densidade do fluido (agua)
 
-mu = 0.001  # [Pa/s] -> Viscosidade dinâmica do fluido (agua)
+mu = 1e-3  # [Pa/s] -> Viscosidade dinâmica do fluido (agua)
 
-v = 1.0  # [mm/s] -> Velocidade do escoamento
+v = 1.0  # [m/s] -> Velocidade média do escoamento
 
 Re = rho * Din * v / mu  # [] -> Numero de Reynolds
 # (função) fator de atrito
+g = sc.g
 start = 1
 end = 100
 spaces = 100
@@ -35,6 +36,52 @@ c = 0.009
 tolerancia = 1.00e-08
 
 
+x = sp.Symbol('x')
+f = np.linspace(0, 200, 1000)
+# rugosidade da tubulação
+E = 1.5e-4
+# Diâmetro interno da tubulação
+Din = 1.22
+# nº de reynolds para o fluido em questão
+Re = rho * Din * v / mu
+# função fator de atrito
+h = 1 / np.sqrt(f)
+# função de colebroke
+g = -2 * np.log((E / (Din * 3.7) + (2.51 / (Re * f))))
+
+data_dic = {
+    'Fator de atrito (chute)': f,
+    'função 1/√f': h,
+    'função de colebroke': g
+}
+
+data = pd.DataFrame(data_dic)
+
+data.to_csv('colebroke.csv')
+
+def f(x): return 1 / np.sqrt(x) - 2 * np.log((E / (Din * 3.7) + (2.51 / (Re * x))))
+f(x)
+
+def erro_relativo(m, n):
+    erro = math.sqrt(math.pow(m - n, 2) / math.sqrt(math.pow(m, 2))) * 100
+    return erro
+
+def bissec(a, b, tolerancia, n):
+    i = 1
+    limite = math.pow(10, tolerancia)
+    criteria = (b - a) / 2
+    while i <= n:
+        criteria = (b - a) / 2
+        s = a + criteria
+        fp = f(s)
+        print(f(a))
+        print(f(b))
+        print(f(s))
+        i = i + 1
+        texto = ' {} | {:10f} | {:10f} | {:10f} | {:10f} | {:10f}\n'.format(i - 1, a, b, s, fp, f(a) * f(s), erro_relativo(a, s))
+
+
+'''
 def colebroke(f):
     return 1 / (f ** 0.5) + 2.0 * np.log10(E / (3.7 * Din) + 2.51 / (Re * f ** 0.5))
 
@@ -73,6 +120,7 @@ plt.title('Método de Newton Raphson')
 plt.grid(True)
 plt.show()
 
+
 rugosidade = lambda f: 1 / (f ** 0.5) + 2.0 * np.log10(E / (3.7 * Din) + 2.51 / (Re * f ** 0.5))
 list_rugosidade = []
 
@@ -102,3 +150,11 @@ plt.legend(["Dados amostrais", "Interpolador Polinomial"])
 plt.xlabel("Rugosidade")
 plt.ylabel("Perda de Carga")
 plt.show()
+
+# equação de Darcy-Weisbach
+L = float(input('Digite o comprimento da tubulação'))
+f = data_df['fi'].iloc[-1]
+lw = f * L * (v ** 2) / (2 * Din * g)
+print(lw)
+
+'''
