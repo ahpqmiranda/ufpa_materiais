@@ -33,9 +33,14 @@ def beta_max(coef):
     return beta_list
 
 
-matrix_coef = np.array([[20, 10, 10, 10], [4, 25, 15, 8], [7, 40, 20, 10], [20, 50, 22, 15]])
-print(beta_max(matrix_coef))
-matriz_values = np.array([504, 1970, 970, 601])
-x0 = np.array([9, 10, 12, 10])
+matrix1 = np.array([[2, 2, -1], [1, 4, -1], [1, -1, 4]])
+matrix2 = np.array([[5, 2, 1], [2, 1, -1], [1, -1, -2]])
+matrix3 = np.array([[7, 3, -1], [1, 4, -1], [2, -2, 6]])
+results = np.array([6, 4, -1])
+results2 = np.array([9, 4, -1])
+results3 = np.array([15, 6, -4])
+print(beta_max(matrix2))
+matriz_values = np.array([6, 4, -1])
+x0 = np.array([9, 10, 12])
 
-print(gauss_seidel(matrix_coef, matriz_values, x0, 0.005))
+print(gauss_seidel(matrix1, results, x0, 0.005))
