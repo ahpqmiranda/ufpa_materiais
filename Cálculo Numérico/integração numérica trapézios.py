@@ -73,4 +73,13 @@ def q4(linf, linsup, n):
     return None
 
 
-q4(1, 3, 10)
+def linha(linf, linsup, n):
+    def integrar(x):
+        return (1+1.5*x**(-0.5)**2)**0.5
+
+    u = (1+1.5*x**(-0.5)**2)**0.5
+    print(integral_trapezoidal(integrar, linf, linsup, n))
+    print(error_trapezoidal(integrar, linf, linsup, n))
+
+
+linha(0, 3, 100)
