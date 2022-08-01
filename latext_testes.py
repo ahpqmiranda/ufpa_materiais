@@ -1,39 +1,34 @@
-from pylatex import Document, Section, Subsection, Command
-from pylatex.utils import italic, NoEscape
+import pylatex as pl
+import pylatex.utils as plu
+import docx2txt as d2t
+import pandas as pd
+import os
 
 
-def fill_document(doc):
-    with doc.create(Section('A section')):
-        doc.append('Some regular text and some ')
-        doc.append(italic('italic text. '))
 
-        with doc.create(Subsection('A subsection')):
-            doc.append('Also some crazy characters: $&#{}')
-
-
+name = 'RESENHA CRÍTICA RECICLAGEM DE LIXO ELETRÔNICO.docx'
+content = d2t.process(name)
+paragraphs = []
+for line in content.splitlines():
+   if len(line) > 15:
+       paragraphs.append(line)
+Series_paragraph = pd.Series(paragraphs)
+print(Series_paragraph[9])
 if __name__ == '__main__':
-    # Basic document
-    doc = Document('basic')
-    fill_document(doc)
+    address = 'mecânica geral/Diagrama_de_Estrutura_(escala_0.6).png'
+    graphs = os.path.join(os.path.dirname(__file__), address)
 
-    doc.generate_pdf(clean_tex=False)
-    doc.generate_tex()
+    # Create a document
+    geometry_options = {'tmargin': '1.5cm', 'lmargin': '1.5cm'}
+    doc = pl.Document(geometry_options=geometry_options)
 
-    # Document with `\maketitle` command activated
-    doc = Document()
+    with doc.create(pl.Section(Series_paragraph[6])):
+        doc.append(Series_paragraph[8])
+        doc.append(Series_paragraph[9])
+        with doc.create(pl.Subsection(Series_paragraph[7])):
+            doc.append(Series_paragraph[10])
+            doc.append(Series_paragraph[11])
+            doc.append(Series_paragraph[12])
 
-    doc.preamble.append(Command('title', 'Awesome Title'))
-    doc.preamble.append(Command('author', 'Anonymous author'))
-    doc.preamble.append(Command('date', NoEscape(r'\today')))
-    doc.append(NoEscape(r'\maketitle'))
+    doc.generate_pdf('RESENHA CRÍTICA RECICLAGEM DE LIXO ELETRÔNICO', clean_tex=False)
 
-    fill_document(doc)
-
-    doc.generate_pdf('basic_maketitle', clean_tex=False)
-
-    # Add stuff to the document
-    with doc.create(Section('A second section')):
-        doc.append('Some text.')
-
-    doc.generate_pdf('basic_maketitle2', clean_tex=False)
-    tex = doc.dumps()  # The document as string in LaTeX syntax
