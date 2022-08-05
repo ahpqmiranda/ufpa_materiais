@@ -1,9 +1,9 @@
-    import math
-    import pandas as pd
-    import numpy as np
-    import sympy as sp
-    from sympy.interactive import init_printing
-    init_printing(pretty_print=True)
+import math
+import pandas as pd
+import numpy as np
+import sympy as sp
+from sympy.interactive import init_printing
+init_printing(pretty_print=True)
 
 x = sp.Symbol('x')
 # funcao = x**10

@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 
 
-def stress_line(force, inertia):
+def stress_line(force):
     points = np.linspace(0, 2, 100)
     curve = lambda x: force * (L_spam - x) * (lado / 2) * (1 / I)
     data_points = []
