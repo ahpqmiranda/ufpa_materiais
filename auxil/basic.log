@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.8.4)  4 AUG 2022 13:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.8.4)  22 AUG 2022 20:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -84,8 +84,7 @@ tex.def
 File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count193
 \l__pdf_internal_box=\box50
-)
-No file basic.aux.
+) (C:/Users\alana\PycharmProjects\CALCULONUMERICO\auxil\basic.aux)
 \openout1 = `basic.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -106,27 +105,25 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
 (lastpage)             ! on input line 10.
 
+
 AED: lastpage setting LastPage
 [1
 
 {C:/Users/alana/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-(C:/Users\alana\PycharmProjects\CALCULONUMERICO\auxil\basic.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+(C:/Users\alana\PycharmProjects\CALCULONUMERICO\auxil\basic.aux) ) 
 Here is how much of TeX's memory you used:
- 850 strings out of 478614
- 15265 string characters out of 2843123
+ 852 strings out of 478614
+ 15401 string characters out of 2843123
  301339 words of memory out of 3000000
  19061 multiletter control sequences out of 15000+600000
  489269 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,5n,39p,163b,109s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{C:/Users/alana/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C
-:/Users/alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C
-:/Users/alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:
-/Users/alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb>
+{C:/Users/ala
+na/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/alana/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/alana/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/alana/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb>
 Output written on C:/Users\alana\PycharmProjects\CALCULONUMERICO\out\basic.pdf 
 (1 page, 68023 bytes).
 PDF statistics:

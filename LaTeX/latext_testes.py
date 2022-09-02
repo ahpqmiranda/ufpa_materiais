@@ -4,12 +4,14 @@ import docx2txt as d2t
 import pandas as pd
 import os
 
+
 def gen_table(df, align='c'):
     """
     Generate a LaTeX table from a pandas dataframe.
     """
     # Create table
-    table = pl.Table(table_format= + align * df.shape[1])
+    table = pl.Table(table_format=+ align * df.shape[1])
+    table
     table.add_hline()
     # Add header
     for col in df.columns:
@@ -20,6 +22,7 @@ def gen_table(df, align='c'):
         table.add_row(row)
         table.add_hline()
     return table
+
 
 def gen_dataframe():
     """
@@ -34,13 +37,14 @@ def gen_dataframe():
     )
     return df
 
+
 if __name__ == '__main__':
     name = 'RESENHA CRÍTICA RECICLAGEM DE LIXO ELETRÔNICO.docx'
     content = d2t.process(name)
     paragraphs = []
     for line in content.splitlines():
-       if len(line) > 15:
-           paragraphs.append(line)
+        if len(line) > 15:
+            paragraphs.append(line)
     Series_paragraph = pd.Series(paragraphs)
     print(Series_paragraph[9])
     if __name__ == '__main__':
@@ -60,7 +64,6 @@ if __name__ == '__main__':
                 doc.append(Series_paragraph[12])
 
         with doc.create(pl.Section('table')):
-            doc.append(gen_table(gen_dataframe()), align='c')
+            doc.append(gen_table(gen_dataframe()) + pl.NewLine())
 
         doc.generate_pdf('RESENHA CRÍTICA RECICLAGEM DE LIXO ELETRÔNICO', clean_tex=False)
-
