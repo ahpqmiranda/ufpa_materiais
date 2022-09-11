@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.9.9)  9 SEP 2022 19:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.9.9)  10 SEP 2022 23:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -429,48 +429,167 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip66
 )
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
-2.
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/pythontex\pythontex.sty
+Package: pythontex 2021/06/06 v0.18 execute and typeset Python code and other l
+anguages
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/fvextra\fvextra.sty
+Package: fvextra 2019/02/04 v1.4 fvextra - extensions and patches for fancyvrb
 
-(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count305
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/fancyvrb\fancyvrb.sty
+Package: fancyvrb 2022/06/06 4.5 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count306
+\FV@InFile=\read3
+\FV@TabBox=\box56
+\c@FancyVerbLine=\count307
+\FV@StepNumber=\count308
+\FV@OutFile=\write3
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/upquote\upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+))
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/lineno\lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count309
+\output=\toks33
+\linenoprevgraf=\count310
+\linenumbersep=\dimen172
+\linenumberwidth=\dimen173
+\c@linenumber=\count311
+\c@pagewiselinenumber=\count312
+\c@LN@truepage=\count313
+\c@internallinenumber=\count314
+\c@internallinenumbers=\count315
+\quotelinenumbersep=\dimen174
+\bframerule=\dimen175
+\bframesep=\dimen176
+\bframebox=\box57
+LaTeX Info: Redefining \\ on input line 3056.
+)
+\c@FV@TrueTabGroupLevel=\count316
+\c@FV@TrueTabCounter=\count317
+\FV@TabBox@Group=\box58
+\FV@TmpLength=\skip67
+\c@FV@HighlightLinesStart=\count318
+\c@FV@HighlightLinesStop=\count319
+\FV@LoopCount=\count320
+\FV@NCharsBox=\box59
+\FV@BreakIndent=\dimen177
+\FV@BreakIndentNChars=\count321
+\FV@BreakSymbolSepLeft=\dimen178
+\FV@BreakSymbolSepLeftNChars=\count322
+\FV@BreakSymbolSepRight=\dimen179
+\FV@BreakSymbolSepRightNChars=\count323
+\FV@BreakSymbolIndentLeft=\dimen180
+\FV@BreakSymbolIndentLeftNChars=\count324
+\FV@BreakSymbolIndentRight=\dimen181
+\FV@BreakSymbolIndentRightNChars=\count325
+\c@FancyVerbLineBreakLast=\count326
+\FV@LineBox=\box60
+\FV@LineIndentBox=\box61
+\FV@LineWidth=\dimen182
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
+\integerpart=\count327
+\decimalpart=\count328
+)
+Package: xstring 2021/07/21 v1.84 String manipulations (CT)
+) (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/pgfopts\pgfopts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks34
+\pgfkeys@temptoks=\toks35
+
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+filtered.code.tex
+\pgfkeys@tmptoks=\toks36
+)))
+\pgfopts@list@add@a@toks=\toks37
+\pgfopts@list@add@b@toks=\toks38
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/newfloat\newfloat.sty
+Package: newfloat 2019/09/02 v1.1l Defining new floating environments (AR)
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/currfile\currfile.sty
+Package: currfile 2020/09/29 v0.7d Provides the file path elements of the curre
+nt input file
+
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/filehook\filehook.sty
+Package: filehook 2020/09/29 v0.8a Hooks for input files
+
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/filehook\filehook-2020.
+sty
+Package: filehook-2020 2020/09/29 v0.8a Hooks for input files
+))
+\c@currfiledepth=\count329
+)
+\pytx@codefile=\write4
+\openout4 = `"doc relatório 1.pytxcode"'.
+
+\c@pytx@FancyVerbLineTemp=\count330
+\c@pytx@py@default@default=\count331
+\c@pytx@pycon@default@default=\count332
+\c@pytx@sympy@default@default=\count333
+\c@pytx@sympycon@default@default=\count334
+\c@pytx@pylab@default@default=\count335
+\c@pytx@pylabcon@default@default=\count336
+)
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
+5.
+ (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 (doc relatório 1.aux)
 \openout1 = `"doc relatório 1.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
 
 (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count305
-\scratchdimen=\dimen172
-\scratchbox=\box56
-\nofMPsegments=\count306
-\nofMParguments=\count307
-\everyMPshowfont=\toks33
-\MPscratchCnt=\count308
-\MPscratchDim=\dimen173
-\MPnumerator=\count309
-\makeMPintoPDFobject=\count310
-\everyMPtoPDFconversion=\toks34
+\scratchcounter=\count337
+\scratchdimen=\dimen183
+\scratchbox=\box62
+\nofMPsegments=\count338
+\nofMParguments=\count339
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count340
+\MPscratchDim=\dimen184
+\MPnumerator=\count341
+\makeMPintoPDFobject=\count342
+\everyMPtoPDFconversion=\toks40
 )
 (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -516,8 +635,8 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@lstlisting=\count311
-Package hyperref Info: Link coloring OFF on input line 22.
+\c@lstlisting=\count343
+Package hyperref Info: Link coloring OFF on input line 25.
 (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2022-05-13 v2.48 Cross-referencing by name of section
 
@@ -528,122 +647,208 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count312
-)
-(C:/Users\alana\PycharmProjects\CALCULONUMERICO\auxil\doc relatório 1.out)
-(C:/Users\alana\PycharmProjects\CALCULONUMERICO\auxil\doc relatório 1.out)
-\@outlinefile=\write3
-\openout3 = `"doc relatório 1.out"'.
+\c@section@level=\count344
+) (doc relatório 1.out) (doc relatório 1.out)
+\@outlinefile=\write5
+\openout5 = `"doc relatório 1.out"'.
 
-<logo_ufpa.png, id=7, 91.323pt x 113.004pt>
+
+No file pythontex-files-doc-relatório-1/doc-relatório-1.pytxmcr.
+Run PythonTeX to create it.
+Package newfloat Info: New float `listing' with options `fileext=lopytx' on inp
+ut line 25.
+\c@listing=\count345
+\newfloat@ftype=\count346
+Package newfloat Info: float type `listing'=8 on input line 25.
+<logo_ufpa.png, id=35, 91.323pt x 113.004pt>
 File: logo_ufpa.png Graphic file (type png)
 <use logo_ufpa.png>
-Package pdftex.def Info: logo_ufpa.png  used on input line 26.
+Package pdftex.def Info: logo_ufpa.png  used on input line 29.
 (pdftex.def)             Requested size: 91.32275pt x 113.00372pt.
 
-Overfull \hbox (5.9645pt too wide) in paragraph at lines 26--26
+Overfull \hbox (5.9645pt too wide) in paragraph at lines 29--29
 [][] 
  []
 
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
-6.
+9.
 (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-26.
+29.
 
 (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-26.
+29.
 
 (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 26.
+(Font)              <10.95> on input line 29.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 26.
+(Font)              <8> on input line 29.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 26.
-
-doc relatório 1.tex:34: Missing { inserted.
-<to be read again> 
-                   \aftergroup 
-l.34 {\Large \textbf \uppercase
-                                {Relatório de Prática 1: Solução de Sulf...
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-doc relatório 1.tex:35: Missing { inserted.
-<to be read again> 
-                   \aftergroup 
-l.35 {\Large \textbf \uppercase
-                                {Prof. Dr. Carlos Antonio Neves}}\\
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-[1
+(Font)              <6> on input line 29.
+ [1
 
 {C:/Users/alana/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./logo_ufpa.
 png>]
-doc relatório 1.tex:43: Missing } inserted.
-<inserted text> 
-                }
-l.43 \end{center}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 6
+3.
 
-doc relatório 1.tex:43: Missing } inserted.
-<inserted text> 
-                }
-l.43 \end{center}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [2]
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
 
-[2] [3] (doc relatório 1.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+ []
 
 
-Package rerunfilecheck Warning: File `"doc relatório 1".out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
 
-Package rerunfilecheck Info: Checksums for `"doc relatório 1".out':
-(rerunfilecheck)             Before: D95F30079BFF4EE979CFBB1174AA80B3;99
-(rerunfilecheck)             After:  F905F1471E29D822301B69A72F09DD82;182.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--138
+
+ []
+
+<03. preparo da balanca.jpeg, id=67, 1204.5pt x 1606.0pt>
+File: 03. preparo da balanca.jpeg Graphic file (type jpg)
+<use 03. preparo da balanca.jpeg>
+Package pdftex.def Info: 03. preparo da balanca.jpeg  used on input line 139.
+(pdftex.def)             Requested size: 240.89574pt x 321.19432pt.
+[4 <./03. preparo da balanca.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+
+ []
+
+<02. massa_utilizada.jpeg, id=73, 963.6pt x 1284.8pt>
+File: 02. massa_utilizada.jpeg Graphic file (type jpg)
+<use 02. massa_utilizada.jpeg>
+Package pdftex.def Info: 02. massa_utilizada.jpeg  used on input line 149.
+(pdftex.def)             Requested size: 240.89941pt x 321.19922pt.
+
+Overfull \hbox (41.73013pt too wide) in paragraph at lines 149--149
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--158
+
+ []
+
+<01. instrumentos utilizados.jpeg, id=74, 963.6pt x 1284.8pt>
+File: 01. instrumentos utilizados.jpeg Graphic file (type jpg)
+<use 01. instrumentos utilizados.jpeg>
+Package pdftex.def Info: 01. instrumentos utilizados.jpeg  used on input line 1
+60.
+(pdftex.def)             Requested size: 192.71658pt x 256.95544pt.
+[5 <./02. massa_utilizada.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 166--170
+
+ []
+
+
+doc relatório 1.tex:172: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.172             \begin{tabular}{1 c}
+                                      
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<05. solubilizacao.jpeg, id=79, 963.6pt x 1284.8pt>
+File: 05. solubilizacao.jpeg Graphic file (type jpg)
+<use 05. solubilizacao.jpeg>
+Package pdftex.def Info: 05. solubilizacao.jpeg  used on input line 173.
+(pdftex.def)             Requested size: 192.71658pt x 256.95544pt.
+<04. preparo do balao.jpeg, id=80, 963.6pt x 1284.8pt>
+File: 04. preparo do balao.jpeg Graphic file (type jpg)
+<use 04. preparo do balao.jpeg>
+Package pdftex.def Info: 04. preparo do balao.jpeg  used on input line 174.
+(pdftex.def)             Requested size: 192.71658pt x 256.95544pt.
+\c@pytx@py@default@default@line=\count347
+
+Package PythonTeX Warning: Missing autoprint content on input line 197.
+
+[6 <./01. instrumentos utilizados.jpeg> <./05. solubilizacao.jpeg> <./04. prepa
+ro do balao.jpeg>]
+
+Package PythonTeX Warning: Missing autoprint content on input line 208.
+
+
+Package PythonTeX Warning: Missing autoprint content on input line 208.
+
+
+Package PythonTeX Warning: Missing autoprint content on input line 208.
+
+
+Package PythonTeX Warning: Missing autoprint content on input line 208.
+
+
+Package PythonTeX Warning: Missing autoprint content on input line 208.
+
+
+Package PythonTeX Warning: Missing autoprint content on input line 208.
+
+
+Package PythonTeX Warning: Missing autoprint content on input line 208.
+
+
+Package PythonTeX Warning: Missing autoprint content on input line 208.
+
+
+Package PythonTeX Warning: Missing autoprint content on input line 208.
+
+
+Package PythonTeX Warning: Missing autoprint content on input line 208.
+
+
+Package PythonTeX Warning: Missing autoprint content on input line 208.
+
+
+Package PythonTeX Warning: Missing autoprint content on input line 208.
+
+[7] (doc relatório 1.aux)
+Package rerunfilecheck Info: File `"doc relatório 1".out' has not changed.
+(rerunfilecheck)             Checksum: B6B836F1572B467FD52E9BAD5B44464D;1397.
  ) 
 Here is how much of TeX's memory you used:
- 12668 strings out of 478614
- 207692 string characters out of 2843123
- 605697 words of memory out of 3000000
- 30621 multiletter control sequences out of 15000+600000
- 494764 words of font info for 51 fonts, out of 8000000 for 9000
+ 16300 strings out of 478614
+ 284568 string characters out of 2843123
+ 710073 words of memory out of 3000000
+ 34150 multiletter control sequences out of 15000+600000
+ 503957 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,7n,77p,281b,517s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{C:/Users/alana/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}<C
-:/Users/alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C
-:/Users/alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:
-/Users/alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb>
+ 76i,13n,81p,487b,462s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/alana/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.en
+c}{C:/Users/alana/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.en
+c}{C:/Users/alana/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C
+:/Users/alana/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}{C
+:/Users/alana/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}<C:/U
+sers/alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/U
+sers/alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/U
+sers/alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/U
+sers/alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/U
+sers/alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Us
+ers/alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Use
+rs/alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/User
+s/alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/
+alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/
+alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb>
 Output written on "C:/Users\alana\PycharmProjects\CALCULONUMERICO\out\doc relat
-ório 1.pdf" (3 pages, 135381 bytes).
+ório 1.pdf" (7 pages, 604070 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
- 10 named destinations out of 1000 (max. 500000)
- 14 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 152 PDF objects out of 1000 (max. 8388607)
+ 27 named destinations out of 1000 (max. 500000)
+ 95 words of extra memory for PDF output out of 10000 (max. 10000000)
 

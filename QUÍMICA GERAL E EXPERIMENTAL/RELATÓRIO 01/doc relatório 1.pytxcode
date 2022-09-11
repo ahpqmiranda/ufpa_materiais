@@ -1,0 +1,78 @@
+=>PYTHONTEX#py#default#default#0#code#####188#
+            from sympy import *
+            import pandas as pd
+
+            mass = 2.521 # [g] CUSO4.5H2O
+            molar_CUSO4 = 249.6850 # [g/mol] CUSO4.5H2O
+            molar_H20 = 18.01528 # [g/mol] H20
+            vol_H20 = 0.1 # [L] H2O
+            rho_H20 = 1000 # [g/L] H20
+
+            def int(theIntegrand,var):
+                var  = symbols(var)
+                anti = integrate(theIntegrand,var)
+                return latex(anti)
+
+            df = pd.Series({
+                'Massa de CUSO4.5H2O [g]': mass,
+                'Massa Molar de CUSO4.5H2O [g/mol]': molar_CUSO4,
+                'Volume de Solvente (H20) [L]': vol_H20,
+                'Mols de CUSO4.5H2O [mols]': mass/molar_CUSO4,
+                'Mols de H20 [mols]': vol_H20 * rho_H20 / molar_H20
+            })
+            df = df.to_frame()
+
+
+
+
+=>PYTHONTEX#py#default#default#1#i#####216#
+int("1/(1+x)**(1/2)","x")
+=>PYTHONTEX#py#default#default#2#i#####227#
+int("1/(1+x)**(1/2)","x")
+=>PYTHONTEX#py#default#default#3#i#####227#
+int("sin(x)","x")
+=>PYTHONTEX#py#default#default#4#i#####227#
+int("x*sin(x)","x")
+=>PYTHONTEX#py#default#default#5#i#####227#
+int("x**2 * sin(x)","x")
+=>PYTHONTEX#py#default#default#6#i#####227#
+int("x*exp(2*x)","x")
+=>PYTHONTEX#py#default#default#7#i#####227#
+int("1/(1+u)","u")
+=>PYTHONTEX#py#default#default#2#i#####227#
+int("1/(1+x)**(1/2)","x")
+=>PYTHONTEX#py#default#default#3#i#####227#
+int("sin(x)","x")
+=>PYTHONTEX#py#default#default#4#i#####227#
+int("x*sin(x)","x")
+=>PYTHONTEX#py#default#default#5#i#####227#
+int("x**2 * sin(x)","x")
+=>PYTHONTEX#py#default#default#6#i#####227#
+int("x*exp(2*x)","x")
+=>PYTHONTEX#py#default#default#7#i#####227#
+int("1/(1+u)","u")
+=>PYTHONTEX:SETTINGS#
+version=0.18
+outputdir=pythontex-files-doc-relatório-1
+workingdir=.
+workingdirset=false
+gobble=none
+rerun=default
+hashdependencies=default
+makestderr=false
+stderrfilename=full
+keeptemps=none
+pyfuture=default
+pyconfuture=none
+pygments=true
+pygglobal=:GLOBAL||
+fvextfile=-1
+pyconbanner=none
+pyconfilename=stdin
+depythontex=false
+pygfamily=py|python3|
+pygfamily=pycon|pycon|
+pygfamily=sympy|python3|
+pygfamily=sympycon|pycon|
+pygfamily=pylab|python3|
+pygfamily=pylabcon|pycon|
