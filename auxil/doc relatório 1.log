@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.9.9)  10 SEP 2022 23:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.9.9)  11 SEP 2022 21:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -549,47 +549,571 @@ Package: filehook-2020 2020/09/29 v0.8a Hooks for input files
 \c@pytx@pylab@default@default=\count335
 \c@pytx@pylabcon@default@default=\count336
 )
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/chemfig\chemfig.sty
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks39
+\pgfutil@tempdima=\dimen183
+\pgfutil@tempdimb=\dimen184
+
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common-lists.tex))
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box62
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex)
+\pgf@x=\dimen185
+\pgf@y=\dimen186
+\pgf@xa=\dimen187
+\pgf@ya=\dimen188
+\pgf@xb=\dimen189
+\pgf@yb=\dimen190
+\pgf@xc=\dimen191
+\pgf@yc=\dimen192
+\pgf@xd=\dimen193
+\pgf@yd=\dimen194
+\w@pgf@writea=\write5
+\r@pgf@reada=\read4
+\c@pgf@counta=\count337
+\c@pgf@countb=\count338
+\c@pgf@countc=\count339
+\c@pgf@countd=\count340
+\t@pgf@toka=\toks40
+\t@pgf@tokb=\toks41
+\t@pgf@tokc=\toks42
+\pgf@sys@id@count=\count341
+
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count342
+\pgfsyssoftpath@bigbuffer@items=\count343
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+LaTeX Info: Redefining \color on input line 711.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
+\pgfmath@dimen=\dimen195
+\pgfmath@count=\count344
+\pgfmath@box=\box63
+\pgfmath@toks=\toks43
+\pgfmath@stack@operand=\toks44
+\pgfmath@stack@operation=\toks45
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)))
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
+\c@pgfmathroundto@lastzeros=\count345
+))
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen196
+\pgf@picmaxx=\dimen197
+\pgf@picminy=\dimen198
+\pgf@picmaxy=\dimen199
+\pgf@pathminx=\dimen256
+\pgf@pathmaxx=\dimen257
+\pgf@pathminy=\dimen258
+\pgf@pathmaxy=\dimen259
+\pgf@xx=\dimen260
+\pgf@xy=\dimen261
+\pgf@yx=\dimen262
+\pgf@yy=\dimen263
+\pgf@zx=\dimen264
+\pgf@zy=\dimen265
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen266
+\pgf@path@lasty=\dimen267
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen268
+\pgf@shorten@start@additional=\dimen269
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box64
+\pgf@hbox=\box65
+\pgf@layerbox@main=\box66
+\pgf@picture@serial@count=\count346
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen270
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen271
+\pgf@pt@y=\dimen272
+\pgf@pt@temp=\dimen273
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen274
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen275
+\pgf@sys@shading@range@num=\count347
+\pgf@shadingcount=\count348
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box67
+))
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box68
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen276
+\pgf@nodesepend=\dimen277
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex)
+\pgffor@iter=\dimen278
+\pgffor@skip=\dimen279
+\pgffor@stack=\toks46
+\pgffor@toks=\toks47
+))
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count349
+\pgfplotmarksize=\dimen280
+)
+\tikz@lastx=\dimen281
+\tikz@lasty=\dimen282
+\tikz@lastxsaved=\dimen283
+\tikz@lastysaved=\dimen284
+\tikz@lastmovetox=\dimen285
+\tikz@lastmovetoy=\dimen286
+\tikzleveldistance=\dimen287
+\tikzsiblingdistance=\dimen288
+\tikz@figbox=\box69
+\tikz@figbox@bg=\box70
+\tikz@tempbox=\box71
+\tikz@tempbox@bg=\box72
+\tikztreelevel=\count350
+\tikznumberofchildren=\count351
+\tikznumberofcurrentchild=\count352
+\tikz@fig@count=\count353
+
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count354
+\pgfmatrixcurrentcolumn=\count355
+\pgf@matrix@numberofcolumns=\count356
+)
+\tikz@expandcount=\count357
+
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/chemfig\chemfig.tex
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/simplekv\simplekv.tex
+Package: simplekv 2020/04/27 v0.2 Simple keyval package (CT)
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowinset=\dimen289
+\pgfarrowlength=\dimen290
+\pgfarrowwidth=\dimen291
+\pgfarrowlinewidth=\dimen292
+)
+\CF_cntatomgroup=\count358
+\CF_cntgroup=\count359
+\CF_cntatom=\count360
+\CF_cntcycle=\count361
+\CF_cntcyclebonds=\count362
+\CF_cntcompound=\count363
+\CF_dim=\dimen293
+\CF_arrowsize=\dimen294
+\CF_zero=\dimen295
+\CF_box=\box73
+\CF_boxstuff=\box74
+\CF_testbox=\box75
+\CF_chargebox=\box76
+\CF_substtoks=\toks48
+)
+Package: chemfig 2021/08/01 v1.6b Draw molecule with an easy syntax (CT)
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/xymtex\xymtex.sty
+Package `xymtex' (ver5.01) <March 10, 2013> [SF]
+xymtex.sty ver5.01 (for LaTeX2e) 2013/03/10[SF]
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/eepic\epic.sty
+Enhancements to Picture Environment. Version 1.2 - Released June 1, 1986
+\@@multicnt=\count364
+\d@lta=\count365
+\@delta=\dimen296
+\@@delta=\dimen297
+\@gridcnt=\count366
+\@joinkind=\count367
+\@dotgap=\dimen298
+\@ddotgap=\dimen299
+\@x@diff=\count368
+\@y@diff=\count369
+\x@diff=\dimen300
+\y@diff=\dimen301
+\@dotbox=\box77
+\num@segments=\count370
+\num@segmentsi=\count371
+\@datafile=\read5
+) (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/xymtex\chemstr.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released June 19, 2013 by Shinsaku Fujita
+XyMTeX Macro File `chemstr' (ver5.01) <June 19, 2013> [SF]
+\@tempcntXa=\count372
+\@tempcntYa=\count373
+\@tempcntz=\count374
+\@tempcntXb=\count375
+\@tempcntYb=\count376
+\@tempcntzz=\count377
+\@tempcntXc=\count378
+\@tempcntYc=\count379
+\@tempcntzzz=\count380
+\@tempcntXd=\count381
+\@tempcntYd=\count382
+\@tempcntzzzz=\count383
+\@dimtempa=\dimen302
+\@tempdimd=\dimen303
+\@tempdime=\dimen304
+\@cnttempa=\count384
+\@cnttempb=\count385
+\noshift=\count386
+\shifti=\count387
+\shiftii=\count388
+\shiftiii=\count389
+\@tmpaa=\count390
+\yl@xdiff=\count391
+\yl@ydiff=\count392
+\yl@shiftii=\count393
+\yl@shifti=\count394
+\x@ryl=\count395
+\y@ryl=\count396
+) (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/xymtex\carom.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
+ -- Released October 01, 2010 by Shinsaku Fujita
+XyMTeX Macro File `carom' (ver5.00) <October 01, 2010> [SF]
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/xymtex\hetarom.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released March 19, 2013 by Shinsaku Fujita
+XyMTeX Macro File `hetarom' (ver5.01) <March 19, 2013> [SF]
+) (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/xymtex\hetaromh.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released March 19, 2013 by Shinsaku Fujita
+XyMTeX Macro File `hetaromh' (ver5.01) <March 19, 2013> [SF]
+)) (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/xymtex\hetarom.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released March 19, 2013 by Shinsaku Fujita
+XyMTeX Macro File `hetarom' (ver5.01) <March 19, 2013> [SF]
+) (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/xymtex\hetaromh.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released March 19, 2013 by Shinsaku Fujita
+XyMTeX Macro File `hetaromh' (ver5.01) <March 19, 2013> [SF]
+) (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/xymtex\lowcycle.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
+ -- Released October 01, 2010 by Shinsaku Fujita
+XyMTeX Macro File `lowcycle' (ver5.00) <October 01, 2010> [SF]
+) (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/xymtex\ccycle.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released July 23, 2013 by Shinsaku Fujita
+XyMTeX Macro File `ccycle' (ver5.01) <July 23, 2013> [SF]
+) (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/xymtex\hcycle.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released June 25, 2013 by Shinsaku Fujita
+XyMTeX Macro File `hcycle' (ver5.01) <June 25, 2013> [SF]
+) (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/xymtex\aliphat.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released July 20, 2013 by Shinsaku Fujita
+XyMTeX Macro File `aliphat' (ver5.01) <July 20, 2013> [SF]
+) (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/xymtex\locant.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
+ -- Released October 01, 2010 by Shinsaku Fujita
+XyMTeX Macro File `locant' (ver4.00) <October 01, 2010> [SF]
+) (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/xymtex\polymers.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
+ -- Released October 01, 2010 by Shinsaku Fujita
+XyMTeX Macro File `polymers' (ver5.00) <October 01, 2010> [SF]
+) (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/xymtex\methylen.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released July 20, 2013 by Shinsaku Fujita
+XyMTeX Macro File `methylen' (ver5.01) <July 20, 2013> [SF]
+\test@termcnt=\count397
+) (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/xymtex\fusering.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
+ -- Released October 01, 2010 by Shinsaku Fujita
+XyMTeX Macro File `fusering' (ver5.00) <October 01, 2010> [SF]
+) (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/xymtex\sizeredc.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
+ -- Released October 01, 2010 by Shinsaku Fujita
+XyMTeX Macro File `sizeredc' (ver5.00) <October 01, 2010> [SF]
+\@tempcntx=\count398
+\@tempcnty=\count399
+\@tempcntz=\count400
+\@xArg=\count401
+\@yArg=\count402
+) (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/xymtex\steroid.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
+ -- Released October 01, 2010 by Shinsaku Fujita
+XyMTeX Macro File `steroid' (ver5.00) <October 01, 2010> [SF]
+) (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/xymtex\lewisstruc.sty
+Part of XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released August 02, 2013 by Shinsaku Fujita
+XyMTeX Macro File `lewisstruc' (ver5.01) <August 02, 2013> [SF]
+) (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/xymtex\bondcolor.sty
+Part of XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
+ -- Released October 01, 2010 by Shinsaku Fujita
+XyMTeX Macro File `bondcolor' (ver5.00) <October 01, 2010> [SF]
+)
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/xymtex\assurelatexmode.
+sty
+Part of XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released May 27, 2013 by Shinsaku Fujita
+XyMTeX Macro File `assurelatexmode' (ver5.01) <May 27, 2013> [SF]
+) (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/xymtex\chemist.sty
+Package `chemist' (ver5.01) <June 6, 2013> [SF]
+chemist.sty ver5.01 (for LaTeX2e) 2013/06/06[SF]
+\c@compd=\count403
+\c@deriv=\count404
+\reactarrowsep=\dimen305
+\verbatimleftmargin=\dimen306
+\verbatimbaselineskip=\dimen307
+\hsgr@d=\dimen308
+\vsgr@d=\dimen309
+\vwgr@d=\dimen310
+\hwgr@d=\dimen311
+\vsepgr@d=\dimen312
+\hsepgr@d=\dimen313
+\nrep=\count405
+\nrepmax=\count406
+\ybaselineshift=\dimen314
+\tbaselineshift=\dimen315
+\@savetbaselineshift=\dimen316
+LaTeX Info: Redefining \rm on input line 788.
+LaTeX Info: Redefining \mathversion on input line 892.
+\c@mv@chem=\count407
+LaTeX Font Info:    Encoding `OML' has changed to `OT1' for symbol font
+(Font)              `letters' in the math version `chem' on input line 965.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `chem'
+(Font)                  OML/cmm/m/it --> OT1/cmr/m/n on input line 965.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `chem'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/m/n on input line 965.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `chem'
+(Font)                  OMS/cmsy/m/n --> OMS/cmsy/m/n on input line 965.
+\c@mv@boldchem=\count408
+LaTeX Font Info:    Overwriting symbol font `operators' in version `boldchem'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 965.
+LaTeX Font Info:    Encoding `OML' has changed to `OT1' for symbol font
+(Font)              `letters' in the math version `boldchem' on input line 965.
+
+LaTeX Font Info:    Overwriting symbol font `letters' in version `boldchem'
+(Font)                  OML/cmm/m/it --> OT1/cmr/b/n on input line 965.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `boldchem'
+(Font)                  OMS/cmsy/m/n --> OMS/cmsy/b/n on input line 965.
+\TestCount=\count409
+
+(C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/xymtex\assurechemist.st
+y
+Part of XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
+ -- Released October 01, 2010 by Shinsaku Fujita
+XyMTeX Macro File `assurechemist' (ver5.00) <October 01, 2010> [SF]
+)))
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
-5.
+7.
  (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 (doc relatório 1.aux)
 \openout1 = `"doc relatório 1.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
 
 (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count337
-\scratchdimen=\dimen183
-\scratchbox=\box62
-\nofMPsegments=\count338
-\nofMParguments=\count339
-\everyMPshowfont=\toks39
-\MPscratchCnt=\count340
-\MPscratchDim=\dimen184
-\MPnumerator=\count341
-\makeMPintoPDFobject=\count342
-\everyMPtoPDFconversion=\toks40
+\scratchcounter=\count410
+\scratchdimen=\dimen317
+\scratchbox=\box78
+\nofMPsegments=\count411
+\nofMParguments=\count412
+\everyMPshowfont=\toks49
+\MPscratchCnt=\count413
+\MPscratchDim=\dimen318
+\MPnumerator=\count414
+\makeMPintoPDFobject=\count415
+\everyMPtoPDFconversion=\toks50
 )
 (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -635,8 +1159,8 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@lstlisting=\count343
-Package hyperref Info: Link coloring OFF on input line 25.
+\c@lstlisting=\count416
+Package hyperref Info: Link coloring OFF on input line 27.
 (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2022-05-13 v2.48 Cross-referencing by name of section
 
@@ -647,208 +1171,434 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count344
+\c@section@level=\count417
 ) (doc relatório 1.out) (doc relatório 1.out)
-\@outlinefile=\write5
-\openout5 = `"doc relatório 1.out"'.
+\@outlinefile=\write6
+\openout6 = `"doc relatório 1.out"'.
 
 
 No file pythontex-files-doc-relatório-1/doc-relatório-1.pytxmcr.
 Run PythonTeX to create it.
 Package newfloat Info: New float `listing' with options `fileext=lopytx' on inp
-ut line 25.
-\c@listing=\count345
-\newfloat@ftype=\count346
-Package newfloat Info: float type `listing'=8 on input line 25.
-<logo_ufpa.png, id=35, 91.323pt x 113.004pt>
+ut line 27.
+\c@listing=\count418
+\newfloat@ftype=\count419
+Package newfloat Info: float type `listing'=8 on input line 27.
+<logo_ufpa.png, id=6, 91.323pt x 113.004pt>
 File: logo_ufpa.png Graphic file (type png)
 <use logo_ufpa.png>
-Package pdftex.def Info: logo_ufpa.png  used on input line 29.
+Package pdftex.def Info: logo_ufpa.png  used on input line 31.
 (pdftex.def)             Requested size: 91.32275pt x 113.00372pt.
 
-Overfull \hbox (5.9645pt too wide) in paragraph at lines 29--29
+Overfull \hbox (5.9645pt too wide) in paragraph at lines 31--31
 [][] 
  []
 
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
-9.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3
+1.
 (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-29.
+31.
 
 (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-29.
+31.
 
 (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 29.
+(Font)              <10.95> on input line 31.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 29.
+(Font)              <8> on input line 31.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 29.
+(Font)              <6> on input line 31.
  [1
 
 {C:/Users/alana/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./logo_ufpa.
 png>]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 6
-3.
+5.
 
 (C:\Users\alana\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [2]
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 128--129
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--135
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--138
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
 
  []
 
-<03. preparo da balanca.jpeg, id=67, 1204.5pt x 1606.0pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--151
+
+ []
+
+<03. preparo da balanca.jpeg, id=45, 1204.5pt x 1606.0pt>
 File: 03. preparo da balanca.jpeg Graphic file (type jpg)
 <use 03. preparo da balanca.jpeg>
-Package pdftex.def Info: 03. preparo da balanca.jpeg  used on input line 139.
+Package pdftex.def Info: 03. preparo da balanca.jpeg  used on input line 152.
 (pdftex.def)             Requested size: 240.89574pt x 321.19432pt.
-[4 <./03. preparo da balanca.jpeg>]
-Underfull \hbox (badness 10000) in paragraph at lines 146--147
+[4] [5 <./03. preparo da balanca.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
 
  []
 
-<02. massa_utilizada.jpeg, id=73, 963.6pt x 1284.8pt>
+<02. massa_utilizada.jpeg, id=58, 963.6pt x 1284.8pt>
 File: 02. massa_utilizada.jpeg Graphic file (type jpg)
 <use 02. massa_utilizada.jpeg>
-Package pdftex.def Info: 02. massa_utilizada.jpeg  used on input line 149.
-(pdftex.def)             Requested size: 240.89941pt x 321.19922pt.
+Package pdftex.def Info: 02. massa_utilizada.jpeg  used on input line 162.
+(pdftex.def)             Requested size: 192.71658pt x 256.95544pt.
 
-Overfull \hbox (41.73013pt too wide) in paragraph at lines 149--149
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 155--158
+Underfull \hbox (badness 10000) in paragraph at lines 168--171
 
  []
 
-<01. instrumentos utilizados.jpeg, id=74, 963.6pt x 1284.8pt>
+<01. instrumentos utilizados.jpeg, id=59, 963.6pt x 1284.8pt>
 File: 01. instrumentos utilizados.jpeg Graphic file (type jpg)
 <use 01. instrumentos utilizados.jpeg>
 Package pdftex.def Info: 01. instrumentos utilizados.jpeg  used on input line 1
-60.
+73.
 (pdftex.def)             Requested size: 192.71658pt x 256.95544pt.
-[5 <./02. massa_utilizada.jpeg>]
-Underfull \hbox (badness 10000) in paragraph at lines 166--170
+[6 <./02. massa_utilizada.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 179--183
 
  []
 
+<05. solubilizacao.jpeg, id=64, 963.6pt x 1284.8pt>
+File: 05. solubilizacao.jpeg Graphic file (type jpg)
+<use 05. solubilizacao.jpeg>
+Package pdftex.def Info: 05. solubilizacao.jpeg  used on input line 186.
+(pdftex.def)             Requested size: 192.71658pt x 256.95544pt.
+<04. preparo do balao.jpeg, id=65, 963.6pt x 1284.8pt>
+File: 04. preparo do balao.jpeg Graphic file (type jpg)
+<use 04. preparo do balao.jpeg>
+Package pdftex.def Info: 04. preparo do balao.jpeg  used on input line 187.
+(pdftex.def)             Requested size: 192.71658pt x 256.95544pt.
 
-doc relatório 1.tex:172: LaTeX Error: Illegal character in array arg.
+Overfull \hbox (45.30023pt too wide) in paragraph at lines 185--192
+ [] 
+ []
+
+[7 <./01. instrumentos utilizados.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 195--200
+
+ []
+
+<06. solucao_finalizada.jpeg, id=71, 963.6pt x 1284.8pt>
+File: 06. solucao_finalizada.jpeg Graphic file (type jpg)
+<use 06. solucao_finalizada.jpeg>
+Package pdftex.def Info: 06. solucao_finalizada.jpeg  used on input line 202.
+(pdftex.def)             Requested size: 192.71658pt x 256.95544pt.
+[8 <./05. solubilizacao.jpeg> <./04. preparo do balao.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 207--209
+
+ []
+
+<10; solucao finalizada.png, id=76, 963.6pt x 1284.8pt>
+File: 10; solucao finalizada.png Graphic file (type png)
+<use 10; solucao finalizada.png>
+Package pdftex.def Info: 10; solucao finalizada.png  used on input line 210.
+(pdftex.def)             Requested size: 192.71658pt x 256.95544pt.
+
+LaTeX Warning: Reference `eq:equacao_concentracao' on page 9 undefined on input
+ line 217.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--226
+
+ []
+
+[9 <./06. solucao_finalizada.jpeg> <./10; solucao finalizada.png (PNG copy)>]
+doc relatório 1.tex:229: Missing $ inserted.
+<inserted text> 
+                $
+l.229 ...rt CUSO_4.5H_2O(s)+H_2O(l)  \arrow{->}  C
+                                                  u^{2+}(aq)+S0_4^{2-}(aq)\s...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+doc relatório 1.tex:229: Extra }, or forgotten $.
+<argument> ...odestyle ](\CF_temp ){\CF_compound }
+                                                  ;\ifboolKV [chemfig]{schem...
+l.229 ...rt CUSO_4.5H_2O(s)+H_2O(l)  \arrow{->}  C
+                                                  u^{2+}(aq)+S0_4^{2-}(aq)\s...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+doc relatório 1.tex:229: Undefined control sequence.
+\CF_arrowf ...tarrowlength \CF_arrowlength }\node 
+                                                  [at=(\CF_currentnodename ....
+l.229 ...rt CUSO_4.5H_2O(s)+H_2O(l)  \arrow{->}  C
+                                                  u^{2+}(aq)+S0_4^{2-}(aq)\s...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+doc relatório 1.tex:229: Undefined control sequence.
+<argument> \node 
+                 [at=(\CF_currentnodename .\CF_ifempty {}\CF_arrowcurrentang...
+l.229 ...rt CUSO_4.5H_2O(s)+H_2O(l)  \arrow{->}  C
+                                                  u^{2+}(aq)+S0_4^{2-}(aq)\s...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+doc relatório 1.tex:229: Undefined control sequence.
+<argument> ...arrowoffset )](start@arrow){};\node 
+                                                  [at=(\CF_currentnodename ....
+l.229 ...rt CUSO_4.5H_2O(s)+H_2O(l)  \arrow{->}  C
+                                                  u^{2+}(aq)+S0_4^{2-}(aq)\s...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+doc relatório 1.tex:229: Undefined control sequence.
+<argument> \draw 
+                 [
+l.229 ...rt CUSO_4.5H_2O(s)+H_2O(l)  \arrow{->}  C
+                                                  u^{2+}(aq)+S0_4^{2-}(aq)\s...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+doc relatório 1.tex:229: Undefined control sequence.
+<argument> \node 
+                 [
+l.229 ...->}  Cu^{2+}(aq)+S0_4^{2-}(aq)\schemestop
+                                                  \par
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+doc relatório 1.tex:229: Undefined control sequence.
+\endtikzpicture ...r@layerlist@globally \endscope 
+                                                  \let \pgf@baseline =\pgf@s...
+l.229 ...->}  Cu^{2+}(aq)+S0_4^{2-}(aq)\schemestop
+                                                  \par
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+doc relatório 1.tex:229: Missing $ inserted.
+<inserted text> 
+                $
+l.229 ...->}  Cu^{2+}(aq)+S0_4^{2-}(aq)\schemestop
+                                                  \par
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+doc relatório 1.tex:229: Missing } inserted.
+<inserted text> 
+                }
+l.229 ...->}  Cu^{2+}(aq)+S0_4^{2-}(aq)\schemestop
+                                                  \par
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+doc relatório 1.tex:229: Package tikz Error: Giving up on this path. Did you f
+orget a semicolon?.
+
+See the tikz package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.229 ...->}  Cu^{2+}(aq)+S0_4^{2-}(aq)\schemestop
+                                                  \par
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+doc relatório 1.tex:229: Extra }, or forgotten \endgroup.
+\endpgfpicture ...globally \endgroup \hss \egroup 
+                                                  \pgf@restore@layerlist@fro...
+l.229 ...->}  Cu^{2+}(aq)+S0_4^{2-}(aq)\schemestop
+                                                  \par
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+doc relatório 1.tex:229: Extra }, or forgotten \endgroup.
+\endpgfpicture ...dpicture \endgroup \hss \egroup 
+                                                  \pgfsys@typesetpicturebox ...
+l.229 ...->}  Cu^{2+}(aq)+S0_4^{2-}(aq)\schemestop
+                                                  \par
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+doc relatório 1.tex:231: LaTeX Error: Something's wrong--perhaps a missing \it
+em.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.172             \begin{tabular}{1 c}
-                                      
-You're in trouble here.  Try typing  <return>  to proceed.
+l.231 \section
+              {Conclusão}\label{sec:conclusão}
+Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<05. solubilizacao.jpeg, id=79, 963.6pt x 1284.8pt>
-File: 05. solubilizacao.jpeg Graphic file (type jpg)
-<use 05. solubilizacao.jpeg>
-Package pdftex.def Info: 05. solubilizacao.jpeg  used on input line 173.
-(pdftex.def)             Requested size: 192.71658pt x 256.95544pt.
-<04. preparo do balao.jpeg, id=80, 963.6pt x 1284.8pt>
-File: 04. preparo do balao.jpeg Graphic file (type jpg)
-<use 04. preparo do balao.jpeg>
-Package pdftex.def Info: 04. preparo do balao.jpeg  used on input line 174.
-(pdftex.def)             Requested size: 192.71658pt x 256.95544pt.
-\c@pytx@py@default@default@line=\count347
 
-Package PythonTeX Warning: Missing autoprint content on input line 197.
+doc relatório 1.tex:231: LaTeX Error: Something's wrong--perhaps a missing \it
+em.
 
-[6 <./01. instrumentos utilizados.jpeg> <./05. solubilizacao.jpeg> <./04. prepa
-ro do balao.jpeg>]
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.231 \section
+              {Conclusão}\label{sec:conclusão}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-Package PythonTeX Warning: Missing autoprint content on input line 208.
+doc relatório 1.tex:237: Improper \prevdepth.
+\newpage ...everypar {}\fi \par \ifdim \prevdepth 
+                                                  >\z@ \vskip -\ifdim \prevd...
+l.237 \end{document}
+                    
+You can refer to \spacefactor only in horizontal mode;
+you can refer to \prevdepth only in vertical mode; and
+neither of these is meaningful inside \write. So
+I'm forgetting what you said and using zero instead.
+
+doc relatório 1.tex:237: Missing } inserted.
+<inserted text> 
+                }
+l.237 \end{document}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+doc relatório 1.tex:237: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.237 \end{document}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+doc relatório 1.tex:237: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.237 \end{document}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+doc relatório 1.tex:237: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.237 \end{document}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+doc relatório 1.tex:237: Missing } inserted.
+<inserted text> 
+                }
+l.237 \end{document}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
 
-Package PythonTeX Warning: Missing autoprint content on input line 208.
+Underfull \hbox (badness 10000) in paragraph at lines 228--237
 
+ []
 
-Package PythonTeX Warning: Missing autoprint content on input line 208.
+[10] (doc relatório 1.aux)
 
+LaTeX Warning: There were undefined references.
 
-Package PythonTeX Warning: Missing autoprint content on input line 208.
-
-
-Package PythonTeX Warning: Missing autoprint content on input line 208.
-
-
-Package PythonTeX Warning: Missing autoprint content on input line 208.
-
-
-Package PythonTeX Warning: Missing autoprint content on input line 208.
-
-
-Package PythonTeX Warning: Missing autoprint content on input line 208.
-
-
-Package PythonTeX Warning: Missing autoprint content on input line 208.
-
-
-Package PythonTeX Warning: Missing autoprint content on input line 208.
-
-
-Package PythonTeX Warning: Missing autoprint content on input line 208.
-
-
-Package PythonTeX Warning: Missing autoprint content on input line 208.
-
-[7] (doc relatório 1.aux)
 Package rerunfilecheck Info: File `"doc relatório 1".out' has not changed.
-(rerunfilecheck)             Checksum: B6B836F1572B467FD52E9BAD5B44464D;1397.
- ) 
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ )
+(\end occurred inside a group at level 3)
+
+### semi simple group (level 3) entered at line 229 (\begingroup)
+### semi simple group (level 2) entered at line 229 (\begingroup)
+### semi simple group (level 1) entered at line 229 (\begingroup)
+### bottom level 
 Here is how much of TeX's memory you used:
- 16300 strings out of 478614
- 284568 string characters out of 2843123
- 710073 words of memory out of 3000000
- 34150 multiletter control sequences out of 15000+600000
- 503957 words of font info for 55 fonts, out of 8000000 for 9000
+ 30146 strings out of 478614
+ 563142 string characters out of 2843123
+ 1178353 words of memory out of 3000000
+ 47705 multiletter control sequences out of 15000+600000
+ 498075 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 76i,13n,81p,487b,462s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{C:/Users/alana/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.en
-c}{C:/Users/alana/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.en
-c}{C:/Users/alana/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C
-:/Users/alana/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}{C
-:/Users/alana/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}<C:/U
-sers/alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/U
-sers/alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/U
-sers/alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/U
-sers/alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/U
-sers/alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Us
-ers/alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Use
-rs/alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/User
-s/alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/
-alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/
-alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb>
+ 100i,13n,103p,437b,633s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/alana/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/l
+m/lm-rm.enc}{C:/Users/alana/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm
+-mathit.enc}{C:/Users/alana/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm
+-ts1.enc}<C:/Users/alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lm
+bx10.pfb><C:/Users/alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lm
+bx12.pfb><C:/Users/alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lm
+mi10.pfb><C:/Users/alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lm
+mi8.pfb><C:/Users/alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr
+10.pfb><C:/Users/alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr1
+2.pfb><C:/Users/alana/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.
+pfb>
 Output written on "C:/Users\alana\PycharmProjects\CALCULONUMERICO\out\doc relat
-ório 1.pdf" (7 pages, 604070 bytes).
+ório 1.pdf" (10 pages, 1593277 bytes).
 PDF statistics:
- 152 PDF objects out of 1000 (max. 8388607)
- 27 named destinations out of 1000 (max. 500000)
- 95 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 131 PDF objects out of 1000 (max. 8388607)
+ 33 named destinations out of 1000 (max. 500000)
+ 53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
