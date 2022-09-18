@@ -7,7 +7,7 @@ import os
 
 if __name__ == '__main__':
     image_filename = os.path.join(os.path.dirname(__file__),
-                                  '../QUÍMICA GERAL E EXPERIMENTAL/RELATÓRIO 01/logo_ufpa.png')
+                                  '../Química Experimental/RELATÓRIO 01/logo_ufpa.png')
 
     geometry_options = {"tmargin": "1cm", "lmargin": "1cm", "bmargin": "1cm", "rmargin": "1cm"}
     doc = Document(geometry_options=geometry_options)
