@@ -1,0 +1,9 @@
+\begin{thebibliography}{1}
+
+\bibitem{atalho}
+Autor.
+\newblock {\em Nome do livro}, volume volume of {\em serie}.
+\newblock Editora, Endereço, edição edition, mês ano.
+\newblock Anotação.
+
+\end{thebibliography}

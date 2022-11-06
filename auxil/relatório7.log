@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.11.5)  5 NOV 2022 20:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.11.5)  5 NOV 2022 22:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -205,51 +205,41 @@ File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
 
-(/usr/local/share/miktex-texmf/tex/latex/base/fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-)
-(/home/alanmiranda/.miktex/texmfs/install/tex/latex/natbib/natbib.sty
-Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip52
-\bibsep=\skip53
-LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count284
-)
 (/usr/local/share/miktex-texmf/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count285
+\l__color_backend_stack_int=\count284
 \l__pdf_internal_box=\box55
 )
 (relatório7.aux)
 \openout1 = `relatório7.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
 
 (/usr/local/share/miktex-texmf/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count286
+\scratchcounter=\count285
 \scratchdimen=\dimen165
 \scratchbox=\box56
-\nofMPsegments=\count287
-\nofMParguments=\count288
+\nofMPsegments=\count286
+\nofMParguments=\count287
 \everyMPshowfont=\toks24
-\MPscratchCnt=\count289
+\MPscratchCnt=\count288
 \MPscratchDim=\dimen166
-\MPnumerator=\count290
-\makeMPintoPDFobject=\count291
+\MPnumerator=\count289
+\makeMPintoPDFobject=\count290
 \everyMPtoPDFconversion=\toks25
 ) (/usr/local/share/miktex-texmf/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -293,14 +283,14 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@lstlisting=\count292
+\c@lstlisting=\count291
 <pictures/logo_ufpa.png, id=1, 91.323pt x 113.004pt>
 File: pictures/logo_ufpa.png Graphic file (type png)
 <use pictures/logo_ufpa.png>
-Package pdftex.def Info: pictures/logo_ufpa.png  used on input line 22.
+Package pdftex.def Info: pictures/logo_ufpa.png  used on input line 20.
 (pdftex.def)             Requested size: 91.32275pt x 113.00372pt.
 
-Overfull \hbox (5.9645pt too wide) in paragraph at lines 22--22
+Overfull \hbox (5.9645pt too wide) in paragraph at lines 20--20
 [][] 
  []
 
@@ -308,40 +298,48 @@ Overfull \hbox (5.9645pt too wide) in paragraph at lines 22--22
 
 {/home/alanmiranda/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map} <./pictures
 /logo_ufpa.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 58--93
+Underfull \hbox (badness 10000) in paragraph at lines 56--91
 
  []
 
 [2]
-<pictures/bancada.jpeg, id=18, 1606.0pt x 1204.5pt>
+<pictures/bancada.jpeg, id=17, 1606.0pt x 1204.5pt>
 File: pictures/bancada.jpeg Graphic file (type jpg)
 <use pictures/bancada.jpeg>
-Package pdftex.def Info: pictures/bancada.jpeg  used on input line 97.
+Package pdftex.def Info: pictures/bancada.jpeg  used on input line 95.
 (pdftex.def)             Requested size: 401.49902pt x 301.12427pt.
 
-No file relatório7.bbl.
-[3 <./pictures/bancada.jpeg>] (relatório7.aux) ) 
+Underfull \hbox (badness 10000) in paragraph at lines 92--98
+
+ []
+
+[3 <./pictures/bancada.jpeg>]
+<pictures/tubos.jpeg, id=21, 1606.0pt x 1204.5pt>
+File: pictures/tubos.jpeg Graphic file (type jpg)
+<use pictures/tubos.jpeg>
+Package pdftex.def Info: pictures/tubos.jpeg  used on input line 118.
+(pdftex.def)             Requested size: 401.49902pt x 301.12427pt.
+ (relatório7.bbl [4 <./pictures/tubos.jpeg>])
+[5] (relatório7.aux) ) 
 Here is how much of TeX's memory you used:
- 5653 strings out of 477315
- 87477 string characters out of 2828844
- 451947 words of memory out of 3000000
- 26744 multiletter control sequences out of 15000+600000
- 477648 words of font info for 47 fonts, out of 8000000 for 9000
+ 5110 strings out of 477315
+ 81546 string characters out of 2828844
+ 447954 words of memory out of 3000000
+ 26207 multiletter control sequences out of 15000+600000
+ 474877 words of font info for 47 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
  55i,10n,62p,928b,263s stack positions out of 10000i,1000n,20000p,200000b,80000s
- </home/alanmiranda/.miktex/te
-xmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1095.pk> </home/alanmiranda/.m
-iktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </home/alanmi
-randa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk> </hom
-e/alanmiranda/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1095.p
-k> </home/alanmiranda/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ec
-bx1440.pk> </home/alanmiranda/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/d
-pi600/ecrm1440.pk></usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm
-/cmr8.pfb>
+ </home/alanmiranda/.miktex/texmfs/data/fonts/pk/ljfour/
+jknappen/ec/dpi600/tcrm1095.pk></usr/local/share/miktex-texmf/fonts/type1/publi
+c/amsfonts/cm/cmbx10.pfb></usr/local/share/miktex-texmf/fonts/type1/public/amsf
+onts/cm/cmbx12.pfb></usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/c
+m/cmr10.pfb></usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr12
+.pfb></usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr8.pfb></u
+sr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmti10.pfb>
 Output written on /home/alanmiranda/PycharmProjects/CALCULONUMERICO/out/relató
-rio7.pdf (3 pages, 226600 bytes).
+rio7.pdf (5 pages, 373938 bytes).
 PDF statistics:
- 219 PDF objects out of 1000 (max. 8388607)
+ 58 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
