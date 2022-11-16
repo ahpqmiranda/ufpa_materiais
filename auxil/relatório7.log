@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.11.5)  7 NOV 2022 00:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.11.5)  15 NOV 2022 03:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -205,48 +205,122 @@ File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
 
+(/usr/local/share/miktex-texmf/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/home/alanmiranda/.miktex/texmfs/install/tex/latex/caption/caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(/home/alanmiranda/.miktex/texmfs/install/tex/latex/caption/caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen165
+\captionmargin=\dimen166
+\caption@leftmargin=\dimen167
+\caption@rightmargin=\dimen168
+\caption@width=\dimen169
+\caption@indent=\dimen170
+\caption@parindent=\dimen171
+\caption@hangindent=\dimen172
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count284
+\c@continuedfloat=\count285
+Package caption Info: listings package is loaded.
+)
+\c@KVtest=\count286
+\sf@farskip=\skip52
+\sf@captopadj=\dimen173
+\sf@capskip=\skip53
+\sf@nearskip=\skip54
+\c@subfigure=\count287
+\c@subfigure@save=\count288
+\c@lofdepth=\count289
+\c@subtable=\count290
+\c@subtable@save=\count291
+\c@lotdepth=\count292
+\sf@top=\skip55
+\sf@bottom=\skip56
+)
+(/usr/local/share/miktex-texmf/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks24
+\inpenc@posthook=\toks25
+)
+(/usr/local/share/miktex-texmf/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
 (/usr/local/share/miktex-texmf/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count284
+\l__color_backend_stack_int=\count293
 \l__pdf_internal_box=\box55
 )
 (relatório7.aux)
 \openout1 = `relatório7.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
 
 (/usr/local/share/miktex-texmf/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count285
-\scratchdimen=\dimen165
+\scratchcounter=\count294
+\scratchdimen=\dimen174
 \scratchbox=\box56
-\nofMPsegments=\count286
-\nofMParguments=\count287
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count288
-\MPscratchDim=\dimen166
-\MPnumerator=\count289
-\makeMPintoPDFobject=\count290
-\everyMPtoPDFconversion=\toks25
+\nofMPsegments=\count295
+\nofMParguments=\count296
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count297
+\MPscratchDim=\dimen175
+\MPnumerator=\count298
+\makeMPintoPDFobject=\count299
+\everyMPtoPDFconversion=\toks27
 ) (/usr/local/share/miktex-texmf/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(/home/alanmiranda/.miktex/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/home/alanmiranda/.miktex/texmfs/install/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(/home/alanmiranda/.miktex/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys
+.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(/home/alanmiranda/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(/home/alanmiranda/.miktex/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/home/alanmiranda/.miktex/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(/home/alanmiranda/.miktex/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-
-(/usr/local/share/miktex-texmf/tex/latex/00miktex/epstopdf-sys.cfg
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+ (/usr/local/share/miktex-texmf/tex/latex/00miktex/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 *geometry* driver: auto-detecting
@@ -283,63 +357,174 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@lstlisting=\count291
+\c@lstlisting=\count300
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+(sections/capa.tex
 <pictures/logo_ufpa.png, id=1, 91.323pt x 113.004pt>
 File: pictures/logo_ufpa.png Graphic file (type png)
 <use pictures/logo_ufpa.png>
-Package pdftex.def Info: pictures/logo_ufpa.png  used on input line 20.
+Package pdftex.def Info: pictures/logo_ufpa.png  used on input line 5.
 (pdftex.def)             Requested size: 91.32275pt x 113.00372pt.
 
-Overfull \hbox (5.9645pt too wide) in paragraph at lines 20--20
+Overfull \hbox (5.9645pt too wide) in paragraph at lines 5--5
 [][] 
  []
 
-[1
+) (sections/introducao.tex [1
 
 {/home/alanmiranda/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map} <./pictures
-/logo_ufpa.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 56--91
+/logo_ufpa.png>]) (sections/objetivos.tex)
+(sections/materiais.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--40
 
  []
 
 [2]
-<pictures/bancada.jpeg, id=17, 1606.0pt x 1204.5pt>
+<pictures/bancada.jpeg, id=18, 1606.0pt x 1204.5pt>
 File: pictures/bancada.jpeg Graphic file (type jpg)
 <use pictures/bancada.jpeg>
-Package pdftex.def Info: pictures/bancada.jpeg  used on input line 95.
+Package pdftex.def Info: pictures/bancada.jpeg  used on input line 44.
 (pdftex.def)             Requested size: 401.49902pt x 301.12427pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--98
+Underfull \hbox (badness 10000) in paragraph at lines 41--47
 
  []
 
 [3 <./pictures/bancada.jpeg>]
-<pictures/tubos.jpeg, id=21, 1606.0pt x 1204.5pt>
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+<pictures/tubos.jpeg, id=23, 1606.0pt x 1204.5pt>
 File: pictures/tubos.jpeg Graphic file (type jpg)
 <use pictures/tubos.jpeg>
-Package pdftex.def Info: pictures/tubos.jpeg  used on input line 118.
+Package pdftex.def Info: pictures/tubos.jpeg  used on input line 79.
 (pdftex.def)             Requested size: 401.49902pt x 301.12427pt.
- (relatório7.bbl [4 <./pictures/tubos.jpeg>])
-[5] (relatório7.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+[4 <./pictures/tubos.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
+
+Overfull \hbox (23.50555pt too wide) in paragraph at lines 116--117
+\T1/cmr/m/n/10.95 de pH, o papel de tornassol vermelho, o qual apresentou uma c
+or cristalina azulada, os comportamentos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+
+ []
+
+<pictures/tubo1e2pre.jpeg, id=27, 1204.5pt x 1606.0pt>
+File: pictures/tubo1e2pre.jpeg Graphic file (type jpg)
+<use pictures/tubo1e2pre.jpeg>
+Package pdftex.def Info: pictures/tubo1e2pre.jpeg  used on input line 120.
+(pdftex.def)             Requested size: 192.72394pt x 256.96526pt.
+<pictures/tubo1e2pos.jpeg, id=28, 1204.5pt x 1606.0pt>
+File: pictures/tubo1e2pos.jpeg Graphic file (type jpg)
+<use pictures/tubo1e2pos.jpeg>
+Package pdftex.def Info: pictures/tubo1e2pos.jpeg  used on input line 122.
+(pdftex.def)             Requested size: 192.72394pt x 256.96526pt.
+[5 <./pictures/tubo1e2pre.jpeg> <./pictures/tubo1e2pos.jpeg>]
+<pictures/tubo3pre.jpeg, id=33, 1204.5pt x 1606.0pt>
+File: pictures/tubo3pre.jpeg Graphic file (type jpg)
+<use pictures/tubo3pre.jpeg>
+Package pdftex.def Info: pictures/tubo3pre.jpeg  used on input line 133.
+(pdftex.def)             Requested size: 192.72394pt x 256.96526pt.
+<pictures/tubo3pos.jpeg, id=34, 1204.5pt x 1606.0pt>
+File: pictures/tubo3pos.jpeg Graphic file (type jpg)
+<use pictures/tubo3pos.jpeg>
+Package pdftex.def Info: pictures/tubo3pos.jpeg  used on input line 135.
+(pdftex.def)             Requested size: 192.72394pt x 256.96526pt.
+ [6 <./pictures/tubo3pre.jpeg> <./pictures/tubo3pos.jpeg>]
+<pictures/tubo4pre.jpeg, id=39, 1204.5pt x 1606.0pt>
+File: pictures/tubo4pre.jpeg Graphic file (type jpg)
+<use pictures/tubo4pre.jpeg>
+Package pdftex.def Info: pictures/tubo4pre.jpeg  used on input line 144.
+(pdftex.def)             Requested size: 192.72394pt x 256.96526pt.
+<pictures/tubo4pos.jpeg, id=40, 1204.5pt x 1606.0pt>
+File: pictures/tubo4pos.jpeg Graphic file (type jpg)
+<use pictures/tubo4pos.jpeg>
+Package pdftex.def Info: pictures/tubo4pos.jpeg  used on input line 146.
+(pdftex.def)             Requested size: 192.72394pt x 256.96526pt.
+ [7 <./pictures/tubo4pre.jpeg> <./pictures/tubo4pos.jpeg>]
+<pictures/tubo5pre.jpeg, id=45, 1204.5pt x 1606.0pt>
+File: pictures/tubo5pre.jpeg Graphic file (type jpg)
+<use pictures/tubo5pre.jpeg>
+Package pdftex.def Info: pictures/tubo5pre.jpeg  used on input line 155.
+(pdftex.def)             Requested size: 168.62885pt x 224.83847pt.
+<pictures/tubo5pos.jpeg, id=46, 1204.5pt x 1606.0pt>
+File: pictures/tubo5pos.jpeg Graphic file (type jpg)
+<use pictures/tubo5pos.jpeg>
+Package pdftex.def Info: pictures/tubo5pos.jpeg  used on input line 157.
+(pdftex.def)             Requested size: 168.62885pt x 224.83847pt.
+ [8 <./pictures/tubo5pre.jpeg> <./pictures/tubo5pos.jpeg>]
+<pictures/tubo6pre.jpeg, id=50, 1606.0pt x 1204.5pt>
+File: pictures/tubo6pre.jpeg Graphic file (type jpg)
+<use pictures/tubo6pre.jpeg>
+Package pdftex.def Info: pictures/tubo6pre.jpeg  used on input line 165.
+(pdftex.def)             Requested size: 224.83847pt x 168.62885pt.
+<pictures/tubo6pos.jpeg, id=51, 1606.0pt x 1204.5pt>
+File: pictures/tubo6pos.jpeg Graphic file (type jpg)
+<use pictures/tubo6pos.jpeg>
+Package pdftex.def Info: pictures/tubo6pos.jpeg  used on input line 167.
+(pdftex.def)             Requested size: 224.83847pt x 168.62885pt.
+
+[9 <./pictures/tubo6pre.jpeg> <./pictures/tubo6pos.jpeg>]
+<pictures/tubo7pre.jpeg, id=55, 1204.5pt x 1606.0pt>
+File: pictures/tubo7pre.jpeg Graphic file (type jpg)
+<use pictures/tubo7pre.jpeg>
+Package pdftex.def Info: pictures/tubo7pre.jpeg  used on input line 176.
+(pdftex.def)             Requested size: 168.62885pt x 224.83847pt.
+<pictures/tubo7pos.jpeg, id=56, 1204.5pt x 1606.0pt>
+File: pictures/tubo7pos.jpeg Graphic file (type jpg)
+<use pictures/tubo7pos.jpeg>
+Package pdftex.def Info: pictures/tubo7pos.jpeg  used on input line 178.
+(pdftex.def)             Requested size: 168.62885pt x 224.83847pt.
+ [10 <./pictures/tubo7pre.jpeg> <./pictures/tubo7pos.jpeg>]
+<pictures/tubo8pre.jpeg, id=60, 1606.0pt x 1204.5pt>
+File: pictures/tubo8pre.jpeg Graphic file (type jpg)
+<use pictures/tubo8pre.jpeg>
+Package pdftex.def Info: pictures/tubo8pre.jpeg  used on input line 187.
+(pdftex.def)             Requested size: 224.83847pt x 168.62885pt.
+<pictures/tubo8pos.jpeg, id=61, 1606.0pt x 1204.5pt>
+File: pictures/tubo8pos.jpeg Graphic file (type jpg)
+<use pictures/tubo8pos.jpeg>
+Package pdftex.def Info: pictures/tubo8pos.jpeg  used on input line 189.
+(pdftex.def)             Requested size: 224.83847pt x 168.62885pt.
+ [11 <./pictures/tubo8pre.jpeg> <./pictures/tubo8pos.jpeg>]) (relatório7.bbl) 
+[12] (relatório7.aux) ) 
 Here is how much of TeX's memory you used:
- 5110 strings out of 477315
- 81546 string characters out of 2828844
- 447954 words of memory out of 3000000
- 26207 multiletter control sequences out of 15000+600000
- 474877 words of font info for 47 fonts, out of 8000000 for 9000
+ 7525 strings out of 477315
+ 127814 string characters out of 2828844
+ 484998 words of memory out of 3000000
+ 28543 multiletter control sequences out of 15000+600000
+ 479777 words of font info for 53 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 55i,10n,62p,928b,263s stack positions out of 10000i,1000n,20000p,200000b,80000s
- </home/alanmiranda/.miktex/texmfs/data/fonts/pk/ljfour/
-jknappen/ec/dpi600/tcrm1095.pk></usr/local/share/miktex-texmf/fonts/type1/publi
-c/amsfonts/cm/cmbx10.pfb></usr/local/share/miktex-texmf/fonts/type1/public/amsf
-onts/cm/cmbx12.pfb></usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/c
-m/cmr10.pfb></usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr12
-.pfb></usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr8.pfb></u
-sr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+ 69i,11n,79p,964b,455s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ </home/alanmiranda/.miktex/texmfs/data/fonts/pk/ljfour
+/jknappen/ec/dpi600/ecrm0900.pk> </home/alanmiranda/.miktex/texmfs/data/fonts/p
+k/ljfour/jknappen/ec/dpi600/ecbx1095.pk> </home/alanmiranda/.miktex/texmfs/data
+/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </home/alanmiranda/.miktex/tex
+mfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk> </home/alanmiranda/.mi
+ktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1095.pk> </home/alanmir
+anda/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk> </home
+/alanmiranda/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1440.pk
+></usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/l
+ocal/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/sha
+re/miktex-texmf/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
 Output written on /home/alanmiranda/PycharmProjects/CALCULONUMERICO/out/relató
-rio7.pdf (5 pages, 373938 bytes).
+rio7.pdf (12 pages, 2272242 bytes).
 PDF statistics:
- 58 PDF objects out of 1000 (max. 8388607)
+ 355 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -12,145 +12,25 @@
 \usepackage[a4paper, left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm]{geometry}
 \usepackage{indentfirst}
 \usepackage{listings}
+\usepackage{subfig}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
 % Document
 \singlespacing
 \begin{document}
-\thispagestyle{empty}
-    \begin{center}
-        \parbox{3cm}{\includegraphics[scale=1]{pictures/logo_ufpa}}\\
-        \vspace{1cm}
-        \Large \uppercase{Universidade Federal do Pará}\\
-        \Large \uppercase{Instituto de Tecnologia - ITEC}\\
-        \vspace{3cm}
-        \Large \uppercase{Faculdade de Engenharia Mecânica - FEM}\\
-        \Large \uppercase{Laboratório de Química Analítica Quantitativa - LQAQ}\\
-        \vspace{3cm}
-        \Large \textbf{\uppercase {Relatório de Prática 7: Utilização de Indicadores Ácidos e Bases}} \\
-        \Large \textbf{\uppercase {PROF. DR. Carlos Antônio Neves}} \\
-        \vspace{3cm}
-        \Large \uppercase {Alan Henrique Pereira Miranda - 202102140072}\\
-        \Large \uppercase {Gabriel Cruz de Oliveira - 202102140055}\\
-        \Large \uppercase {Paloma Gama da Silva - 202102140029}\\
-        \Large \uppercase {Silvio Farias Leal - 202102140035}\\
-        \vspace{1cm}
-        \Large {Belém-PA \\ 2022}
+    \input{sections/capa.tex}
 
-    \end{center}
+    \section{Introdução}\label{sec:intro}
+    \input{sections/introducao.tex}
 
-\newpage
-\section{Introdução}\label{sec:intro}
-    \indent A manipulação de ácidos e bases são parte do cotidiano de um químico, e é importante que o mesmo saiba como identificar a presença de um ácido ou base em uma solução, para que possa tomar as medidas de segurança necessárias.\  A utilização de indicadores ácidos e bases é uma forma de identificar a presença de um ácido ou base em uma solução, sem a necessidade de realizar uma titulação.\  Os indicadores ácidos e bases são substâncias que mudam de cor quando expostas a uma solução ácida ou básica, respectivamente.\  A cor de um indicador ácido ou base é chamada de cor de transição, e é a cor que o indicador apresenta quando exposto a uma solução ácida ou básica.\  A cor de transição de um indicador ácido ou base é determinada por sua estrutura química, e é uma característica que não pode ser alterada pelo pH da solução.
-    \indent O objetivo deste relatório é identificar a presença de ácidos e bases em soluções, utilizando indicadores ácidos e bases, e determinar a cor de transição de cada indicador utilizado, seguindo as orientações do material de apoio do professor.
+    \section{Objetivos}\label{sec:objetivos}
+    \input{sections/objetivos.tex}
 
-\section{Objetivos}\label{sec:objetivos}
-    \begin{itemize}
-        \item Identificar a presença de ácidos e bases em soluções, utilizando indicadores ácidos e bases.
-        \item Determinar a cor de transição de cada indicador utilizado.
-    \end{itemize}
-    \subsection{Objetivos específicos}\label{sec:objetivos_especificos}
-    \indent Verificar o comportamento de cada indicador ácido e base, quando exposto a soluções ácidas e básicas.
+    \section{Materiais}\label{sec:materiais}
+    \input{sections/materiais.tex}
 
+    \indent the exercise~\cite{atalho} are trivial but the exercises in~\cite{atalho} are interesting.
+    \bibliographystyle{unsrt}
+    \bibliography{bibliografia}
 
-\section{Materiais e Métodos}\label{sec:mat}
-    \subsection{Materiais}\label{sec:mat_materiais}
-    \indent Os materiais utilizados para a realização desta prática foram:
-        \begin{table}[h]
-        \label{tab:materiais}
-        \centering
-        \begin{tabular}{|c|c|}
-            \hline
-            \textbf{Material} & \textbf{Quantidade} \\
-            \hline
-            Solução de NaOH 0,1 mol/L & 10 mL \\
-            \hline
-            Solução de HCl 0,1 mol/L & 10 mL \\
-            \hline
-            Solução de CH$_3$COOH 0,1 mol/L & 10 mL \\
-            \hline
-            Solução de NH$_4$OH 0,1 mol/L & 10 mL \\
-            \hline
-            Indicador ácido: Fenolftaleína & 0,15 mL \\
-            \hline
-            Indicador universal: Azul de bromotimol & 0,15 mL \\
-            \hline
-            Indicador universal: Alaranjado de metila & 0,15 mL \\
-            \hline
-            Indicador universal: Papeis de tornassol azul e vermelho & 3 pedaços/amostra \\
-            \hline
-            Água Sanitária & 10 mL \\
-            \hline
-            Detergente & 10 mL \\
-            \hline
-            Suco de limão & 10 mL \\
-            \hline
-            Suco de Uva & 10 mL \\
-            \hline
-        \end{tabular}
-            \caption{Materiais utilizados neste relatório}
-    \end{table}\\
-\newpage
-    \indent E a seguinte bancada de trabalho:\\
-    \begin{figure}[h]
-        \centering
-        \includegraphics[scale=0.25]{pictures/bancada.jpeg}
-        \caption{Bancada de trabalho utilizada para a realização desta prática}\label{fig:figure1}
-    \end{figure}\\
-
-    \indent E os materiais de bancada de trabalho utilizadps para a realização desta prática foi composta por:
-    \begin{enumerate}
-        \item \textbf{10 Tubos de Ensaio} - Utilizados para o preparo das soluções e testes dos indicadores.
-        \item \textbf{1 Espátula} - Utilizada para a retirada de amostras das soluções.
-        \item \textbf{1 pipeta de 25 mL} - Utilizada para a retirada de amostras das soluções.
-        \item \textbf{2 Beckers de 100 mL} - Utilizados para o preparo das soluções.
-        \item \textbf{2 Becker de 50 mL} - Utilizado para o preparo das soluções.
-        \item \textbf{Estante para tubos de ensaio} - Utilizada para a organização dos tubos de ensaio.
-        \item \textbf{Funil de vidro} - Utilizado para o preparo das soluções.
-        \item \textbf{Bureta de vidro} - Utilizada para o preparo das soluções.
-    \end{enumerate}
-\newpage
-    \subsection{Métodos}\label{sec:mat_metodos}
-        \indent A experimentação foi realizada seguindo conforme o especificado a seguir:
-
-    \subsubsection{Experimento 1}\label{sec:mat_metodos_exp1}
-        \indent Para a realização do experimento 1, foram preparados os tubos de ensaio, cada tubo foi identificado seguindo a numeração de 1 a 8, preparado com suas respectivas soluções para a realização dos testes. Os tubos foram preparados conforme a tabela 2.
-        \begin{figure}[h]
-            \centering
-            \includegraphics[scale=0.25]{pictures/tubos.jpeg}
-            \caption{Tubos de ensaio utilizados para a realização do experimento 1}\label{fig:figure2}
-        \end{figure}\\
-        \indent Em suma, os tubos de ensaio foram preparados e testados com os indicadores, seguindo a tabela a seguir, cada experimentação será descrita detalhadamente a seguir:
-
-        \begin{table}[h]\label{tab:tubos}
-            \label{tab:experimento1}
-            \centering
-            \begin{tabular}{|c|c|c|c|c|c|c|c|}
-                \hline
-                \textbf{Tubo} & \textbf{Solução} & \textbf{Indicador} & \textbf{Cor Apresentada}\\
-                \hline
-                1 & Solução de NaOH 0,1 mol/L & Papel Tornassol - Azul & Cristalino azulado \\
-                \hline
-                2 & Solução de HCl 0,1 mol/L & Papel Tornassol - Azul & Cristalino azulado \\
-                \hline
-                3 & Solução de CH$_3$COOH 0,1 mol/L & Alaranjado de Metila & cor\\
-                \hline
-                4 & Solução de NH$_4$OH 0,1 mol/L & Alaranjado de Metila & Branco \\
-                \hline
-                5 & Solução de HCl 0,1 mol/L & Fenolftaleína & Rosa \\
-                \hline
-                6 & Solução de NaOH 0,1 mol/L & Fenolftaleína & Rosa \\
-                \hline
-                7 & Solução de CH$_4$COOH 0,1 mol/L & Azul de Bromotimol & Azul \\
-                \hline
-                8 & Solução de NH$_4$OH 0,1 mol/L & Azul de Bromotimol & Branco \\
-                \hline
-            \end{tabular}
-            \caption{Tabela de experimento 1}
-        \end{table}
-
-
-
-
-    \indent the exercise \cite{atalho} are trivial but the exercises in \cite{atalho} are interesting.
-\bibliographystyle{unsrt}
-\bibliography{bibliografia}
 \end{document}
