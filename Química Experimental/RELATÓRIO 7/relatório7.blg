@@ -1,5 +1,19 @@
-[0] Config.pm:306> INFO - This is Biber 2.18
-[0] Config.pm:309> INFO - Logfile is 'relatÃ³rio7.blg'
-[93] biber:340> INFO - === ter nov 15, 2022, 03:16:14
-[115] Utils.pm:410> ERROR - Cannot find 'relatÃ³rio7.bcf'!
-[116] Biber.pm:135> INFO - ERRORS: 1
+This is 8-bit Big BibTeX version 0.99d
+Implementation:  C for Unix
+Release version: 3.72 (05 feb 2022)
+
+The 8-bit codepage and sorting file: 88591lat.csf
+The top-level auxiliary file: relat  rio7.aux
+The style file: unsrt.bst
+Reallocated glb_str_ptr (elt_size=8) to 10 items from 0.
+Reallocated global_strs (elt_size=200001) to 10 items from 0.
+Reallocated glb_str_end (elt_size=8) to 10 items from 0.
+Database file #1: bibliografia.bib
+
+Here's how much of BibTeX's memory you used:
+ Cites:                 1 out of 750
+ Fields:               12 out of 5000
+ Hash table:       199881 out of 200000
+ Strings:             453 out of 200000
+ Free string pool:   3585 out of 65000
+ Wizard functions:   1791 out of 3000

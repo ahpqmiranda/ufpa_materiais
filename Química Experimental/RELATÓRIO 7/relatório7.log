@@ -1,256 +1,243 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11) (preloaded format=pdflatex 2022.11.20)  20 NOV 2022 01:58
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022 - Flatpak) (preloaded format=xelatex 2022.11.15)  21 NOV 2022 21:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./relatório7.tex
-(relatório7.tex
-LaTeX2e <2022-11-01>
-L3 programming layer <2022-11-02>
-(/usr/local/share/miktex-texmf/tex/latex/base/article.cls
-Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
-(/usr/local/share/miktex-texmf/tex/latex/base/size11.clo
-File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+**relatório7.tex
+(./relatório7.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(/app/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/app/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count185
-\c@section=\count186
-\c@subsection=\count187
-\c@subsubsection=\count188
-\c@paragraph=\count189
-\c@subparagraph=\count190
-\c@figure=\count191
-\c@table=\count192
+\c@part=\count181
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@subparagraph=\count186
+\c@figure=\count187
+\c@table=\count188
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen140
+\bibindent=\dimen138
 )
-(/usr/local/share/miktex-texmf/tex/generic/babel/babel.sty
-Package: babel 2022/10/23 3.82 The Babel package
-\babel@savecnt=\count193
-\U@D=\dimen141
-\l@unhyphenated=\language1
+(/app/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/02/26 3.73 The Babel package
+\babel@savecnt=\count189
+\U@D=\dimen139
+\l@unhyphenated=\language87
 
-(/usr/local/share/miktex-texmf/tex/generic/babel/txtbabel.def)
+(/app/texlive/texmf-dist/tex/generic/babel/xebabel.def
+(/app/texlive/texmf-dist/tex/generic/babel/txtbabel.def))
 \bbl@readstream=\read2
-\bbl@dirlevel=\count194
+\bbl@dirlevel=\count190
 
-*************************************
-* Local config file bblopts.cfg used
-*
-(/usr/local/share/miktex-texmf/tex/latex/arabi/bblopts.cfg
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-(/home/alan/.miktex/texmfs/install/tex/latex/babel-portuges/portuguese.ldf
+(/app/texlive/texmf-dist/tex/generic/babel-portuges/portuguese.ldf
 Language: portuges 2021/07/09 v1.2t Portuguese support from the babel system
-
-
-Package babel Warning: No hyphenation patterns were preloaded for
-(babel)                the language 'Portuguese' into the format.
-(babel)                Please, configure your TeX system to add them and
-(babel)                rebuild the format. Now I will use the patterns
-(babel)                preloaded for \language=0 instead on input line 53.
-
 Package babel Info: Making " an active character on input line 143.
 ))
-(/usr/local/share/miktex-texmf/tex/generic/babel/locale/pt/babel-portuguese.tex
-Package babel Info: Importing font and identification data for portuguese
-(babel)             from babel-pt.ini. Reported on input line 11.
-) (/usr/local/share/miktex-texmf/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2022/04/08 v2.17n AMS math features
+(/app/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
 \@mathmargin=\skip49
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/share/miktex-texmf/tex/latex/amsmath/amstext.sty
+(/app/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
 
-(/usr/local/share/miktex-texmf/tex/latex/amsmath/amsgen.sty
+(/app/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks16
-\ex@=\dimen142
+\ex@=\dimen140
 ))
-(/usr/local/share/miktex-texmf/tex/latex/amsmath/amsbsy.sty
+(/app/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen143
+\pmbraise@=\dimen141
 )
-(/usr/local/share/miktex-texmf/tex/latex/amsmath/amsopn.sty
-Package: amsopn 2022/04/08 v2.04 operator names
+(/app/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
 )
-\inf@bad=\count195
+\inf@bad=\count191
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count196
-\leftroot@=\count197
+\uproot@=\count192
+\leftroot@=\count193
 LaTeX Info: Redefining \overline on input line 399.
-LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count198
-\DOTSCASE@=\count199
+\classnum@=\count194
+\DOTSCASE@=\count195
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box51
-\strutbox@=\box52
-LaTeX Info: Redefining \big on input line 722.
-LaTeX Info: Redefining \Big on input line 723.
-LaTeX Info: Redefining \bigg on input line 724.
-LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen144
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen142
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count266
-LaTeX Info: Redefining \bmod on input line 905.
-LaTeX Info: Redefining \pmod on input line 910.
-LaTeX Info: Redefining \smash on input line 940.
-LaTeX Info: Redefining \relbar on input line 970.
-LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count267
+\macc@depth=\count196
+\c@MaxMatrixCols=\count197
 \dotsspace@=\muskip16
-\c@parentequation=\count268
-\dspbrk@lvl=\count269
+\c@parentequation=\count198
+\dspbrk@lvl=\count199
 \tag@help=\toks17
-\row@=\count270
-\column@=\count271
-\maxfields@=\count272
+\row@=\count266
+\column@=\count267
+\maxfields@=\count268
 \andhelp@=\toks18
-\eqnshift@=\dimen145
-\alignsep@=\dimen146
-\tagshift@=\dimen147
-\tagwidth@=\dimen148
-\totwidth@=\dimen149
-\lineht@=\dimen150
+\eqnshift@=\dimen143
+\alignsep@=\dimen144
+\tagshift@=\dimen145
+\tagwidth@=\dimen146
+\totwidth@=\dimen147
+\lineht@=\dimen148
 \@envbody=\toks19
 \multlinegap=\skip50
 \multlinetaggap=\skip51
 \mathdisplay@stack=\toks20
-LaTeX Info: Redefining \[ on input line 2953.
-LaTeX Info: Redefining \] on input line 2954.
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
 )
-(/usr/local/share/miktex-texmf/tex/latex/graphics/graphicx.sty
+(/app/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/share/miktex-texmf/tex/latex/graphics/keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+(/app/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks21
 )
-(/usr/local/share/miktex-texmf/tex/latex/graphics/graphics.sty
-Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+(/app/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/share/miktex-texmf/tex/latex/graphics/trig.sty
+(/app/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(/usr/local/share/miktex-texmf/tex/latex/graphics-cfg/graphics.cfg
+(/app/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 107.
+Package graphics Info: Driver file: xetex.def on input line 107.
 
-(/usr/local/share/miktex-texmf/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+(/app/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
 ))
-\Gin@req@height=\dimen151
-\Gin@req@width=\dimen152
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
 )
-(/home/alan/.miktex/texmfs/install/tex/latex/setspace/setspace.sty
+(/app/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-(/home/alan/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+(/app/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/usr/local/share/miktex-texmf/tex/generic/iftex/ifvtex.sty
+(/app/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(/usr/local/share/miktex-texmf/tex/generic/iftex/iftex.sty
+(/app/texlive/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count273
-\Gm@cntv=\count274
-\c@Gm@tempcnt=\count275
-\Gm@bindingoffset=\dimen153
-\Gm@wd@mp=\dimen154
-\Gm@odd@mp=\dimen155
-\Gm@even@mp=\dimen156
-\Gm@layoutwidth=\dimen157
-\Gm@layoutheight=\dimen158
-\Gm@layouthoffset=\dimen159
-\Gm@layoutvoffset=\dimen160
+\Gm@cnth=\count269
+\Gm@cntv=\count270
+\c@Gm@tempcnt=\count271
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
+\Gm@layoutwidth=\dimen155
+\Gm@layoutheight=\dimen156
+\Gm@layouthoffset=\dimen157
+\Gm@layoutvoffset=\dimen158
 \Gm@dimlist=\toks22
-
-(/home/alan/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg))
-(/usr/local/share/miktex-texmf/tex/latex/tools/indentfirst.sty
+)
+(/app/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
-(/usr/local/share/miktex-texmf/tex/latex/listings/listings.sty
-\lst@mode=\count276
-\lst@gtempboxa=\box53
+(/app/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count272
+\lst@gtempboxa=\box52
 \lst@token=\toks23
-\lst@length=\count277
-\lst@currlwidth=\dimen161
-\lst@column=\count278
-\lst@pos=\count279
-\lst@lostspace=\dimen162
-\lst@width=\dimen163
-\lst@newlines=\count280
-\lst@lineno=\count281
-\lst@maxwidth=\dimen164
+\lst@length=\count273
+\lst@currlwidth=\dimen159
+\lst@column=\count274
+\lst@pos=\count275
+\lst@lostspace=\dimen160
+\lst@width=\dimen161
+\lst@newlines=\count276
+\lst@lineno=\count277
+\lst@maxwidth=\dimen162
 
-(/usr/local/share/miktex-texmf/tex/latex/listings/lstmisc.sty
+(/app/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count282
-\lst@skipnumbers=\count283
-\lst@framebox=\box54
+\c@lstnumber=\count278
+\lst@skipnumbers=\count279
+\lst@framebox=\box53
 )
-(/usr/local/share/miktex-texmf/tex/latex/listings/listings.cfg
+(/app/texlive/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
 
-(/home/alan/.miktex/texmfs/install/tex/latex/subfig/subfig.sty
+(/app/texlive/texmf-dist/tex/latex/subfig/subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
 
-(/home/alan/.miktex/texmfs/install/tex/latex/caption/caption.sty
+(/app/texlive/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2022/03/01 v3.6b Customizing captions (AR)
 
-(/home/alan/.miktex/texmfs/install/tex/latex/caption/caption3.sty
+(/app/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
-\caption@tempdima=\dimen165
-\captionmargin=\dimen166
-\caption@leftmargin=\dimen167
-\caption@rightmargin=\dimen168
-\caption@width=\dimen169
-\caption@indent=\dimen170
-\caption@parindent=\dimen171
-\caption@hangindent=\dimen172
+\caption@tempdima=\dimen163
+\captionmargin=\dimen164
+\caption@leftmargin=\dimen165
+\caption@rightmargin=\dimen166
+\caption@width=\dimen167
+\caption@indent=\dimen168
+\caption@parindent=\dimen169
+\caption@hangindent=\dimen170
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count284
-\c@continuedfloat=\count285
+\c@caption@flags=\count280
+\c@continuedfloat=\count281
 Package caption Info: listings package is loaded.
 )
-\c@KVtest=\count286
+\c@KVtest=\count282
 \sf@farskip=\skip52
-\sf@captopadj=\dimen173
+\sf@captopadj=\dimen171
 \sf@capskip=\skip53
 \sf@nearskip=\skip54
-\c@subfigure=\count287
-\c@subfigure@save=\count288
-\c@lofdepth=\count289
-\c@subtable=\count290
-\c@subtable@save=\count291
-\c@lotdepth=\count292
+\c@subfigure=\count283
+\c@subfigure@save=\count284
+\c@lofdepth=\count285
+\c@subtable=\count286
+\c@subtable@save=\count287
+\c@lotdepth=\count288
 \sf@top=\skip55
 \sf@bottom=\skip56
 )
-(/usr/local/share/miktex-texmf/tex/latex/base/inputenc.sty
+(/app/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks24
 \inpenc@posthook=\toks25
-)
-(/usr/local/share/miktex-texmf/tex/latex/base/fontenc.sty
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/app/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-)
-(/usr/local/share/miktex-texmf/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count293
-\l__pdf_internal_box=\box55
-)
-(relatório7.aux)
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
+2.
+
+(/app/texlive/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+))
+(/app/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2022-02-07 L3 backend support: XeTeX
+
+(|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count289
+\l__color_backend_stack_int=\count290
+\g__color_backend_stack_int=\count291
+\g__graphics_track_int=\count292
+\l__pdf_internal_box=\box54
+\g__pdf_backend_object_int=\count293
+\g__pdf_backend_annotation_int=\count294
+\g__pdf_backend_link_int=\count295
+) (./relatório7.aux)
 \openout1 = `relatório7.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
@@ -262,67 +249,24 @@ LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
+0.
+
+(/app/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
 
-(/usr/local/share/miktex-texmf/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count294
-\scratchdimen=\dimen174
-\scratchbox=\box56
-\nofMPsegments=\count295
-\nofMParguments=\count296
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count297
-\MPscratchDim=\dimen175
-\MPnumerator=\count298
-\makeMPintoPDFobject=\count299
-\everyMPtoPDFconversion=\toks27
-) (/usr/local/share/miktex-texmf/tex/latex/epstopdf-pkg/epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-
-(/home/alan/.miktex/texmfs/install/tex/generic/infwarerr/infwarerr.sty
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
-(/home/alan/.miktex/texmfs/install/tex/latex/grfext/grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-
-(/home/alan/.miktex/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-))
-(/home/alan/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
-
-(/home/alan/.miktex/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-)
-(/home/alan/.miktex/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-))
-(/usr/local/share/miktex-texmf/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
-
-(/usr/local/share/miktex-texmf/tex/latex/00miktex/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-))
 *geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
+*geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
+* driver: xetex
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -353,65 +297,49 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@lstlisting=\count300
+\c@lstlisting=\count296
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
-(sections/capa.tex
-<pictures/logo_ufpa.png, id=1, 91.323pt x 113.004pt>
-File: pictures/logo_ufpa.png Graphic file (type png)
-<use pictures/logo_ufpa.png>
-Package pdftex.def Info: pictures/logo_ufpa.png  used on input line 5.
-(pdftex.def)             Requested size: 91.32275pt x 113.00372pt.
+(./sections/capa.tex
+File: pictures/logo_ufpa.png Graphic file (type bmp)
+<pictures/logo_ufpa.png>
 
-Overfull \hbox (5.9645pt too wide) in paragraph at lines 5--5
+Overfull \hbox (5.9689pt too wide) in paragraph at lines 5--5
 [][] 
  []
 
-) (sections/introducao.tex [1
+) (./sections/introducao.tex [1
 
-{/home/alan/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map} <./pictures/logo_u
-fpa.png>]) (sections/objetivos.tex)
-(sections/materiais.tex
+]) (./sections/objetivos.tex)
+(./sections/materiais.tex
 Underfull \hbox (badness 10000) in paragraph at lines 5--40
 
  []
 
 [2]
-<pictures/bancada.jpeg, id=18, 1606.0pt x 1204.5pt>
-File: pictures/bancada.jpeg Graphic file (type jpg)
-<use pictures/bancada.jpeg>
-Package pdftex.def Info: pictures/bancada.jpeg  used on input line 44.
-(pdftex.def)             Requested size: 401.49902pt x 301.12427pt.
+File: pictures/bancada.jpeg Graphic file (type bmp)
+<pictures/bancada.jpeg>
 
 Underfull \hbox (badness 10000) in paragraph at lines 41--47
 
  []
 
-[3 <./pictures/bancada.jpeg>]
+[3]
 Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
 
-<pictures/tubos.jpeg, id=23, 1606.0pt x 1204.5pt>
-File: pictures/tubos.jpeg Graphic file (type jpg)
-<use pictures/tubos.jpeg>
-Package pdftex.def Info: pictures/tubos.jpeg  used on input line 79.
-(pdftex.def)             Requested size: 401.49902pt x 301.12427pt.
+File: pictures/tubos.jpeg Graphic file (type bmp)
+<pictures/tubos.jpeg>
 
 Underfull \hbox (badness 10000) in paragraph at lines 83--84
 
  []
 
-[4 <./pictures/tubos.jpeg>]
+[4]
 Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
- []
-
-
-Overfull \hbox (23.50555pt too wide) in paragraph at lines 116--117
-\T1/cmr/m/n/10.95 de pH, o papel de tornassol vermelho, o qual apresentou uma c
-or cristalina azulada, os comportamentos
  []
 
 
@@ -419,116 +347,64 @@ Underfull \hbox (badness 10000) in paragraph at lines 116--117
 
  []
 
-<pictures/tubo1e2pre.jpeg, id=27, 1204.5pt x 1606.0pt>
-File: pictures/tubo1e2pre.jpeg Graphic file (type jpg)
-<use pictures/tubo1e2pre.jpeg>
-Package pdftex.def Info: pictures/tubo1e2pre.jpeg  used on input line 120.
-(pdftex.def)             Requested size: 192.72394pt x 256.96526pt.
-<pictures/tubo1e2pos.jpeg, id=28, 1204.5pt x 1606.0pt>
-File: pictures/tubo1e2pos.jpeg Graphic file (type jpg)
-<use pictures/tubo1e2pos.jpeg>
-Package pdftex.def Info: pictures/tubo1e2pos.jpeg  used on input line 122.
-(pdftex.def)             Requested size: 192.72394pt x 256.96526pt.
-[5 <./pictures/tubo1e2pre.jpeg> <./pictures/tubo1e2pos.jpeg>]
-<pictures/tubo3pre.jpeg, id=33, 1204.5pt x 1606.0pt>
-File: pictures/tubo3pre.jpeg Graphic file (type jpg)
-<use pictures/tubo3pre.jpeg>
-Package pdftex.def Info: pictures/tubo3pre.jpeg  used on input line 133.
-(pdftex.def)             Requested size: 192.72394pt x 256.96526pt.
-<pictures/tubo3pos.jpeg, id=34, 1204.5pt x 1606.0pt>
-File: pictures/tubo3pos.jpeg Graphic file (type jpg)
-<use pictures/tubo3pos.jpeg>
-Package pdftex.def Info: pictures/tubo3pos.jpeg  used on input line 135.
-(pdftex.def)             Requested size: 192.72394pt x 256.96526pt.
- [6 <./pictures/tubo3pre.jpeg> <./pictures/tubo3pos.jpeg>]
-<pictures/tubo4pre.jpeg, id=39, 1204.5pt x 1606.0pt>
-File: pictures/tubo4pre.jpeg Graphic file (type jpg)
-<use pictures/tubo4pre.jpeg>
-Package pdftex.def Info: pictures/tubo4pre.jpeg  used on input line 144.
-(pdftex.def)             Requested size: 192.72394pt x 256.96526pt.
-<pictures/tubo4pos.jpeg, id=40, 1204.5pt x 1606.0pt>
-File: pictures/tubo4pos.jpeg Graphic file (type jpg)
-<use pictures/tubo4pos.jpeg>
-Package pdftex.def Info: pictures/tubo4pos.jpeg  used on input line 146.
-(pdftex.def)             Requested size: 192.72394pt x 256.96526pt.
- [7 <./pictures/tubo4pre.jpeg> <./pictures/tubo4pos.jpeg>]
-<pictures/tubo5pre.jpeg, id=45, 1204.5pt x 1606.0pt>
-File: pictures/tubo5pre.jpeg Graphic file (type jpg)
-<use pictures/tubo5pre.jpeg>
-Package pdftex.def Info: pictures/tubo5pre.jpeg  used on input line 155.
-(pdftex.def)             Requested size: 168.62885pt x 224.83847pt.
-<pictures/tubo5pos.jpeg, id=46, 1204.5pt x 1606.0pt>
-File: pictures/tubo5pos.jpeg Graphic file (type jpg)
-<use pictures/tubo5pos.jpeg>
-Package pdftex.def Info: pictures/tubo5pos.jpeg  used on input line 157.
-(pdftex.def)             Requested size: 168.62885pt x 224.83847pt.
- [8 <./pictures/tubo5pre.jpeg> <./pictures/tubo5pos.jpeg>]
-<pictures/tubo6pre.jpeg, id=50, 1606.0pt x 1204.5pt>
-File: pictures/tubo6pre.jpeg Graphic file (type jpg)
-<use pictures/tubo6pre.jpeg>
-Package pdftex.def Info: pictures/tubo6pre.jpeg  used on input line 165.
-(pdftex.def)             Requested size: 224.83847pt x 168.62885pt.
-<pictures/tubo6pos.jpeg, id=51, 1606.0pt x 1204.5pt>
-File: pictures/tubo6pos.jpeg Graphic file (type jpg)
-<use pictures/tubo6pos.jpeg>
-Package pdftex.def Info: pictures/tubo6pos.jpeg  used on input line 167.
-(pdftex.def)             Requested size: 224.83847pt x 168.62885pt.
+File: pictures/tubo1e2pre.jpeg Graphic file (type bmp)
+<pictures/tubo1e2pre.jpeg>
+File: pictures/tubo1e2pos.jpeg Graphic file (type bmp)
+<pictures/tubo1e2pos.jpeg>
+[5]
+File: pictures/tubo3pre.jpeg Graphic file (type bmp)
+<pictures/tubo3pre.jpeg>
+File: pictures/tubo3pos.jpeg Graphic file (type bmp)
+<pictures/tubo3pos.jpeg>
+ [6]
+File: pictures/tubo4pre.jpeg Graphic file (type bmp)
+<pictures/tubo4pre.jpeg>
+File: pictures/tubo4pos.jpeg Graphic file (type bmp)
+<pictures/tubo4pos.jpeg>
 
-[9 <./pictures/tubo6pre.jpeg> <./pictures/tubo6pos.jpeg>]
-<pictures/tubo7pre.jpeg, id=55, 1204.5pt x 1606.0pt>
-File: pictures/tubo7pre.jpeg Graphic file (type jpg)
-<use pictures/tubo7pre.jpeg>
-Package pdftex.def Info: pictures/tubo7pre.jpeg  used on input line 176.
-(pdftex.def)             Requested size: 168.62885pt x 224.83847pt.
-<pictures/tubo7pos.jpeg, id=56, 1204.5pt x 1606.0pt>
-File: pictures/tubo7pos.jpeg Graphic file (type jpg)
-<use pictures/tubo7pos.jpeg>
-Package pdftex.def Info: pictures/tubo7pos.jpeg  used on input line 178.
-(pdftex.def)             Requested size: 168.62885pt x 224.83847pt.
- [10 <./pictures/tubo7pre.jpeg> <./pictures/tubo7pos.jpeg>]
-<pictures/tubo8pre.jpeg, id=60, 1606.0pt x 1204.5pt>
-File: pictures/tubo8pre.jpeg Graphic file (type jpg)
-<use pictures/tubo8pre.jpeg>
-Package pdftex.def Info: pictures/tubo8pre.jpeg  used on input line 187.
-(pdftex.def)             Requested size: 224.83847pt x 168.62885pt.
-<pictures/tubo8pos.jpeg, id=61, 1606.0pt x 1204.5pt>
-File: pictures/tubo8pos.jpeg Graphic file (type jpg)
-<use pictures/tubo8pos.jpeg>
-Package pdftex.def Info: pictures/tubo8pos.jpeg  used on input line 189.
-(pdftex.def)             Requested size: 224.83847pt x 168.62885pt.
- [11 <./pictures/tubo8pre.jpeg> <./pictures/tubo8pos.jpeg>])
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
 
-LaTeX Warning: Citation `atalho' on page 12 undefined on input line 32.
+ []
 
+[7]
+File: pictures/tubo5pre.jpeg Graphic file (type bmp)
+<pictures/tubo5pre.jpeg>
+File: pictures/tubo5pos.jpeg Graphic file (type bmp)
+<pictures/tubo5pos.jpeg>
 
-LaTeX Warning: Citation `atalho' on page 12 undefined on input line 32.
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
 
-(relatório7.bbl) [12] (relatório7.aux)
+ []
 
-LaTeX Warning: There were undefined references.
+[8]
+File: pictures/tubo6pre.jpeg Graphic file (type bmp)
+<pictures/tubo6pre.jpeg>
+File: pictures/tubo6pos.jpeg Graphic file (type bmp)
+<pictures/tubo6pos.jpeg>
+ [9]
+File: pictures/tubo7pre.jpeg Graphic file (type bmp)
+<pictures/tubo7pre.jpeg>
+File: pictures/tubo7pos.jpeg Graphic file (type bmp)
+<pictures/tubo7pos.jpeg>
+ [10]
+File: pictures/tubo8pre.jpeg Graphic file (type bmp)
+<pictures/tubo8pre.jpeg>
+File: pictures/tubo8pos.jpeg Graphic file (type bmp)
+<pictures/tubo8pos.jpeg>
+ [11]) (./relatório7.bbl
+Invalid UTF-8 byte or sequence at line 6 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 6 replaced by U+FFFD.
 
- ) 
+Missing character: There is no � ("FFFD) in font ec-lmr10!
+Missing character: There is no � ("FFFD) in font ec-lmr10!
+) [12] (./relatório7.aux) ) 
 Here is how much of TeX's memory you used:
- 7518 strings out of 477219
- 127197 string characters out of 2826197
- 486053 words of memory out of 3000000
- 28634 multiletter control sequences out of 15000+600000
- 479777 words of font info for 53 fonts, out of 8000000 for 9000
- 0 hyphenation exceptions out of 8191
- 69i,11n,79p,964b,457s stack positions out of 10000i,1000n,20000p,200000b,80000s
- </home/alan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0900.
-pk> </home/alan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1095
-.pk> </home/alan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx120
-0.pk> </home/alan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm10
-95.pk> </home/alan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1
-095.pk> </home/alan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx
-1440.pk> </home/alan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecr
-m1440.pk></usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr6.pfb
-></usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/l
-ocal/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on relatório7.pdf (12 pages, 2272637 bytes).
-PDF statistics:
- 356 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6468 strings out of 476179
+ 108640 string characters out of 5810865
+ 428699 words of memory out of 5000000
+ 27132 multiletter control sequences out of 15000+600000
+ 499648 words of font info for 55 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 69i,11n,79p,913b,454s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
+Output written on relatório7.pdf (12 pages).
