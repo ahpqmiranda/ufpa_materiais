@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022 - Flatpak) (preloaded format=xelatex 2022.11.15)  23 NOV 2022 00:45
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022 - Flatpak) (preloaded format=xelatex 2022.11.15)  23 NOV 2022 10:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -225,43 +225,95 @@ LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
 (/app/texlive/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ))
+! Undefined control sequence.
+l.19 \remove
+            {}\usepackage[alf, abnt-emphasize=bf, abnt-thesis-year=both, abn...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+(/app/texlive/texmf-dist/tex/latex/abntex2/abntex2cite.sty
+Package: abntex2cite 2018/11/24 v-1.9.7 abnTeX2
+
+(/app/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/app/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count289
+\calc@Bcount=\count290
+\calc@Adimen=\dimen172
+\calc@Bdimen=\dimen173
+\calc@Askip=\skip57
+\calc@Bskip=\skip58
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count291
+\calc@Cskip=\skip59
+)
+(/app/texlive/texmf-dist/tex/latex/abntex2/abntex2abrev.sty)
+(/app/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\minimumbiblabelwidth=\skip60
+\ABCIauxlen=\skip61
+\c@ABCIaux=\count292
+\c@ABCImax=\count293
+
+(/app/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+(/app/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(/app/texlive/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\biblabelsep=\skip62
+LaTeX Info: Redefining \newblock on input line 591.
+LaTeX Info: Redefining \cite on input line 618.
+\ABCItoken=\toks26
+)
 (/app/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2022-02-07 L3 backend support: XeTeX
 
 (|extractbb --version)
-\c__kernel_sys_dvipdfmx_version_int=\count289
-\l__color_backend_stack_int=\count290
-\g__color_backend_stack_int=\count291
-\g__graphics_track_int=\count292
+\c__kernel_sys_dvipdfmx_version_int=\count294
+\l__color_backend_stack_int=\count295
+\g__color_backend_stack_int=\count296
+\g__graphics_track_int=\count297
 \l__pdf_internal_box=\box54
-\g__pdf_backend_object_int=\count293
-\g__pdf_backend_annotation_int=\count294
-\g__pdf_backend_link_int=\count295
+\g__pdf_backend_object_int=\count298
+\g__pdf_backend_annotation_int=\count299
+\g__pdf_backend_link_int=\count300
 ) (./relatório7.aux)
 \openout1 = `relatório7.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
-0.
+3.
 
 (/app/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -297,7 +349,7 @@ LaTeX Font Info:    ... okay on input line 20.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@lstlisting=\count296
+\c@lstlisting=\count301
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -338,12 +390,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--84
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
 
  []
 
@@ -351,33 +403,52 @@ File: pictures/tubo1e2pre.jpeg Graphic file (type bmp)
 <pictures/tubo1e2pre.jpeg>
 File: pictures/tubo1e2pos.jpeg Graphic file (type bmp)
 <pictures/tubo1e2pos.jpeg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+
+ []
+
 [5]
 File: pictures/tubo3pre.jpeg Graphic file (type bmp)
 <pictures/tubo3pre.jpeg>
 File: pictures/tubo3pos.jpeg Graphic file (type bmp)
 <pictures/tubo3pos.jpeg>
- [6]
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+
+ []
+
+[6]
 File: pictures/tubo4pre.jpeg Graphic file (type bmp)
 <pictures/tubo4pre.jpeg>
 File: pictures/tubo4pos.jpeg Graphic file (type bmp)
 <pictures/tubo4pos.jpeg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 151--152
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
 
  []
 
 [7]
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
+
+ []
+
 File: pictures/tubo5pre.jpeg Graphic file (type bmp)
 <pictures/tubo5pre.jpeg>
 File: pictures/tubo5pos.jpeg Graphic file (type bmp)
 <pictures/tubo5pos.jpeg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--167
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--169
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
 
  []
 
@@ -387,7 +458,7 @@ File: pictures/tubo6pre.jpeg Graphic file (type bmp)
 File: pictures/tubo6pos.jpeg Graphic file (type bmp)
 <pictures/tubo6pos.jpeg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--183
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
 
  []
 
@@ -397,7 +468,7 @@ File: pictures/tubo7pre.jpeg Graphic file (type bmp)
 File: pictures/tubo7pos.jpeg Graphic file (type bmp)
 <pictures/tubo7pos.jpeg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--198
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
 
  []
 
@@ -407,7 +478,7 @@ File: pictures/tubo8pre.jpeg Graphic file (type bmp)
 File: pictures/tubo8pos.jpeg Graphic file (type bmp)
 <pictures/tubo8pos.jpeg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 212--213
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
 
  []
 
@@ -415,42 +486,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 212--213
 File: pictures/bancada.jpeg Graphic file (type bmp)
 <pictures/bancada.jpeg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--232
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--234
+Underfull \hbox (badness 10000) in paragraph at lines 240--241
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--236
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 239--240
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
 
  []
 
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 241--242
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--246
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 247--248
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 251--252
+Underfull \hbox (badness 10000) in paragraph at lines 258--259
 
  []
 
@@ -460,45 +531,60 @@ File: pictures/schematic.jpg Graphic file (type bmp)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--261
+Underfull \hbox (badness 10000) in paragraph at lines 267--268
 
  []
 
 [13]
-Underfull \hbox (badness 10000) in paragraph at lines 263--264
+Underfull \hbox (badness 10000) in paragraph at lines 270--271
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 265--266
+Underfull \hbox (badness 10000) in paragraph at lines 272--273
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 268--269
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
 
  []
 
-[14] [15]) (./relatório7.bbl
-Invalid UTF-8 byte or sequence at line 5 replaced by U+FFFD.
+[15]) (./relatório7.bbl
+! Misplaced alignment tab character &.
+l.25 ...r/index.php?optioncom\_contentviewarticle&
+                                                  id=278:limao-a-composicao-...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
-Missing character: There is no � ("FFFD) in font ec-lmr10!
-Invalid UTF-8 byte or sequence at line 14 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 14 replaced by U+FFFD.
-Missing character: There is no � ("FFFD) in font ec-lmr10!
-Missing character: There is no � ("FFFD) in font ec-lmr10!
-Invalid UTF-8 byte or sequence at line 27 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 27 replaced by U+FFFD.
-Missing character: There is no � ("FFFD) in font ec-lmr10!
-Missing character: There is no � ("FFFD) in font ec-lmr10!
+
+Underfull \hbox (badness 1009) in paragraph at lines 34--39
+[]\T1/lmr/m/n/10.95 MAIA, F. 2022. \T1/lmr/m/it/10.95 Ala-ran-jado de Me-tila\T
+1/lmr/m/n/10.95 . Avai-la-ble from In-ter-net: 
+ []
+
+! Misplaced alignment tab character &.
+l.50 ....br/modules/galeria/detalhe.php?foto=1287&
+                                                  evento=3}.}
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
 ) [16] (./relatório7.aux) ) 
 Here is how much of TeX's memory you used:
- 6503 strings out of 476179
- 109454 string characters out of 5810865
- 429815 words of memory out of 5000000
- 27165 multiletter control sequences out of 15000+600000
- 495385 words of font info for 54 fonts, out of 8000000 for 9000
+ 7178 strings out of 476179
+ 120713 string characters out of 5810865
+ 438168 words of memory out of 5000000
+ 27814 multiletter control sequences out of 15000+600000
+ 499648 words of font info for 55 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 69i,11n,79p,1005b,454s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 69i,11n,79p,1005b,467s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on relatório7.pdf (16 pages).

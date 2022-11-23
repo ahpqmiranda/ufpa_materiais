@@ -15,23 +15,31 @@
 \usepackage{subfig}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
+
+\remove{}\usepackage[alf, abnt-emphasize=bf, abnt-thesis-year=both, abnt-repeated-author-omit=no, abnt-last-names=abnt, abnt-etal-cite, abnt-etal-list=3, abnt-etal-text=it, abnt-and-type=e, abnt-doi=doi, abnt-url-package=none, abnt-verbatim-entry=no]{abntex2cite}
+
 % Document
 \singlespacing
 \begin{document}
     \input{sections/capa.tex}
 
-    \section{Introdução}\label{sec:intro}
     \input{sections/introducao.tex}
-
-    \section{Objetivos}\label{sec:objetivos}
+	
+    
     \input{sections/objetivos.tex}
 
-    \section{Materiais}\label{sec:materiais}
+
     \input{sections/materiais.tex}
+    
+    \ifpdf\else
+    \def\href#1#2{\htmladdnormallink{#2}{#1}}
+    \fi	%\def\href#1#2
 	
 	\addcontentsline{toc}{section}{Referências}
     \nocite{*}
-    \bibliographystyle{unsrt}
+
+    \bibliographystyle{USPSC-classe/abntex2-alf-USPSC}
+%    \bibliographystyle{unsrt}
     \bibliography{export}
 
 \end{document}
