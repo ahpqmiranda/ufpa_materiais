@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022 - Flatpak) (preloaded format=xelatex 2022.11.15)  22 NOV 2022 20:44
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022 - Flatpak) (preloaded format=xelatex 2022.11.15)  23 NOV 2022 00:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -414,20 +414,91 @@ Underfull \hbox (badness 10000) in paragraph at lines 212--213
 [11]
 File: pictures/bancada.jpeg Graphic file (type bmp)
 <pictures/bancada.jpeg>
- [12]) (./relatório7.bbl
-Invalid UTF-8 byte or sequence at line 6 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 6 replaced by U+FFFD.
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--248
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
+
+ []
+
+File: pictures/schematic.jpg Graphic file (type bmp)
+<pictures/schematic.jpg>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 263--264
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--266
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
+
+ []
+
+[14] [15]) (./relatório7.bbl
+Invalid UTF-8 byte or sequence at line 5 replaced by U+FFFD.
 
 Missing character: There is no � ("FFFD) in font ec-lmr10!
+Invalid UTF-8 byte or sequence at line 14 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 14 replaced by U+FFFD.
 Missing character: There is no � ("FFFD) in font ec-lmr10!
-) [13] (./relatório7.aux) ) 
+Missing character: There is no � ("FFFD) in font ec-lmr10!
+Invalid UTF-8 byte or sequence at line 27 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 27 replaced by U+FFFD.
+Missing character: There is no � ("FFFD) in font ec-lmr10!
+Missing character: There is no � ("FFFD) in font ec-lmr10!
+) [16] (./relatório7.aux) ) 
 Here is how much of TeX's memory you used:
- 6470 strings out of 476179
- 108705 string characters out of 5810865
- 428721 words of memory out of 5000000
- 27134 multiletter control sequences out of 15000+600000
- 499648 words of font info for 55 fonts, out of 8000000 for 9000
+ 6503 strings out of 476179
+ 109454 string characters out of 5810865
+ 429815 words of memory out of 5000000
+ 27165 multiletter control sequences out of 15000+600000
+ 495385 words of font info for 54 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 69i,11n,79p,913b,454s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 69i,11n,79p,1005b,454s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on relatório7.pdf (13 pages).
+Output written on relatório7.pdf (16 pages).

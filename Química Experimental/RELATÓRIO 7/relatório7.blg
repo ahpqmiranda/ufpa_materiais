@@ -8,12 +8,25 @@ The style file: unsrt.bst
 Reallocated glb_str_ptr (elt_size=8) to 10 items from 0.
 Reallocated global_strs (elt_size=200001) to 10 items from 0.
 Reallocated glb_str_end (elt_size=8) to 10 items from 0.
-Database file #1: bibliografia.bib
+Database file #1: export.bib
+Warning--entry type for "SPLABOR2022" isn't style-file defined
+--line 1 of file export.bib
+Warning--entry type for "VIDEOLAB2015" isn't style-file defined
+--line 8 of file export.bib
+Warning--entry type for "VIDEOLAB20222" isn't style-file defined
+--line 14 of file export.bib
+Warning--entry type for "ESPECIFICACOES2022" isn't style-file defined
+--line 20 of file export.bib
+Warning--entry type for "INDICADORES2002" isn't style-file defined
+--line 27 of file export.bib
+Warning--entry type for "Supelco2021" isn't style-file defined
+--line 33 of file export.bib
 
 Here's how much of BibTeX's memory you used:
- Cites:                 1 out of 750
- Fields:               12 out of 5000
- Hash table:       199881 out of 200000
- Strings:             453 out of 200000
- Free string pool:   3585 out of 65000
+ Cites:                 6 out of 750
+ Fields:              127 out of 5000
+ Hash table:       199882 out of 200000
+ Strings:             475 out of 200000
+ Free string pool:   4050 out of 65000
  Wizard functions:   1791 out of 3000
+(There were 6 warnings)

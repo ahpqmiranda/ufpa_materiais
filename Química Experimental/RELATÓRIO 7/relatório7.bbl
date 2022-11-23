@@ -1,9 +1,30 @@
 \begin{thebibliography}{1}
 
-\bibitem{atalho}
-Autor.
-\newblock {\em Nome do livro}, volume volume of {\em serie}.
-\newblock Editora, Endere√ßo, edi„ß„£o edition, m√™s ano.
-\newblock Anota√ß√£o.
+\bibitem{SPLABOR2022}
+SPLABOR.
+\newblock O que „© um papel de tornassol e para que serve?, 4 2022.
+
+\bibitem{VIDEOLAB2015}
+Prof.~C√©sar Lisboa.
+\newblock Video aula 2: Comportamento da fenolftaleina e do alaranjado metila,
+  2015.
+
+\bibitem{VIDEOLAB20222}
+Roseli Almeida.
+\newblock Experimento com alaranjado de metila - meios („Åcidos e b„Åsicos),
+  2022.
+
+\bibitem{ESPECIFICACOES2022}
+F.~Maia.
+\newblock Alaranjado de metila, 2022.
+
+\bibitem{INDICADORES2002}
+Jim Clarck.
+\newblock Acid base indicators, 2002.
+
+\bibitem{Supelco2021}
+Supelco.
+\newblock Sal de s„≥dio de azul de bromotimol indicador hidrossol„∫vel acs, 9
+  2021.
 
 \end{thebibliography}
