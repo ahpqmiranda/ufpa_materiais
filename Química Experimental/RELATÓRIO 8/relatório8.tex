@@ -1,0 +1,49 @@
+%! Author = alanmiranda
+%! Date = 05/11/2022
+
+% Preamble
+\documentclass[a4paper, 11pt]{article}
+
+% Packages
+\usepackage[portuguese]{babel}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage[a4paper, left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm]{geometry}
+\usepackage{indentfirst}
+\usepackage{listings}
+\usepackage{subfig}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+\remove{}\usepackage[alf, abnt-emphasize=bf, abnt-thesis-year=both, abnt-repeated-author-omit=no, abnt-last-names=abnt, abnt-etal-cite, abnt-etal-list=3, abnt-etal-text=it, abnt-and-type=e, abnt-doi=doi, abnt-url-package=none, abnt-verbatim-entry=no]{abntex2cite}
+
+% Document
+\singlespacing
+\begin{document}
+    \input{sections/capa.tex}
+
+    \input{sections/introducao.tex}
+	
+    
+    \input{sections/objetivos.tex}
+
+
+    \input{sections/materiais.tex}
+
+
+    \input{sections/experimentos.tex}
+
+
+    \ifpdf\else
+    \def\href#1#2{\htmladdnormallink{#2}{#1}}
+    \fi	%\def\href#1#2
+	
+	\addcontentsline{toc}{section}{Referências}
+    \nocite{*}
+
+    \bibliographystyle{USPSC-classe/abntex2-alf-USPSC}
+%    \bibliographystyle{unsrt}
+    \bibliography{export}
+
+\end{document}

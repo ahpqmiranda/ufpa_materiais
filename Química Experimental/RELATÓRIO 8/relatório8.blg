@@ -1,0 +1,125 @@
+This is 8-bit Big BibTeX version 0.99d
+Implementation:  C for Unix
+Release version: 3.72 (05 feb 2022)
+
+The 8-bit codepage and sorting file: 88591lat.csf
+The top-level auxiliary file: relat  rio8.aux
+The style file: USPSC-classe/abntex2-alf-USPSC.bst
+Reallocated glb_str_ptr (elt_size=8) to 10 items from 0.
+Reallocated global_strs (elt_size=200001) to 10 items from 0.
+Reallocated glb_str_end (elt_size=8) to 10 items from 0.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated wiz_functions (elt_size=8) to 6000 items from 3000.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated wiz_functions (elt_size=8) to 9000 items from 6000.
+Database file #1: abntex2-options.bib
+Repeated entry---line 11 of file abntex2-options.bib
+ : @abnt-options{abnt-cite-style=AuthorYEAR
+ :                                         ,
+I'm skipping whatever remains of this entry
+Database file #2: export.bib
+Warning--I didn't find a database entry for "abnt-etal-cite"
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=8) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=8) to 20 items from 10.
+128 isn't valid ASCII for entry abnt-etal-text=default
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+129 isn't valid ASCII for entry abnt-etal-text=emph
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+130 isn't valid ASCII for entry abnt-experimental=yes
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+131 isn't valid ASCII for entry abnt-experimental=no
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+132 isn't valid ASCII for entry abnt-full-initials=no
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+133 isn't valid ASCII for entry abnt-full-initials=yes
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+134 isn't valid ASCII for entry abnt-last-names=bibtex
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+135 isn't valid ASCII for entry abnt-ldots-type=normal
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+136 isn't valid ASCII for entry abnt-ldots-type=none
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+137 isn't valid ASCII for entry abnt-ldots-type=math
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+138 isn't valid ASCII for entry abnt-ldots-type=text
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+139 isn't valid ASCII for entry abnt-missing-year=void
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+140 isn't valid ASCII for entry abnt-missing-year=sd
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+141 isn't valid ASCII for entry abnt-nbr6023=2002
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+142 isn't valid ASCII for entry abnt-nbr6023=2000
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+143 isn't valid ASCII for entry abnt-nbr10520=2002
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+144 isn't valid ASCII for entry abnt-nbr10520=2001
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+145 isn't valid ASCII for entry abnt-nbr10520=1988
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+146 isn't valid ASCII for entry abnt-no-etal-label=yes
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+147 isn't valid ASCII for entry abnt-no-etal-label=no
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+148 isn't valid ASCII for entry abnt-refinfo=yes
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+149 isn't valid ASCII for entry abnt-refinfo=no
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+150 isn't valid ASCII for entry abnt-repeated-author-omit=yes
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+151 isn't valid ASCII for entry abnt-repeated-title-omit=no
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+152 isn't valid ASCII for entry abnt-repeated-title-omit=yes
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+153 isn't valid ASCII for entry abnt-show-options=no
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+154 isn't valid ASCII for entry abnt-show-options=warn
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+155 isn't valid ASCII for entry abnt-show-options=list
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+156 isn't valid ASCII for entry abnt-substyle=none
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+157 isn't valid ASCII for entry abnt-substyle=UFLA
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+158 isn't valid ASCII for entry abnt-substyle=COPPE
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+159 isn't valid ASCII for entry abnt-thesis-year=final
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+160 isn't valid ASCII for entry abnt-thesis-year=title
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+161 isn't valid ASCII for entry abnt-title-command=no
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+162 isn't valid ASCII for entry abnt-title-command=yes
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+163 isn't valid ASCII for entry abnt-url-package=hyperref
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+164 isn't valid ASCII for entry iso-690-1987
+while executing---line 2117 of file USPSC-classe/abntex2-alf-USPSC.bst
+Warning--opção abnt-show-options passou para warn
+You can't pop an empty literal stack for entry iso-690-1987
+while executing---line 2146 of file USPSC-classe/abntex2-alf-USPSC.bst
+ptr=1, stack=
+Op\c c\~ao selecionada {\tt iso-date-place=}\verb+ISO+
+---the literal stack isn't empty for entry iso-690-1987
+while executing---line 2146 of file USPSC-classe/abntex2-alf-USPSC.bst
++---------------------------------------------------------+
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.7           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://www.abntex.net.br/                               |
++---------------------------------------------------------+
+
+Here's how much of BibTeX's memory you used:
+ Cites:                68 out of 750
+ Fields:             4691 out of 5000
+ Hash table:       199355 out of 200000
+ Strings:            1268 out of 200000
+ Free string pool:  10796 out of 65000
+ Wizard functions:   6714 out of 9000
+(There were 40 error messages)

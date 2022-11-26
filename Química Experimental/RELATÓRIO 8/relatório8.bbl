@@ -1,0 +1,61 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\providecommand{\bibtextitlecommand}[2]{#2}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[]{abnt-show-options=list}
+{Mudan\c ca de estilo ap\'os este ponto com o comando
+  \verb!\citeoption{abnt-show-options=list}! . Op\c c\~ao selecionada {\tt
+  abnt-show-options=}\verb+list+.}
+
+\bibitem[]{abnt-substyle=none}
+{Mudan\c ca de estilo ap\'os este ponto com o comando
+  \verb!\citeoption{abnt-substyle=none}! .}
+
+\bibitem[]{abnt-substyle=UFLA}
+{Mudan\c ca de estilo ap\'os este ponto com o comando
+  \verb!\citeoption{abnt-substyle=UFLA}! . Op\c c\~ao selecionada {\tt
+  abnt-and-type=}\verb+&+. Op\c c\~ao selecionada {\tt
+  abnt-etal-cite=}\verb+2+. Op\c c\~ao selecionada {\tt
+  abnt-etal-list=}\verb+0+.}
+
+\bibitem[]{abnt-substyle=COPPE}
+{Mudan\c ca de estilo ap\'os este ponto com o comando
+  \verb!\citeoption{abnt-substyle=COPPE}! . Op\c c\~ao selecionada {\tt
+  abnt-title-command=}\verb+yes+.}
+
+\bibitem[]{abnt-thesis-year=final}
+{Mudan\c ca de estilo ap\'os este ponto com o comando
+  \verb!\citeoption{abnt-thesis-year=final}! . Op\c c\~ao selecionada {\tt
+  abnt-thesis-year=}\verb+final+.}
+
+\bibitem[]{abnt-thesis-year=title}
+{Mudan\c ca de estilo ap\'os este ponto com o comando
+  \verb!\citeoption{abnt-thesis-year=title}! . Op\c c\~ao selecionada {\tt
+  abnt-thesis-year=}\verb+title+.}
+
+\bibitem[]{abnt-title-command=no}
+{Mudan\c ca de estilo ap\'os este ponto com o comando
+  \verb!\citeoption{abnt-title-command=no}! . Op\c c\~ao selecionada {\tt
+  abnt-title-command=}\verb+no+.}
+
+\bibitem[]{abnt-title-command=yes}
+{Mudan\c ca de estilo ap\'os este ponto com o comando
+  \verb!\citeoption{abnt-title-command=yes}! . Op\c c\~ao selecionada {\tt
+  abnt-title-command=}\verb+yes+.}
+
+\bibitem[]{abnt-url-package=hyperref}
+{Mudan\c ca de estilo ap\'os este ponto com o comando
+  \verb!\citeoption{abnt-url-package=hyperref}! . Op\c c\~ao selecionada {\tt
+  abnt-url-package=}\verb+hyperref+.}
+
+\bibitem[]{iso-690-1987}
+{Mudan\c ca de estilo ap\'os este ponto com o comando
+  \verb!\citeoption{iso-690-1987}! . Op\c c\~ao selecionada {\tt
+  abnt-cite-style=}\verb+(Author, YEAR)+.}
+ Op\c c\~ao selecionada {\tt iso-abbreviation=}\verb+standard+. Op\c c\~ao
+  selecionada {\tt iso-author-punctuation=}\verb+void+.
+\end{thebibliography}
