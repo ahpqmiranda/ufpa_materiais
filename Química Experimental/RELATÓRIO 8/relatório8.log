@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022 - Flatpak) (preloaded format=xelatex 2022.11.15)  26 NOV 2022 02:26
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022 - Flatpak) (preloaded format=xelatex 2022.11.15)  26 NOV 2022 10:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -396,50 +396,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--12
 
  []
 
-[2]) (./sections/materiais.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--24
-
- []
-
-) (./sections/experimentos.tex
+[2]) (./sections/materiais.tex) (./sections/experimentos.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-! Undefined control sequence.
-l.8             \ce
-                   {NaOH(aq) + HCl(aq) -> NaCl(aq) + H2O(l)}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 [3]
-Missing character: There is no º ("BA) in font cmmi10!
-Missing character: There is no º ("BA) in font cmmi10!
-Missing character: There is no º ("BA) in font cmmi10!
-! Undefined control sequence.
-l.21             \ce
-                    {NaOH(s) + HCl(aq) -> NaCl(aq) + H2O(l)}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no º ("BA) in font cmmi10!
-Missing character: There is no º ("BA) in font cmmi10!
-Missing character: There is no º ("BA) in font cmmi10!
-Missing character: There is no ° ("B0) in font cmr10!
-Missing character: There is no ° ("B0) in font cmr10!
-Missing character: There is no ° ("B0) in font cmr10!
-)
-Underfull \hbox (badness 10000) in paragraph at lines 31--36
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
 
  []
 
-(./relatório8.bbl
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--70
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+) (./relatório8.bbl
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
 1.
  (/app/texlive/texmf-dist/tex/latex/lm/t1lmtt.fd
@@ -455,14 +437,14 @@ Underfull \hbox (badness 1092) in paragraph at lines 51--54
 95 . Op-ção se-le-ci-o-nada 
  []
 
-[4]) [5] (./relatório8.aux) ) 
+[5]) [6] (./relatório8.aux) ) 
 Here is how much of TeX's memory you used:
- 7006 strings out of 476179
- 116692 string characters out of 5810865
- 435269 words of memory out of 5000000
- 27661 multiletter control sequences out of 15000+600000
- 491343 words of font info for 49 fonts, out of 8000000 for 9000
+ 7018 strings out of 476179
+ 116893 string characters out of 5810865
+ 438270 words of memory out of 5000000
+ 27670 multiletter control sequences out of 15000+600000
+ 496970 words of font info for 55 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 69i,9n,79p,604b,379s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 69i,11n,79p,753b,379s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on relatório8.pdf (5 pages).
+Output written on relatório8.pdf (6 pages).
