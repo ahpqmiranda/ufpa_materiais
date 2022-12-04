@@ -58,4 +58,11 @@
   abnt-cite-style=}\verb+(Author, YEAR)+.}
  Op\c c\~ao selecionada {\tt iso-abbreviation=}\verb+standard+. Op\c c\~ao
   selecionada {\tt iso-author-punctuation=}\verb+void+.
+\bibitem[Souza]{}
+{SOUZA, M S~De; CRUZ, V M~V; PENA, G~L; CARVALHO, A B~De; DANTAS, D~N.
+  \bibtextitlecommand{article}{Estudo cinã‰tico da hidrã“lise do acetato de
+  etila em meio alcalino em reator batelada de tanque agitado (um espaã§o) (um
+  espaã§o)}.
+, [\textit{s.d.}].}
+
 \end{thebibliography}

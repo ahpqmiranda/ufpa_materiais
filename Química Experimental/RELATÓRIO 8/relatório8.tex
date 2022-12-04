@@ -15,8 +15,13 @@
 \usepackage{subfig}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
+\usepackage{array, booktabs, ragged2e}
+\usepackage{makecell}
+\renewcommand\theadalign{lc}
+\renewcommand\theadfont{\bfseries}
 
 \remove{}\usepackage[alf, abnt-emphasize=bf, abnt-thesis-year=both, abnt-repeated-author-omit=no, abnt-last-names=abnt, abnt-etal-cite, abnt-etal-list=3, abnt-etal-text=it, abnt-and-type=e, abnt-doi=doi, abnt-url-package=none, abnt-verbatim-entry=no]{abntex2cite}
+
 
 % Document
 \singlespacing
@@ -43,7 +48,7 @@
     \nocite{*}
 
     \bibliographystyle{USPSC-classe/abntex2-alf-USPSC}
-%    \bibliographystyle{unsrt}
+    \bibliographystyle{unsrt}
     \bibliography{export}
 
 \end{document}

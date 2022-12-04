@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022 - Flatpak) (preloaded format=xelatex 2022.11.15)  26 NOV 2022 19:03
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022 - Flatpak) (preloaded format=xelatex 2022.11.15)  4 DEC 2022 01:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -225,8 +225,61 @@ LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
 (/app/texlive/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ))
+(/app/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen172
+\ar@mcellbox=\box54
+\extrarowheight=\dimen173
+\NC@list=\toks26
+\extratabsurround=\skip57
+\backup@length=\skip58
+\ar@cellbox=\box55
+)
+(/app/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen174
+\lightrulewidth=\dimen175
+\cmidrulewidth=\dimen176
+\belowrulesep=\dimen177
+\belowbottomsep=\dimen178
+\aboverulesep=\dimen179
+\abovetopsep=\dimen180
+\cmidrulesep=\dimen181
+\cmidrulekern=\dimen182
+\defaultaddspace=\dimen183
+\@cmidla=\count289
+\@cmidlb=\count290
+\@aboverulesep=\dimen184
+\@belowrulesep=\dimen185
+\@thisruleclass=\count291
+\@lastruleclass=\count292
+\@thisrulewidth=\dimen186
+)
+(/app/texlive/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2021/12/15 v3.1 ragged2e Package
+\CenteringLeftskip=\skip59
+\RaggedLeftLeftskip=\skip60
+\RaggedRightLeftskip=\skip61
+\CenteringRightskip=\skip62
+\RaggedLeftRightskip=\skip63
+\RaggedRightRightskip=\skip64
+\CenteringParfillskip=\skip65
+\RaggedLeftParfillskip=\skip66
+\RaggedRightParfillskip=\skip67
+\JustifyingParfillskip=\skip68
+\CenteringParindent=\skip69
+\RaggedLeftParindent=\skip70
+\RaggedRightParindent=\skip71
+\JustifyingParindent=\skip72
+)
+(/app/texlive/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen187
+\c@nlinenum=\count293
+\TeXr@lab=\toks27
+)
 ! Undefined control sequence.
-l.19 \remove
+l.23 \remove
             {}\usepackage[alf, abnt-emphasize=bf, abnt-thesis-year=both, abn...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -242,26 +295,26 @@ Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 )
 (/app/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count289
-\calc@Bcount=\count290
-\calc@Adimen=\dimen172
-\calc@Bdimen=\dimen173
-\calc@Askip=\skip57
-\calc@Bskip=\skip58
+\calc@Acount=\count294
+\calc@Bcount=\count295
+\calc@Adimen=\dimen188
+\calc@Bdimen=\dimen189
+\calc@Askip=\skip73
+\calc@Bskip=\skip74
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count291
-\calc@Cskip=\skip59
+\calc@Ccount=\count296
+\calc@Cskip=\skip75
 )
 (/app/texlive/texmf-dist/tex/latex/abntex2/abntex2abrev.sty)
 (/app/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\minimumbiblabelwidth=\skip60
-\ABCIauxlen=\skip61
-\c@ABCIaux=\count292
-\c@ABCImax=\count293
+\minimumbiblabelwidth=\skip76
+\ABCIauxlen=\skip77
+\c@ABCIaux=\count297
+\c@ABCImax=\count298
 
 (/app/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
@@ -272,48 +325,48 @@ Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 (/app/texlive/texmf-dist/tex/latex/relsize/relsize.sty
 Package: relsize 2013/03/29 ver 4.1
 )
-\biblabelsep=\skip62
+\biblabelsep=\skip78
 LaTeX Info: Redefining \newblock on input line 591.
 LaTeX Info: Redefining \cite on input line 618.
-\ABCItoken=\toks26
+\ABCItoken=\toks28
 )
 (/app/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2022-02-07 L3 backend support: XeTeX
 
 (|extractbb --version)
-\c__kernel_sys_dvipdfmx_version_int=\count294
-\l__color_backend_stack_int=\count295
-\g__color_backend_stack_int=\count296
-\g__graphics_track_int=\count297
-\l__pdf_internal_box=\box54
-\g__pdf_backend_object_int=\count298
-\g__pdf_backend_annotation_int=\count299
-\g__pdf_backend_link_int=\count300
+\c__kernel_sys_dvipdfmx_version_int=\count299
+\l__color_backend_stack_int=\count300
+\g__color_backend_stack_int=\count301
+\g__graphics_track_int=\count302
+\l__pdf_internal_box=\box56
+\g__pdf_backend_object_int=\count303
+\g__pdf_backend_annotation_int=\count304
+\g__pdf_backend_link_int=\count305
 ) (./relatório8.aux)
 \openout1 = `relatório8.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
-3.
+8.
 
 (/app/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -349,7 +402,7 @@ LaTeX Font Info:    ... okay on input line 23.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@lstlisting=\count301
+\c@lstlisting=\count306
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -402,44 +455,157 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--53
+Underfull \hbox (badness 10000) in paragraph at lines 47--50
 
  []
+
+
+! Package array Error:  Illegal pream-token (3.50cm): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57 ...RaggedRight} {3.50cm} p{5.50cm} p{5.50cm}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package array Error:  Illegal pream-token (1): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 ...   \multicolumn{1}{1}{\textbf{Substância}}
+                                                   & \textbf{Entalpia de For...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (21.88152pt too wide) in paragraph at lines 57--68
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 [4]
-Overfull \hbox (4.65518pt too wide) in paragraph at lines 76--80
-[]\T1/lmr/m/n/10.95 O ca-lor de fu-são do NaOH é de $\OT1/cmr/m/n/10.95 6\OML/c
-mm/m/it/10.95 ; \OT1/cmr/m/n/10.95 02\OML/cmm/m/it/10.95 kJ=mol$ \T1/lmr/m/n/10
-.95 e o ca-lor de va-po-ri-za-ção do H2O é de $\OT1/cmr/m/n/10.95 40\OML/cmm/m/
-it/10.95 ; \OT1/cmr/m/n/10.95 66\OML/cmm/m/it/10.95 kJ=mol$\T1/lmr/m/n/10.95 . 
+! Double subscript.
+l.84 ...     \item $H^{+}_{(aq)} + 1/2 \dot O_{2}_
+                                                  {(g)} \rightarrow H_{2}O_{...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.95 ...            ${}H^{+}_{(aq)} + (1/2) O_{2}_
+                                                  {(g)} \rightarrow H_{2}O_{...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--103
+
+ []
+
+! Undefined control sequence.
+<argument> ...cdot (0,50 mol \cdot L^{-1}) \cedot 
+                                                  (0.1 \cedot L) \\ &= 8.63 ...
+l.109                 \end{split}
+                                 \label{eq:equation}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ol \cdot L^{-1}) \cedot (0.1 \cedot 
+                                                  L) \\ &= 8.63 kJ\\ \end {s...
+l.109                 \end{split}
+                                 \label{eq:equation}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...cdot (0,50 mol \cdot L^{-1}) \cedot 
+                                                  (0.1 \cedot L) \\ &= 8.63 ...
+l.109                 \end{split}
+                                 \label{eq:equation}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ol \cdot L^{-1}) \cedot (0.1 \cedot 
+                                                  L) \\ &= 8.63 kJ\\ \end {s...
+l.109                 \end{split}
+                                 \label{eq:equation}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+! Double subscript.
+l.154 ...             $H^{+}_{(aq)} + (1/2) O_{2}_
+                                                  {(g)} \rightarrow H_{2}O_{...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--80
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
 
  []
 
+[6]
+! Undefined control sequence.
+<argument> ... 0,10 \cdot mol \cdot L^{-1} \cedot 
+                                                  0.05 \cdot L \\ &= 1.299 \...
+l.198         ^^I\end{split}
+                            
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--108
+! Undefined control sequence.
+<argument> ... 0,10 \cdot mol \cdot L^{-1} \cedot 
+                                                  0.05 \cdot L \\ &= 1.299 \...
+l.198         ^^I\end{split}
+                            
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
- []
-
-
-LaTeX Warning: Reference `subsubsec:determinacao_calor_neutraliza' on page 5 un
-defined on input line 112.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
-
- []
-
-[5]) (./relatório8.bbl
+) (./relatório8.bbl
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
 1.
  (/app/texlive/texmf-dist/tex/latex/lm/t1lmtt.fd
@@ -455,21 +621,24 @@ Underfull \hbox (badness 1092) in paragraph at lines 51--54
 95 . Op-ção se-le-ci-o-nada 
  []
 
-) [6] (./relatório8.aux)
+[7]
+Invalid UTF-8 byte or sequence at line 63 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 63 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 64 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 65 replaced by U+FFFD.
 
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+Missing character: There is no � ("FFFD) in font ec-lmr10!
+Missing character: There is no � ("FFFD) in font ec-lmr10!
+Missing character: There is no � ("FFFD) in font ec-lmr10!
+Missing character: There is no � ("FFFD) in font ec-lmr10!
+) [8] (./relatório8.aux) ) 
 Here is how much of TeX's memory you used:
- 7026 strings out of 476179
- 117040 string characters out of 5810865
- 441278 words of memory out of 5000000
- 27678 multiletter control sequences out of 15000+600000
+ 7418 strings out of 476179
+ 123294 string characters out of 5810865
+ 446389 words of memory out of 5000000
+ 28056 multiletter control sequences out of 15000+600000
  496970 words of font info for 55 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  69i,16n,79p,753b,379s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on relatório8.pdf (6 pages).
+Output written on relatório8.pdf (8 pages).

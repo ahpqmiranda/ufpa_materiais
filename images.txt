@@ -1,0 +1,244 @@
+
+0) name: Química Experimental/RELATÓRIO 7/pictures/tubo7pre.jpeg
+
+1) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.17.jpeg
+
+2) name: Química Experimental/RELATÓRIO 7/pictures/tubo4pre.jpeg
+
+3) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.54.jpeg
+
+4) name: Química Experimental/RELATÓRIO 7/pictures/tubo7pos.jpeg
+
+5) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.55.jpeg
+
+6) name: Química Experimental/RELATÓRIO 7/pictures/tubo6pre.jpeg
+
+7) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.20 (3).jpeg
+
+8) name: Química Experimental/RELATÓRIO 7/pictures/tubo4pos.jpeg
+
+9) name: Química Experimental/RELATÓRIO 7/pictures/tubo3pos.jpeg
+
+10) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.14 (1).jpeg
+
+11) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.14.jpeg
+
+12) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.57 (1).jpeg
+
+13) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.19 (2).jpeg
+
+14) name: Química Experimental/RELATÓRIO 7/pictures/tubo1e2pos.jpeg
+
+15) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.19 (1).jpeg
+
+16) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.05.01 (1).jpeg
+
+17) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.12 (2).jpeg
+
+18) name: Química Experimental/RELATÓRIO 7/pictures/tubo3pre.jpeg
+
+19) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.56 (2).jpeg
+
+20) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.05.00.jpeg
+
+21) name: Química Experimental/RELATÓRIO 7/pictures/tubo8pre.jpeg
+
+22) name: Química Experimental/RELATÓRIO 7/pictures/tubo5pos.jpeg
+
+23) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.12 (1).jpeg
+
+24) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.59 (3).jpeg
+
+25) name: Química Experimental/RELATÓRIO 7/pictures/tubo8pos.jpeg
+
+26) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.52.jpeg
+
+27) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.19.jpeg
+
+28) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.13.jpeg
+
+29) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.16 (1).jpeg
+
+30) name: Química Experimental/RELATÓRIO 7/pictures/logo_ufpa.png
+
+31) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.54 (2).jpeg
+
+32) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.18.jpeg
+
+33) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.56 (1).jpeg
+
+34) name: Química Experimental/RELATÓRIO 7/pictures/tubo6pos.jpeg
+
+35) name: Química Experimental/RELATÓRIO 7/pictures/schematic.jpg
+
+36) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.15.jpeg
+
+37) name: Química Experimental/RELATÓRIO 7/pictures/bancada.jpeg
+
+38) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.53.jpeg
+
+39) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.59 (1).jpeg
+
+40) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.14 (2).jpeg
+
+41) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.20 (1).jpeg
+
+42) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.15 (1).jpeg
+
+43) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.14 (3).jpeg
+
+44) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.05.02.jpeg
+
+45) name: Química Experimental/RELATÓRIO 7/pictures/tubos.jpeg
+
+46) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.13 (2).jpeg
+
+47) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.05.01 (3).jpeg
+
+48) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.59 (2).jpeg
+
+49) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.11.jpeg
+
+50) name: Química Experimental/RELATÓRIO 7/pictures/tubo1e2pre.jpeg
+
+51) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.20.jpeg
+
+52) name: Química Experimental/RELATÓRIO 7/pictures/Screenshot_20221115_010727.png
+
+53) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.21.jpeg
+
+54) name: Química Experimental/RELATÓRIO 7/pictures/tubo5pre.jpeg
+
+55) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.59.jpeg
+
+56) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.05.01 (2).jpeg
+
+57) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.05.00 (2).jpeg
+
+58) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.55 (2).jpeg
+
+59) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.17 (1).jpeg
+
+60) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.21 (2).jpeg
+
+61) name: Química Experimental/RELATÓRIO 7/pictures/tubo7pre.jpeg
+
+62) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.17.jpeg
+
+63) name: Química Experimental/RELATÓRIO 7/pictures/tubo4pre.jpeg
+
+64) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.54.jpeg
+
+65) name: Química Experimental/RELATÓRIO 7/pictures/tubo7pos.jpeg
+
+66) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.55.jpeg
+
+67) name: Química Experimental/RELATÓRIO 7/pictures/tubo6pre.jpeg
+
+68) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.20 (3).jpeg
+
+69) name: Química Experimental/RELATÓRIO 7/pictures/tubo4pos.jpeg
+
+70) name: Química Experimental/RELATÓRIO 7/pictures/tubo3pos.jpeg
+
+71) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.14 (1).jpeg
+
+72) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.14.jpeg
+
+73) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.57 (1).jpeg
+
+74) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.19 (2).jpeg
+
+75) name: Química Experimental/RELATÓRIO 7/pictures/tubo1e2pos.jpeg
+
+76) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.19 (1).jpeg
+
+77) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.05.01 (1).jpeg
+
+78) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.12 (2).jpeg
+
+79) name: Química Experimental/RELATÓRIO 7/pictures/tubo3pre.jpeg
+
+80) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.56 (2).jpeg
+
+81) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.05.00.jpeg
+
+82) name: Química Experimental/RELATÓRIO 7/pictures/tubo8pre.jpeg
+
+83) name: Química Experimental/RELATÓRIO 7/pictures/tubo5pos.jpeg
+
+84) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.12 (1).jpeg
+
+85) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.59 (3).jpeg
+
+86) name: Química Experimental/RELATÓRIO 7/pictures/tubo8pos.jpeg
+
+87) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.52.jpeg
+
+88) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.19.jpeg
+
+89) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.13.jpeg
+
+90) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.16 (1).jpeg
+
+91) name: Química Experimental/RELATÓRIO 7/pictures/logo_ufpa.png
+
+92) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.54 (2).jpeg
+
+93) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.18.jpeg
+
+94) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.56 (1).jpeg
+
+95) name: Química Experimental/RELATÓRIO 7/pictures/tubo6pos.jpeg
+
+96) name: Química Experimental/RELATÓRIO 7/pictures/schematic.jpg
+
+97) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.15.jpeg
+
+98) name: Química Experimental/RELATÓRIO 7/pictures/bancada.jpeg
+
+99) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.53.jpeg
+
+100) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.59 (1).jpeg
+
+101) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.14 (2).jpeg
+
+102) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.20 (1).jpeg
+
+103) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.15 (1).jpeg
+
+104) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.14 (3).jpeg
+
+105) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.05.02.jpeg
+
+106) name: Química Experimental/RELATÓRIO 7/pictures/tubos.jpeg
+
+107) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.13 (2).jpeg
+
+108) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.05.01 (3).jpeg
+
+109) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.59 (2).jpeg
+
+110) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.11.jpeg
+
+111) name: Química Experimental/RELATÓRIO 7/pictures/tubo1e2pre.jpeg
+
+112) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.20.jpeg
+
+113) name: Química Experimental/RELATÓRIO 7/pictures/Screenshot_20221115_010727.png
+
+114) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.21.jpeg
+
+115) name: Química Experimental/RELATÓRIO 7/pictures/tubo5pre.jpeg
+
+116) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.59.jpeg
+
+117) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.05.01 (2).jpeg
+
+118) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.05.00 (2).jpeg
+
+119) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.55 (2).jpeg
+
+120) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.17 (1).jpeg
+
+121) name: Química Experimental/RELATÓRIO 7/pictures/WhatsApp Image 2022-10-29 at 20.04.21 (2).jpeg
