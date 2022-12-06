@@ -6,63 +6,56 @@
 \providecommand{\bibtextitlecommand}[2]{#2}
 \abntbstabout{v-1.9.7 }
 
-\bibitem[]{abnt-show-options=list}
-{Mudan\c ca de estilo ap\'os este ponto com o comando
-  \verb!\citeoption{abnt-show-options=list}! . Op\c c\~ao selecionada {\tt
-  abnt-show-options=}\verb+list+.}
+\bibitem[Academy]{ENTALPIAS-E0FORMAÇÃO_E_REAÇÃO}
+{ACADEMY, Khan. a. \bibtextitlecommand{}{\emph{Entalpia de ligação e entalpia
+  de reação (artigo) | Khan Academy}}.
+Available from Internet:
+  \htmladdnormallink{$<$https:\-/\-/pt\-.khanacademy\-.org\-/science\-/chemistry\-/thermodynamics-chemistry\-/enthalpy-chemistry-sal\-/a\-/bond-enthalpy-and-enthalpy-of-reaction$>$}.}
 
-\bibitem[]{abnt-substyle=none}
-{Mudan\c ca de estilo ap\'os este ponto com o comando
-  \verb!\citeoption{abnt-substyle=none}! .}
+\bibitem[Academy]{LEI_DE_HESS}
+{\underline{\ \ \ \ \ \ \ \ }. b. \bibtextitlecommand{}{\emph{Lei de Hess e
+  variação de entalpia de reação (vídeo) | Khan Academy}}.
+Available from Internet:
+  \htmladdnormallink{$<$https:\-/\-/pt\-.khanacademy\-.org\-/science\-/chemistry\-/thermodynamics-chemistry\-/enthalpy-chemistry-sal\-/v\-/hess-s-law-and-reaction-enthalpy-change$>$}.}
 
-\bibitem[]{abnt-substyle=UFLA}
-{Mudan\c ca de estilo ap\'os este ponto com o comando
-  \verb!\citeoption{abnt-substyle=UFLA}! . Op\c c\~ao selecionada {\tt
-  abnt-and-type=}\verb+&+. Op\c c\~ao selecionada {\tt
-  abnt-etal-cite=}\verb+2+. Op\c c\~ao selecionada {\tt
-  abnt-etal-list=}\verb+0+.}
+\bibitem[ENEM]{ENTALPIA_NEM}
+{ENEM, Manual do. \bibtextitlecommand{}{\emph{Entalpia - Manual do Enem}}.
+Available from Internet:
+  \htmladdnormallink{$<$https:\-/\-/querobolsa\-.com\-.br\-/enem\-/quimica\-/entalpia$>$}.}
 
-\bibitem[]{abnt-substyle=COPPE}
-{Mudan\c ca de estilo ap\'os este ponto com o comando
-  \verb!\citeoption{abnt-substyle=COPPE}! . Op\c c\~ao selecionada {\tt
-  abnt-title-command=}\verb+yes+.}
+\bibitem[Fogaça]{ENTALPIA_NEUTRALIZAÇÃO}
+{FOGAçA, Jennifer Rocha~Vargas. \bibtextitlecommand{}{\emph{Entalpia de
+  Neutralização. Variação da Entalpia de Neutralização}}.
+Available from Internet:
+  \htmladdnormallink{$<$https:\-/\-/mundoeducacao\-.uol\-.com\-.br\-/quimica\-/entalpia-neutralizacao\-.htm$>$}.}
 
-\bibitem[]{abnt-thesis-year=final}
-{Mudan\c ca de estilo ap\'os este ponto com o comando
-  \verb!\citeoption{abnt-thesis-year=final}! . Op\c c\~ao selecionada {\tt
-  abnt-thesis-year=}\verb+final+.}
+\bibitem[Química]{TIPOS_ENTALPIA}
+{QUíMICA, Só. \bibtextitlecommand{}{\emph{Entalpia de neutralização,
+  Entalpia de dissolução - Só Química}}.
+Available from Internet:
+  \htmladdnormallink{$<$https:\-/\-/www\-.soquimica\-.com\-.br\-/conteudos\-/em\-/termoquimica\-/p4\underline{\
+  }2\-.php$>$}.}
 
-\bibitem[]{abnt-thesis-year=title}
-{Mudan\c ca de estilo ap\'os este ponto com o comando
-  \verb!\citeoption{abnt-thesis-year=title}! . Op\c c\~ao selecionada {\tt
-  abnt-thesis-year=}\verb+title+.}
+\bibitem[quimicaparaovestibular]{TABELA_ENTALPIAS}
+{QUIMICAPARAOVESTIBULAR. \bibtextitlecommand{}{\emph{Enhanced Reader}}.
+Available from Internet:
+  \htmladdnormallink{$<$http:\-/\-/www\-.quimicaparaovestibular\-.com\-.br\-/wa\underline{\
+  }files\-/Tabela\underline{\ }20de\underline{\ }20entalpias\underline{\
+  }20de\underline{\ }20forma\underline{\ }C3\underline{\ }A7\underline{\
+  }C3\underline{\
+  }A3o\-.pdf$>$}.}
 
-\bibitem[]{abnt-title-command=no}
-{Mudan\c ca de estilo ap\'os este ponto com o comando
-  \verb!\citeoption{abnt-title-command=no}! . Op\c c\~ao selecionada {\tt
-  abnt-title-command=}\verb+no+.}
+\bibitem[Santos]{EQUAÇÃO_ARRENHIUS}
+{SANTOS, Lucas Makoto~Tanaka dos. \bibtextitlecommand{}{\emph{Equação de
+  Arrhenius - O que é e como usar - Ciência em Ação}}.
+Available from Internet:
+  \htmladdnormallink{$<$https:\-/\-/cienciaemacao\-.com\-.br\-/equacao-de-arrhenius\-/$>$}.}
 
-\bibitem[]{abnt-title-command=yes}
-{Mudan\c ca de estilo ap\'os este ponto com o comando
-  \verb!\citeoption{abnt-title-command=yes}! . Op\c c\~ao selecionada {\tt
-  abnt-title-command=}\verb+yes+.}
-
-\bibitem[]{abnt-url-package=hyperref}
-{Mudan\c ca de estilo ap\'os este ponto com o comando
-  \verb!\citeoption{abnt-url-package=hyperref}! . Op\c c\~ao selecionada {\tt
-  abnt-url-package=}\verb+hyperref+.}
-
-\bibitem[]{iso-690-1987}
-{Mudan\c ca de estilo ap\'os este ponto com o comando
-  \verb!\citeoption{iso-690-1987}! . Op\c c\~ao selecionada {\tt
-  abnt-cite-style=}\verb+(Author, YEAR)+.}
- Op\c c\~ao selecionada {\tt iso-abbreviation=}\verb+standard+. Op\c c\~ao
-  selecionada {\tt iso-author-punctuation=}\verb+void+.
-\bibitem[Souza]{}
+\bibitem[Souza]{RESUMO_HIDRÓLISE}
 {SOUZA, M S~De; CRUZ, V M~V; PENA, G~L; CARVALHO, A B~De; DANTAS, D~N.
-  \bibtextitlecommand{article}{Estudo cin�tico da hidr�lise do acetato de
-  etila em meio alcalino em reator batelada de tanque agitado (um espa�o) (um
-  espa�o)}.
+  \bibtextitlecommand{article}{Estudo cin�tico da hidr�lise do acetato de
+  etila em meio alcalino em reator batelada de tanque agitado (um espa�o) (um
+  espa�o)}.
 , [\textit{s.d.}].}
 
 \end{thebibliography}

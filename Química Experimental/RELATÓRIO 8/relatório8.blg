@@ -5,7 +5,7 @@ Release version: 3.72 (05 feb 2022)
 The 8-bit codepage and sorting file: 88591lat.csf
 The top-level auxiliary file: relat  rio8.aux
 The style file: USPSC-classe/abntex2-alf-USPSC.bst
-Illegal, another \bibstyle command---line 46 of file relat  rio8.aux
+Illegal, another \bibstyle command---line 50 of file relat  rio8.aux
  : \bibstyle
  :          {unsrt}
 I'm skipping whatever remains of this command
@@ -27,39 +27,23 @@ Repeated entry---line 11 of file abntex2-options.bib
  :                                         ,
 I'm skipping whatever remains of this entry
 Database file #2: export.bib
-Repeated entry---line 6 of file export.bib
- : @web_page{
- :           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 11 of file export.bib
- : @web_page{
- :           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 16 of file export.bib
- : @web_page{
- :           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 21 of file export.bib
- : @web_page{
- :           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 26 of file export.bib
- : @web_page{
- :           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 31 of file export.bib
- : @web_page{
- :           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 36 of file export.bib
- : @article{
- :          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 40 of file export.bib
- : @web_page{
- :           ,
-I'm skipping whatever remains of this entry
+Warning--entry type for "ENTALPIA_NEM" isn't style-file defined
+--line 6 of file export.bib
+Reallocated field_info (elt_size=8) to 10037 items from 5000.
+Warning--entry type for "EQUAÇÃO_ARRENHIUS" isn't style-file defined
+--line 11 of file export.bib
+Warning--entry type for "TABELA_ENTALPIAS" isn't style-file defined
+--line 16 of file export.bib
+Warning--entry type for "TIPOS_ENTALPIA" isn't style-file defined
+--line 21 of file export.bib
+Warning--entry type for "LEI_DE_HESS" isn't style-file defined
+--line 26 of file export.bib
+Warning--entry type for "ENTALPIAS-E0FORMAÇÃO_E_REAÇÃO" isn't style-file defined
+--line 31 of file export.bib
+Warning--entry type for "ENTALPIA_NEUTRALIZAÇÃO" isn't style-file defined
+--line 36 of file export.bib
 Warning--I didn't find a database entry for "abnt-etal-cite"
+Warning--I didn't find a database entry for "wikipedia"
 Reallocated singl_function (elt_size=8) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=8) to 20 items from 10.
 Reallocated global_strs (elt_size=200001) to 20 items from 10.
@@ -145,7 +129,7 @@ ptr=1, stack=
 Op\c c\~ao selecionada {\tt iso-date-place=}\verb+ISO+
 ---the literal stack isn't empty for entry iso-690-1987
 while executing---line 2146 of file USPSC-classe/abntex2-alf-USPSC.bst
-Warning--campo year vazio ou faltando em  (vou colocar [\textit{s.d.}])
+Warning--campo year vazio ou faltando em RESUMO_HIDRÓLISE (vou colocar [\textit{s.d.}])
 +---------------------------------------------------------+
 | Estilo bibliográfico abntex2-alf.bst versão v-1.9.7           |
 | Em caso de dúvidas ou problemas com este estilo procure |
@@ -153,10 +137,10 @@ Warning--campo year vazio ou faltando em  (vou colocar [\textit{s.d.}])
 +---------------------------------------------------------+
 
 Here's how much of BibTeX's memory you used:
- Cites:                69 out of 750
- Fields:             4749 out of 5000
- Hash table:       199353 out of 200000
- Strings:            1270 out of 200000
- Free string pool:  11001 out of 65000
+ Cites:                76 out of 750
+ Fields:             4749 out of 10037
+ Hash table:       199354 out of 200000
+ Strings:            1307 out of 200000
+ Free string pool:  12402 out of 65000
  Wizard functions:   6714 out of 9000
-(There were 49 error messages)
+(There were 41 error messages)

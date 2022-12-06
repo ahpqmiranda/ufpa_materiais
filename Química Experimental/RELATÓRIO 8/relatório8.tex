@@ -17,6 +17,7 @@
 \usepackage[T1]{fontenc}
 \usepackage{array, booktabs, ragged2e}
 \usepackage{makecell}
+\usepackage{stmaryrd}
 \renewcommand\theadalign{lc}
 \renewcommand\theadfont{\bfseries}
 
@@ -40,6 +41,12 @@
     \input{sections/experimentos.tex}
 
 
+    \input{sections/resultados.tex}
+    \newpage
+    
+    \input{sections/conclusao.tex}
+
+	\newpage
     \ifpdf\else
     \def\href#1#2{\htmladdnormallink{#2}{#1}}
     \fi	%\def\href#1#2
