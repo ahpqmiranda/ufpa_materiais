@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022 - Flatpak) (preloaded format=xelatex 2022.11.15)  6 DEC 2022 11:43
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022 - Flatpak) (preloaded format=xelatex 2022.11.15)  7 DEC 2022 09:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -615,33 +615,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 205--206
  []
 
 ) (./sections/resultados.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--3
+
+LaTeX Warning: Citation `wikipedia' on page 7 undefined on input line 3.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
 [7]
-
-LaTeX Warning: Citation `wikipedia' on page 8 undefined on input line 4.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--7
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.18         \end{split}
+l.17         \end{split}
                         
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -652,7 +647,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.18         \end{split}
+l.17         \end{split}
                         
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -660,7 +655,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing { inserted.
 <inserted text> 
                 {
-l.18         \end{split}
+l.17         \end{split}
                         
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -669,7 +664,7 @@ Try to go on, since this might almost work.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.18         \end{split}
+l.17         \end{split}
                         
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -680,7 +675,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing { inserted.
 <inserted text> 
                 {
-l.18         \end{split}
+l.17         \end{split}
                         
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -689,7 +684,7 @@ Try to go on, since this might almost work.
 ! Extra alignment tab has been changed to \cr.
 <template> }$\hfill \endtemplate 
                                  
-l.18         \end{split}
+l.17         \end{split}
                         
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
@@ -698,7 +693,7 @@ So I'll assume that you meant to type \cr instead.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.18         \end{split}
+l.17         \end{split}
                         
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -709,7 +704,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing { inserted.
 <inserted text> 
                 {
-l.18         \end{split}
+l.17         \end{split}
                         
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -718,7 +713,7 @@ Try to go on, since this might almost work.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.18         \end{split}
+l.17         \end{split}
                         
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -726,7 +721,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.18         \end{split}
+l.17         \end{split}
                         
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -737,7 +732,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.18         \end{split}
+l.17         \end{split}
                         
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -745,7 +740,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing { inserted.
 <inserted text> 
                 {
-l.18         \end{split}
+l.17         \end{split}
                         
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -754,7 +749,7 @@ Try to go on, since this might almost work.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.18         \end{split}
+l.17         \end{split}
                         
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -765,7 +760,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing { inserted.
 <inserted text> 
                 {
-l.18         \end{split}
+l.17         \end{split}
                         
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -774,7 +769,7 @@ Try to go on, since this might almost work.
 ! Extra alignment tab has been changed to \cr.
 <template> }$\hfill \endtemplate 
                                  
-l.18         \end{split}
+l.17         \end{split}
                         
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
@@ -783,7 +778,7 @@ So I'll assume that you meant to type \cr instead.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.18         \end{split}
+l.17         \end{split}
                         
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -794,7 +789,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing { inserted.
 <inserted text> 
                 {
-l.18         \end{split}
+l.17         \end{split}
                         
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -803,7 +798,7 @@ Try to go on, since this might almost work.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.18         \end{split}
+l.17         \end{split}
                         
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -811,7 +806,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.27         \end{split}
+l.26         \end{split}
                         
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -822,7 +817,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.27         \end{split}
+l.26         \end{split}
                         
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -830,7 +825,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing { inserted.
 <inserted text> 
                 {
-l.27         \end{split}
+l.26         \end{split}
                         
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -839,7 +834,7 @@ Try to go on, since this might almost work.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.27         \end{split}
+l.26         \end{split}
                         
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -850,7 +845,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing { inserted.
 <inserted text> 
                 {
-l.27         \end{split}
+l.26         \end{split}
                         
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -859,7 +854,7 @@ Try to go on, since this might almost work.
 ! Extra alignment tab has been changed to \cr.
 <template> }$\hfill \endtemplate 
                                  
-l.27         \end{split}
+l.26         \end{split}
                         
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
@@ -868,7 +863,7 @@ So I'll assume that you meant to type \cr instead.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.27         \end{split}
+l.26         \end{split}
                         
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -879,7 +874,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing { inserted.
 <inserted text> 
                 {
-l.27         \end{split}
+l.26         \end{split}
                         
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -888,7 +883,7 @@ Try to go on, since this might almost work.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.27         \end{split}
+l.26         \end{split}
                         
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -896,7 +891,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.27         \end{split}
+l.26         \end{split}
                         
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -907,7 +902,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.27         \end{split}
+l.26         \end{split}
                         
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -915,7 +910,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing { inserted.
 <inserted text> 
                 {
-l.27         \end{split}
+l.26         \end{split}
                         
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -924,7 +919,7 @@ Try to go on, since this might almost work.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.27         \end{split}
+l.26         \end{split}
                         
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -935,7 +930,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing { inserted.
 <inserted text> 
                 {
-l.27         \end{split}
+l.26         \end{split}
                         
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -944,7 +939,7 @@ Try to go on, since this might almost work.
 ! Extra alignment tab has been changed to \cr.
 <template> }$\hfill \endtemplate 
                                  
-l.27         \end{split}
+l.26         \end{split}
                         
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
@@ -953,7 +948,7 @@ So I'll assume that you meant to type \cr instead.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.27         \end{split}
+l.26         \end{split}
                         
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -964,7 +959,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing { inserted.
 <inserted text> 
                 {
-l.27         \end{split}
+l.26         \end{split}
                         
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -973,17 +968,32 @@ Try to go on, since this might almost work.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.27         \end{split}
+l.26         \end{split}
                         
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
 
  []
 
-) [8] (./sections/conclusao.tex) [9] (./relatório8.bbl
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+) (./sections/conclusao.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 4--48
+
+ []
+
+[8] (./relatório8.bbl
 ! Undefined control sequence.
 l.13   \htmladdnormallink
                          {$<$https:\-/\-/pt\-.khanacademy\-.org\-/science\-/...
@@ -1057,7 +1067,7 @@ Missing character: There is no � ("FFFD) in font ec-lmr10!
 Missing character: There is no � ("FFFD) in font ec-lmr10!
 Missing character: There is no � ("FFFD) in font ec-lmr10!
 Missing character: There is no � ("FFFD) in font ec-lmr10!
-) [10] (./relatório8.aux)
+) [9] (./relatório8.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -1068,10 +1078,10 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Here is how much of TeX's memory you used:
  7669 strings out of 476179
  126405 string characters out of 5810865
- 447688 words of memory out of 5000000
+ 447690 words of memory out of 5000000
  28293 multiletter control sequences out of 15000+600000
  497875 words of font info for 60 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  69i,16n,79p,753b,312s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on relatório8.pdf (10 pages).
+Output written on relatório8.pdf (9 pages).
