@@ -5,7 +5,7 @@ Release version: 3.72 (05 feb 2022)
 The 8-bit codepage and sorting file: 88591lat.csf
 The top-level auxiliary file: relat  rio8.aux
 The style file: USPSC-classe/abntex2-alf-USPSC.bst
-Illegal, another \bibstyle command---line 50 of file relat  rio8.aux
+Illegal, another \bibstyle command---line 58 of file relat  rio8.aux
  : \bibstyle
  :          {unsrt}
 I'm skipping whatever remains of this command
@@ -43,7 +43,6 @@ Warning--entry type for "ENTALPIAS-E0FORMAÇÃO_E_REAÇÃO" isn't style-file def
 Warning--entry type for "ENTALPIA_NEUTRALIZAÇÃO" isn't style-file defined
 --line 36 of file export.bib
 Warning--I didn't find a database entry for "abnt-etal-cite"
-Warning--I didn't find a database entry for "wikipedia"
 Reallocated singl_function (elt_size=8) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=8) to 20 items from 10.
 Reallocated global_strs (elt_size=200001) to 20 items from 10.
@@ -138,9 +137,9 @@ Warning--campo year vazio ou faltando em RESUMO_HIDRÓLISE (vou colocar [\textit
 
 Here's how much of BibTeX's memory you used:
  Cites:                76 out of 750
- Fields:             4749 out of 10037
- Hash table:       199354 out of 200000
- Strings:            1307 out of 200000
- Free string pool:  12402 out of 65000
+ Fields:             4818 out of 10037
+ Hash table:       199355 out of 200000
+ Strings:            1306 out of 200000
+ Free string pool:  12393 out of 65000
  Wizard functions:   6714 out of 9000
 (There were 41 error messages)

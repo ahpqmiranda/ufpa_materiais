@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022 - Flatpak) (preloaded format=xelatex 2022.11.15)  7 DEC 2022 09:20
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022 - Flatpak) (preloaded format=xelatex 2022.11.15)  7 DEC 2022 11:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -426,50 +426,71 @@ LaTeX Font Info:    Trying to load font information for U+stmry on input line 5
 (./sections/introducao.tex [1
 
 ]
-! Undefined control sequence.
-l.11         \schemestart
-                          $2 H_2SO_4(aq)$ \arrow{--->} $2 H_2O(l) + SO_2(g)$...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+! Double subscript.
+l.11         2\cdot H_2SO_4_
+                            {(aq)} \rightarrow 2\cdot H_2O_{(l)} + SO_2_{(g)...
+I treat `x_1_2' essentially like `x_1{}_2'.
 
-! Undefined control sequence.
-l.11         \schemestart $2 H_2SO_4(aq)$ \arrow
-                                                {--->} $2 H_2O(l) + SO_2(g)$...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+! Double subscript.
+l.11 ...aq)} \rightarrow 2\cdot H_2O_{(l)} + SO_2_
+                                                  {(g)} \label{eq:exemplo}
+I treat `x_1_2' essentially like `x_1{}_2'.
 
-! Undefined control sequence.
-l.11 ...ow{--->} $2 H_2O(l) + SO_2(g)$ \schemestop
-                                                   \label{fig:exemplo}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
 
 ) (./sections/objetivos.tex
 Underfull \hbox (badness 10000) in paragraph at lines 9--12
 
  []
 
-[2]) (./sections/materiais.tex) (./sections/experimentos.tex
+[2])
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35     \input{sections/objetivos.tex}
+                                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+(./sections/materiais.tex)
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38     \input{sections/materiais.tex}
+                                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[3] (./sections/experimentos.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--50
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
 
  []
 
@@ -480,7 +501,7 @@ See the array package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.57 ...RaggedRight} {3.50cm} p{5.50cm} p{5.50cm}}
+l.56 ...RaggedRight} {3.50cm} p{5.50cm} p{5.50cm}}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -492,138 +513,123 @@ See the array package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...   \multicolumn{1}{1}{\textbf{Substância}}
+l.58 ...   \multicolumn{1}{1}{\textbf{Substância}}
                                                    & \textbf{Entalpia de For...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (21.88152pt too wide) in paragraph at lines 57--68
+Overfull \hbox (21.88152pt too wide) in paragraph at lines 56--67
  [][] 
  []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
-[4]
-! Double subscript.
-l.84 ...     \item $H^{+}_{(aq)} + 1/2 \dot O_{2}_
-                                                  {(g)} \rightarrow H_{2}O_{...
-I treat `x_1_2' essentially like `x_1{}_2'.
+ []
 
 ! Double subscript.
-l.95 ...            ${}H^{+}_{(aq)} + (1/2) O_{2}_
+l.83 ...     \item $H^{+}_{(aq)} + 1/2 \dot O_{2}_
                                                   {(g)} \rightarrow H_{2}O_{...
 I treat `x_1_2' essentially like `x_1{}_2'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--100
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 101--103
-
- []
-
-! Undefined control sequence.
-<argument> ...0,50 \cdot mol \cdot L^{-1}) \cedot 
-                                                  (0.1 \cedot L) \\ &= 2,73 ...
-l.109                 \end{split}
-                                 \label{eq:equation}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> ...ol \cdot L^{-1}) \cedot (0.1 \cedot 
-                                                  L) \\ &= 2,73 \cdot kJ\\ \...
-l.109                 \end{split}
-                                 \label{eq:equation}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> ...0,50 \cdot mol \cdot L^{-1}) \cedot 
-                                                  (0.1 \cedot L) \\ &= 2,73 ...
-l.109                 \end{split}
-                                 \label{eq:equation}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> ...ol \cdot L^{-1}) \cedot (0.1 \cedot 
-                                                  L) \\ &= 2,73 \cdot kJ\\ \...
-l.109                 \end{split}
-                                 \label{eq:equation}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 112--113
-
- []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 137--138
-
- []
-
 ! Double subscript.
-l.152 ...             $H^{+}_{(aq)} + (1/2) O_{2}_
+l.98 ...            ${}H^{+}_{(aq)} + (1/2) O_{2}_
                                                   {(g)} \rightarrow H_{2}O_{...
 I treat `x_1_2' essentially like `x_1{}_2'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--160
+Underfull \hbox (badness 10000) in paragraph at lines 104--106
 
  []
 
+! Undefined control sequence.
+<argument> ...0,50 \cdot mol \cdot L^{-1}) \cedot 
+                                                  (0.1 \cedot L) \\ &= 2,73 ...
+l.112                 \end{split}
+                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+! Undefined control sequence.
+<argument> ...ol \cdot L^{-1}) \cedot (0.1 \cedot 
+                                                  L) \\ &= 2,73 \cdot kJ\\ \...
+l.112                 \end{split}
+                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
+! Undefined control sequence.
+<argument> ...0,50 \cdot mol \cdot L^{-1}) \cedot 
+                                                  (0.1 \cedot L) \\ &= 2,73 ...
+l.112                 \end{split}
+                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--173
-
- []
+! Undefined control sequence.
+<argument> ...ol \cdot L^{-1}) \cedot (0.1 \cedot 
+                                                  L) \\ &= 2,73 \cdot kJ\\ \...
+l.112                 \end{split}
+                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 180--181
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 205--206
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+
+ []
+
+! Double subscript.
+l.163 ...             $H^{+}_{(aq)} + (1/2) O_{2}_
+                                                  {(g)} \rightarrow H_{2}O_{...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
 
  []
 
 ) (./sections/resultados.tex
 
-LaTeX Warning: Citation `wikipedia' on page 7 undefined on input line 3.
+LaTeX Warning: Citation `TABELA_ENTALPIAS' on page 8 undefined on input line 3.
+
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
-[7]
+[8]
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
@@ -993,7 +999,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--48
 
  []
 
-[8] (./relatório8.bbl
+[9] (./relatório8.bbl
 ! Undefined control sequence.
 l.13   \htmladdnormallink
                          {$<$https:\-/\-/pt\-.khanacademy\-.org\-/science\-/...
@@ -1049,9 +1055,15 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 1466) in paragraph at lines 40--47
-\T1/lmr/m/n/10.95 In-ter-net: $\OML/cmm/m/it/10.95 <$\T1/lmr/m/n/10.95 http:-/-
-/www-.quimicaparaovestibular-.com-.br-/wa$[]$files- 
+Underfull \hbox (badness 1596) in paragraph at lines 40--47
+[]\T1/lmr/m/n/10.95 QUIMICAPARAOVESTIBULAR. \T1/lmr/m/it/10.95 Enhan-ced Re-a-d
+er\T1/lmr/m/n/10.95 . Dis-po-ní- 
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 40--47
+\T1/lmr/m/n/10.95 vel em: $\OML/cmm/m/it/10.95 <$\T1/lmr/m/n/10.95 http:-/-/www
+-.quimicaparaovestibular-.com-.br-/wa$[]$files- 
  []
 
 ! Undefined control sequence.
@@ -1067,21 +1079,18 @@ Missing character: There is no � ("FFFD) in font ec-lmr10!
 Missing character: There is no � ("FFFD) in font ec-lmr10!
 Missing character: There is no � ("FFFD) in font ec-lmr10!
 Missing character: There is no � ("FFFD) in font ec-lmr10!
-) [9] (./relatório8.aux)
+) [10] (./relatório8.aux)
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 7669 strings out of 476179
- 126405 string characters out of 5810865
- 447690 words of memory out of 5000000
- 28293 multiletter control sequences out of 15000+600000
- 497875 words of font info for 60 fonts, out of 8000000 for 9000
+ 7667 strings out of 476179
+ 126484 string characters out of 5810865
+ 444709 words of memory out of 5000000
+ 28294 multiletter control sequences out of 15000+600000
+ 495899 words of font info for 52 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 69i,16n,79p,753b,312s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 69i,16n,79p,754b,312s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on relatório8.pdf (9 pages).
+Output written on relatório8.pdf (10 pages).
