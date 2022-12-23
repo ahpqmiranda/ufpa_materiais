@@ -1,5 +1,0 @@
-[0] Config.pm:306> INFO - This is Biber 2.18
-[0] Config.pm:309> INFO - Logfile is 'relatÃ³rio7.tex.blg'
-[99] biber:340> INFO - === Sun Nov 20, 2022, 00:57:01
-[122] Utils.pm:410> ERROR - Cannot find 'relatÃ³rio7.tex.bcf'!
-[123] Biber.pm:135> INFO - ERRORS: 1

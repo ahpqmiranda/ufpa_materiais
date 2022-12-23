@@ -17,7 +17,7 @@ def list_images_files(directory):
 
 if __name__ == '__main__':
     with open('images.txt', 'w') as f:
-        for index, name in enumerate(list_images_files('Química Experimental/RELATÓRIO 7/')):
+        for index, name in enumerate(list_images_files('2 Química Experimental/RELATÓRIO 7/')):
             f.write(f'\n{index}) name: {name}\n')
 
         f.close()
