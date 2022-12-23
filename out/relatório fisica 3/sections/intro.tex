@@ -1,0 +1,35 @@
+\section{Introdução}
+\label{Introducao}
+
+    \indent O circuito proposto é mostrado na Figura 1. Como parâmetros iniciais, determinou-se os valores abaixo.
+
+\begin{figure}[h!]
+    \centering
+    \begin{circuitikz}
+        \draw (0,0)
+        (0,0) node[npn, tr circle](Q1){BC548}
+        (Q1.base) node[anchor=east]{B}
+        (Q1.collector) node[anchor=south]{C}
+        (Q1.emitter) node[anchor=north]{E}
+        (-2,0) -- (-1,0)
+        (-2,0) to [R, l=10K{$\Omega$}] (-2,3.5)
+        (0,0.9) to [R, l=3.9K{$\Omega$}] (0,3.5)
+        (-2,3.5) -- (0,3.5)
+        (-1, 3.5) -- (-1, 4) node[vcc]{$V_{cc}$}
+        (-2,0) to [R, l=2.2K{$\Omega$}] (-2,-3.5)
+        (-2,-3.5) -- (2, -3.5)
+        (0, -0.9) to [eC, l=50<\mu\farad>] (0, -3.5)
+        (0, -1) -- (2, -1)
+        (2,-1) to[R, l=\SI{820}{$\Omega$}] (2,-3.5)
+        (0,-3.5) -- (0,-4.5) node[tlground]{GND}
+        (-2,0) to [eC, *-o, l=10<\mu\farad>] (-4,0) node[left]{IN}
+        (0,0.9) to [eC, *-o, l=10<\mu\farad>] (2,0.9)  node[right]{OUT}
+        ;
+    \end{circuitikz}\label{fig:figure}
+    \caption{Circuito proposto}
+
+\end{figure}
+
+
+
+
