@@ -217,7 +217,7 @@ def focus_histogram(image):
 
 if __name__ == '__main__':
     # Read image
-    img = cv2.imread('img.png')
+    img = cv2.imread('critério de tresca para falha.png')
     y_0, x_0, h, w = 400, 400, 200, 200
     crop_img = img[y_0:y_0 + h, x_0:x_0 + w]
 

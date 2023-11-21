@@ -1,0 +1,60 @@
+%! Author = ahpqmiranda
+%! Date = 11/20/23
+
+% Preamble
+\documentclass[11pt]{article}
+\usepackage[left=3cm, top=3cm, right=2cm, bottom=2.0cm]{geometry} %pacote que define as margens do documento
+% Packages
+\usepackage[utf8]{inputenc} %pacote que normaliza a acentuação
+\usepackage[brazil]{babel} %pacote que define o idioma
+\usepackage{graphicx} %pacote que permite a inserção de imagens
+\pagestyle{myheadings} %pacote que define o cabeçalho com o número de página no canto superior direito
+\usepackage{setspace} %pacote que permite especificar o espaçamento entre linhas no documento
+\usepackage{indentfirst} %pacote que faz indentação na primeira linha do parágrafo
+\setlength{\parindent}{1cm} %pacote que define o tamanho da indentação
+\usepackage{float} %Pacote que permite tabelas flutuarem em qualquer posição
+\usepackage[alf,abnt-repeated-title-omit=yes,abnt-emphasize=bf,abnt-etal-list=0]{abntex2cite} %define os parâmetros necessários para as referências e citações de acordo com a ABNT
+\usepackage{amsthm}
+\usepackage{amsmath} % Pacote que permite a elaboração de Equações matemáticas
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{booktabs}
+\usepackage{amsfonts}
+\usepackage[version=3]{mhchem} % Pacote que permite a inserção de equações e fórmulas químicas em texto
+\usepackage{subcaption} % Pacote que permite que imagens possam ser inseridas em composições de imagens lado a lado com o \subfigure
+\usepackage{amssymb} %4 Pacotes responsáveis pela formatação matemática
+\usepackage{rotating} %permite que textos, figuras e tabelas possam ser rotacionados
+\usepackage{changepage}
+\usepackage{pgffor} % lista de taelas e figuras
+\usepackage[table,xcdraw]{xcolor}
+\documentclass[xcolor=table]{beamer}
+\renewcommand*{\insertchapterspace}{%
+	\addtocontents{lof}{\protect\addvspace{10pt}}%
+	\addtocontents{lot}{\protect\addvspace{10pt}} }
+\usepackage{fancyhdr}
+
+
+\begin{document}
+\input{tex/capa}
+
+\pagestyle{empty}
+\input{tex/resumo}
+\thispagestyle{empty}
+\begin{center}
+    \listoffigures 				% lista de figuras (opcional)
+    \newpage
+    \listoftables 				% lista de tabelas (opcional)
+    \newpage
+    \tableofcontents 			% sumário
+    \newpage						%
+\end{center}
+
+\cleardoublepage			%
+\pagestyle{fancy}			% formatação para corpo do texto
+						%
+\input{tex/introducao}		%
+\input{tex/basededados}    	% inserir os capítulos do seu
+\input{tex/analise}		% trabalho.
+\input{tex/conclusao}		%
+
+
+\end{document}
