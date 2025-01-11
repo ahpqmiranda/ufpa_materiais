@@ -1,0 +1,135 @@
+\documentclass[a4paper, 11pt]{article}
+\usepackage[left=3cm, top=3cm, right=2cm, bottom=2cm]{geometry}
+%pacote que define as margens
+\usepackage{helvet} % carrega o documento com Fonte ARIAL
+\renewcommand{\familydefault}{\sfdefault} % define a fonte ARIAL como padrão do texto
+\usepackage[utf8]{inputenc} %pacote que normaliza a acentuação
+\usepackage[T1]{fontenc}
+\usepackage[brazil]{babel} %pacote que define o idioma
+\usepackage{graphicx} %pacote que permite a inserção de imagens
+\pagestyle{myheadings} %pacote que define o cabeçalho com o número de página no canto superior direito
+\usepackage{setspace} %pacote que permite especificar o espaçamento entre linhas no documento
+\usepackage{indentfirst} %pacote que faz indentação na primeira linha do parágrafo
+\setlength{\parindent}{1cm} %pacote que define o tamanho da indentação
+\usepackage{float} %Pacote que permite tabelas flutuarem em qualquer posição
+% \usepackage[alf,abnt-repeated-title-omit=yes,abnt-emphasize=bf,abnt-etal-list=0]{abntex2cite} %define os parâmetros necessários para as referências e citações de acordo com a ABNT
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{subcaption} % Pacote que permite que imagens possam ser inseridas em composições de imagens lado a lado com o \subfigure
+\usepackage{amssymb} %4 Pacotes responsáveis pela formatação matemática
+\usepackage{rotating} %permite que textos, figuras e tabelas possam ser rotacionados
+\usepackage{array}    % permite e vetorização de tabelas
+\usepackage{longtable} % permite a elaboração de tabelas complexas
+\usepackage{colortbl} % permite a utilização de paletas de cores
+\usepackage{tikz} % criação de objetos vetoriais
+\usetikzlibrary{shapes, arrows.meta, positioning}
+\usepackage{pdflscape} % permite alterar o estilo da pagina entre portrato e paisagem
+\usepackage{hyperref}
+\hypersetup{
+colorlinks=true,
+linkcolor=darkblue,
+filecolor=magenta,
+urlcolor=blue,
+citecolor=black,
+pdftitle={mybib},
+pdfpagemode=FullScreen
+}
+\usepackage{sectsty}
+\sectionfont{\fontsize{12}{12}\selectfont}
+\subsectionfont{\fontsize{12}{12}\selectfont}
+\subsubsectionfont{\fontsize{12}{12}\selectfont}
+\usepackage{url}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{cite}
+\usepackage[brazilian,hyperpageref]{backref}	% Paginas com as citações na bibl
+\usepackage[num,overcite]{abntex2cite} % Citações padrão ABNT
+
+
+\usepackage{pgfgantt}  % gera gantt em latex
+\usepackage{acronym} 
+%\usepackage[acronym]{glossaries} % cria glossário de siglas
+%\makeglossaries
+
+\usepackage[most]{tcolorbox}
+\usepackage{listings}        % Para listar códigos
+\lstset{
+	inputencoding=utf8,
+	extendedchars=true,
+	literate={á}{{\'a}}1 {é}{{\'e}}1 {í}{{\'i}}1 {ó}{{\'o}}1 {ú}{{\'u}}1
+	{Á}{{\'A}}1 {É}{{\'E}}1 {Í}{{\'I}}1 {Ó}{{\'O}}1 {Ú}{{\'U}}1
+	{à}{{\`a}}1 {è}{{\`e}}1 {ì}{{\`i}}1 {ò}{{\`o}}1 {ù}{{\`u}}1
+	{À}{{\`A}}1 {È}{{\`E}}1 {Ì}{{\`I}}1 {Ò}{{\`O}}1 {Ù}{{\`U}}1
+	{ã}{{\~a}}1 {õ}{{\~o}}1 {Ã}{{\~A}}1 {Õ}{{\~O}}1
+	{â}{{\^a}}1 {ê}{{\^e}}1 {î}{{\^i}}1 {ô}{{\^o}}1 {û}{{\^u}}1
+	{Â}{{\^A}}1 {Ê}{{\^E}}1 {Î}{{\^I}}1 {Ô}{{\^O}}1 {Û}{{\^U}}1
+	{ç}{{\c{c}}}1 {Ç}{{\c{C}}}1
+}
+
+\usepackage{xcolor}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+	backgroundcolor=\color{backcolour},   
+	commentstyle=\color{codegreen},
+	keywordstyle=\color{magenta},
+	numberstyle=\tiny\color{codegray},
+	stringstyle=\color{codepurple},
+	basicstyle=\ttfamily\footnotesize,
+	breakatwhitespace=false,         
+	breaklines=true,                 
+	captionpos=b,                    
+	keepspaces=true,                 
+	numbers=left,                    
+	numbersep=5pt,                  
+	showspaces=false,                
+	showstringspaces=false,
+	showtabs=false,                  
+	tabsize=2
+}
+
+\lstset{style=mystyle}
+
+
+\begin{document}  
+    % Deve conter o título do trabalho, nome do autor, nome da instituição, curso, orientador, local e ano. A capa deve seguir as normas da instituição para formatação (ABNT ou outra específica).
+	\input{1. elementos pré textuais/0 - capa}
+    % Resumo, dedicatórias etc (elementos pré extuais)
+
+
+    % elementos textuais
+    % -> introdução: Conteúdo: Apresenta o tema do trabalho, o problema a ser investigado, os objetivos gerais e específicos, a justificativa para a realização do estudo e uma breve descrição da estrutura do documento. Deve contextualizar o leitor sobre a relevância do trabalho.
+	\input{2. textuais/1 - introdução}
+
+    % -> justificativas:  Explique a importância do tema escolhido, destacando o motivo pelo qual o trabalho foi desenvolvido. Aborde o impacto acadêmico, científico, tecnológico ou social do estudo. A justificativa deve convencer o leitor da relevância do projeto.
+    \input{2. textuais/1.1 - justificativas}
+
+    % objetivos: Liste e descreva os objetivos gerais e específicos do trabalho. O objetivo geral deve refletir o propósito principal do estudo, enquanto os específicos detalham as etapas que serão necessárias para atingir o objetivo geral.
+    \input{2. textuais/1.2 - objetivos}
+
+    % requisitos: Defina os requisitos funcionais e não funcionais que o projeto deve atender. Descreva as necessidades e especificações técnicas que o sistema, software ou pesquisa deve cumprir.
+    \input{2. textuais/1.3 - requisitos}
+    
+    	% metodologia: Descreva a metodologia utilizada para a realização do trabalho. Detalhe os procedimentos, técnicas e ferramentas empregadas na pesquisa, desenvolvimento ou análise do projeto.
+    \input{2. textuais/3.1 - desenvolvimento teórico}
+    
+    % desenvolvimento: Apresente o desenvolvimento do trabalho, dividindo-o em seções e subseções conforme a necessidade. Descreva as etapas, resultados e discussões do projeto, incluindo gráficos, tabelas, imagens e outros elementos visuais.
+    \input{2. textuais/3.2 - desenvolvimento técnico}
+    
+    % resultados: Apresente os resultados obtidos durante a realização do trabalho. Descreva as análises, interpretações e conclusões a partir dos dados coletados, destacando os principais achados e contribuições do estudo.
+    \input{2. textuais/4 - testes}
+    
+    % conclusão: Faça uma síntese dos resultados obtidos, destacando os principais achados e contribuições do trabalho. Apresente as limitações do estudo e sugestões para pesquisas futuras.
+    \input{2. textuais/6 - considerações finais}
+    
+
+
+	\addcontentsline{toc}{section}{Referências} %adiona a seção das referências no sumário
+	\bibliographystyle{abntex2cite}
+    \newpage
+	\bibliography{referencias}
+\end{document}
