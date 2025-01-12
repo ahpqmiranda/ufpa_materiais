@@ -1,0 +1,86 @@
+\section{Questão 12-34}
+
+Nesta questão, analisamos o movimento de uma partícula em coordenadas polares, onde a posição radial e a posição angular variam com o tempo. A posição radial é dada por \(r(t) = 0.1 \cdot t^3\), e a posição angular é \( \theta(t) = 4 \cdot t^{3/2}\). Calculamos as velocidades, acelerações e suas intensidades no instante \(t = 1.5 \, \text{s}\).
+
+\subsection*{Velocidade Radial e Angular}
+A velocidade radial é a derivada de \(r(t)\) em relação ao tempo:
+\[
+\frac{dr}{dt} = \frac{d}{dt}\left(0.1 \cdot t^3\right) = 0.3 \cdot t^2.
+\]
+
+A velocidade angular é a derivada de \(\theta(t)\) em relação ao tempo:
+\[
+\frac{d\theta}{dt} = \frac{d}{dt}\left(4 \cdot t^{3/2}\right) = 6 \cdot t^{1/2}.
+\]
+
+\subsection*{Velocidade Tangencial e Intensidade da Velocidade Total}
+A velocidade tangencial é dada por:
+\[
+v_{\text{tangencial}} = r \cdot \frac{d\theta}{dt}.
+\]
+
+Substituímos \(r(t) = 0.1 \cdot t^3\) e \(\frac{d\theta}{dt} = 6 \cdot t^{1/2}\):
+\[
+v_{\text{tangencial}} = \left(0.1 \cdot t^3\right) \cdot \left(6 \cdot t^{1/2}\right) = 0.6 \cdot t^{7/2}.
+\]
+
+A intensidade da velocidade total é:
+\[
+v_{\text{total}} = \sqrt{\left(\frac{dr}{dt}\right)^2 + v_{\text{tangencial}}^2}.
+\]
+
+Substituímos \(\frac{dr}{dt} = 0.3 \cdot t^2\) e \(v_{\text{tangencial}} = 0.6 \cdot t^{7/2}\):
+\[
+v_{\text{total}} = \sqrt{\left(0.3 \cdot t^2\right)^2 + \left(0.6 \cdot t^{7/2}\right)^2}.
+\]
+
+\subsection*{Acelerações Radial e Tangencial}
+A aceleração radial (centrípeta) é dada por:
+\[
+a_{\text{radial}} = r \cdot \left(\frac{d\theta}{dt}\right)^2.
+\]
+
+Substituímos \(r(t) = 0.1 \cdot t^3\) e \(\frac{d\theta}{dt} = 6 \cdot t^{1/2}\):
+\[
+a_{\text{radial}} = \left(0.1 \cdot t^3\right) \cdot \left(6 \cdot t^{1/2}\right)^2 = 3.6 \cdot t^{4}.
+\]
+
+A aceleração tangencial é a derivada de \(v_{\text{tangencial}}\) em relação ao tempo:
+\[
+a_{\text{tangencial}} = \frac{d}{dt}\left(0.6 \cdot t^{7/2}\right) = 2.1 \cdot t^{5/2}.
+\]
+
+A intensidade da aceleração total é:
+\[
+a_{\text{total}} = \sqrt{a_{\text{radial}}^2 + a_{\text{tangencial}}^2}.
+\]
+
+Substituímos \(a_{\text{radial}} = 3.6 \cdot t^4\) e \(a_{\text{tangencial}} = 2.1 \cdot t^{5/2}\):
+\[
+a_{\text{total}} = \sqrt{\left(3.6 \cdot t^4\right)^2 + \left(2.1 \cdot t^{5/2}\right)^2}.
+\]
+
+\subsection*{Cálculos no Instante \(t = 1.5 \, \text{s}\)}
+Substituímos \(t = 1.5 \, \text{s}\) nas expressões:
+\begin{itemize}
+    \item Velocidade total:
+    \[
+    v_{\text{total}} = \sqrt{\left(0.3 \cdot 1.5^2\right)^2 + \left(0.6 \cdot 1.5^{7/2}\right)^2} \approx 3.813 \, \text{m/s}.
+    \]
+    \item Aceleração total:
+    \[
+    a_{\text{total}} = \sqrt{\left(3.6 \cdot 1.5^4\right)^2 + \left(2.1 \cdot 1.5^{5/2}\right)^2} \approx 36.419 \, \text{m/s}^2.
+    \]
+\end{itemize}
+
+\subsection*{Resultados Finais}
+\begin{itemize}
+    \item Intensidade da velocidade total:
+    \[
+    v_{\text{total}} \approx 3.813 \, \text{m/s}.
+    \]
+    \item Intensidade da aceleração total:
+    \[
+    a_{\text{total}} \approx 36.419 \, \text{m/s}^2.
+    \]
+\end{itemize}

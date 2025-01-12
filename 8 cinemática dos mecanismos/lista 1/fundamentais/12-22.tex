@@ -1,0 +1,124 @@
+\section{Questão 12-22}
+
+Nesta questão, analisamos o movimento de um projétil lançado obliquamente com velocidade inicial \(v_A\) e ângulo de lançamento \(\text{angle}\). Determinamos o tempo total de voo, o alcance horizontal (\(R\)) e a velocidade escalar no impacto. Também substituímos valores numéricos para ilustrar os resultados.
+
+\subsection*{Componentes da Velocidade Inicial}
+As componentes da velocidade inicial são:
+\[
+v_{Ax} = v_A \cos(\text{angle}),
+\]
+\[
+v_{Ay} = v_A \sin(\text{angle}),
+\]
+onde:
+\begin{itemize}
+    \item \(v_{Ax}\): Componente horizontal da velocidade;
+    \item \(v_{Ay}\): Componente vertical da velocidade.
+\end{itemize}
+
+\subsection*{Equações do Movimento}
+O movimento horizontal é dado por:
+\[
+x(t) = v_{Ax} \cdot t.
+\]
+
+O movimento vertical é dado por:
+\[
+y(t) = v_{Ay} \cdot t - \frac{1}{2} g t^2,
+\]
+onde \(g\) é a aceleração devido à gravidade.
+
+\subsection*{Tempo Total de Voo}
+O tempo total de voo ocorre quando \(y = 0\). Resolvemos a equação \(y(t) = 0\):
+\[
+v_{Ay} \cdot t - \frac{1}{2} g t^2 = 0.
+\]
+
+Fatorando \(t\), temos:
+\[
+t \left( v_{Ay} - \frac{1}{2} g t \right) = 0.
+\]
+
+A solução positiva é:
+\[
+t_{\text{total}} = \frac{2 v_{Ay}}{g}.
+\]
+
+\subsection*{Alcance Horizontal (\(R\))}
+Substituímos \(t_{\text{total}}\) na equação do movimento horizontal para determinar o alcance:
+\[
+R = x(t_{\text{total}}) = v_{Ax} \cdot t_{\text{total}}.
+\]
+
+Substituindo \(t_{\text{total}} = \frac{2 v_{Ay}}{g}\):
+\[
+R = v_{Ax} \cdot \frac{2 v_{Ay}}{g}.
+\]
+
+Usando as expressões para \(v_{Ax}\) e \(v_{Ay}\):
+\[
+R = \frac{2 v_A^2 \sin(\text{angle}) \cos(\text{angle})}{g}.
+\]
+
+Simplificando com a identidade trigonométrica \(\sin(2\text{angle}) = 2 \sin(\text{angle}) \cos(\text{angle})\):
+\[
+R = \frac{v_A^2 \sin(2\text{angle})}{g}.
+\]
+
+\subsection*{Velocidade Escalar no Impacto}
+A componente horizontal da velocidade no impacto permanece constante:
+\[
+v_{x,\text{final}} = v_{Ax}.
+\]
+
+A componente vertical no impacto é:
+\[
+v_{y,\text{final}} = v_{Ay} - g \cdot t_{\text{total}}.
+\]
+
+Substituindo \(t_{\text{total}} = \frac{2 v_{Ay}}{g}\):
+\[
+v_{y,\text{final}} = v_{Ay} - g \cdot \frac{2 v_{Ay}}{g} = -v_{Ay}.
+\]
+
+A velocidade escalar no impacto é dada por:
+\[
+v_{\text{final}} = \sqrt{v_{x,\text{final}}^2 + v_{y,\text{final}}^2}.
+\]
+
+Substituindo os valores de \(v_{x,\text{final}}\) e \(v_{y,\text{final}}\):
+\[
+v_{\text{final}} = \sqrt{v_{Ax}^2 + (-v_{Ay})^2} = \sqrt{v_A^2}.
+\]
+
+\subsection*{Cálculos Numéricos}
+Substituímos os seguintes valores:
+\[
+v_A = 10 \, \text{m/s}, \quad \text{angle} = 30^\circ = \frac{\pi}{6}, \quad g = 9.81 \, \text{m/s}^2.
+\]
+
+O alcance horizontal é:
+\[
+R = \frac{10^2 \sin(2 \cdot 30^\circ)}{9.81} = \frac{100 \cdot 0.866}{9.81} \approx 8.81 \, \text{m}.
+\]
+
+A velocidade escalar no impacto é:
+\[
+v_{\text{final}} = \sqrt{10^2} = 10 \, \text{m/s}.
+\]
+
+\subsection*{Resultados Finais}
+\begin{itemize}
+    \item Tempo total de voo:
+    \[
+    t_{\text{total}} = \frac{2 v_A \sin(\text{angle})}{g}.
+    \]
+    \item Alcance horizontal:
+    \[
+    R = \frac{v_A^2 \sin(2\text{angle})}{g} \approx 8.81 \, \text{m}.
+    \]
+    \item Velocidade escalar no impacto:
+    \[
+    v_{\text{final}} = v_A \approx 10 \, \text{m/s}.
+    \]
+\end{itemize}

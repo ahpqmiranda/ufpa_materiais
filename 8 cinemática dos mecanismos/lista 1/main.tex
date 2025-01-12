@@ -14,7 +14,6 @@
 \usepackage{float} %Pacote que permite tabelas flutuarem em qualquer posição
 % \usepackage[alf,abnt-repeated-title-omit=yes,abnt-emphasize=bf,abnt-etal-list=0]{abntex2cite} %define os parâmetros necessários para as referências e citações de acordo com a ABNT
 \usepackage{amsthm}
-\usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{subcaption} % Pacote que permite que imagens possam ser inseridas em composições de imagens lado a lado com o \subfigure
 \usepackage{amssymb} %4 Pacotes responsáveis pela formatação matemática
@@ -28,7 +27,7 @@
 \usepackage{hyperref}
 \hypersetup{
 colorlinks=true,
-linkcolor=darkblue,
+linkcolor=black, % alterado para black, antes darkblue por bug
 filecolor=magenta,
 urlcolor=blue,
 citecolor=black,
@@ -40,17 +39,15 @@ pdfpagemode=FullScreen
 \subsectionfont{\fontsize{12}{12}\selectfont}
 \subsubsectionfont{\fontsize{12}{12}\selectfont}
 \usepackage{url}
-\usepackage[table,xcdraw]{xcolor}
-\usepackage{cite}
-\usepackage[brazilian,hyperpageref]{backref}	% Paginas com as citações na bibl
-\usepackage[num,overcite]{abntex2cite} % Citações padrão ABNT
-
-
-\usepackage{pgfgantt}  % gera gantt em latex
+\usepackage{pgfplots}
+%\usepackage[table,xcdraw]{xcolor}
+%\usepackage[brazilian,hyperpageref]{backref}	% Paginas com as citações na bibl
+%\usepackage[num,overcite]{abntex2cite} % Citações padrão ABNT
+%\usepackage{cite}
+%\usepackage{pgfgantt}  % gera gantt em latex
 \usepackage{acronym} 
 %\usepackage[acronym]{glossaries} % cria glossário de siglas
 %\makeglossaries
-
 \usepackage[most]{tcolorbox}
 \usepackage{listings}        % Para listar códigos
 \lstset{
@@ -66,7 +63,7 @@ pdfpagemode=FullScreen
 	{ç}{{\c{c}}}1 {Ç}{{\c{C}}}1
 }
 
-\usepackage{xcolor}
+%\usepackage{xcolor}
 
 \definecolor{codegreen}{rgb}{0,0.6,0}
 \definecolor{codegray}{rgb}{0.5,0.5,0.5}
@@ -105,31 +102,23 @@ pdfpagemode=FullScreen
     % -> introdução: Conteúdo: Apresenta o tema do trabalho, o problema a ser investigado, os objetivos gerais e específicos, a justificativa para a realização do estudo e uma breve descrição da estrutura do documento. Deve contextualizar o leitor sobre a relevância do trabalho.
 	\input{2. textuais/1 - introdução}
 
-    % -> justificativas:  Explique a importância do tema escolhido, destacando o motivo pelo qual o trabalho foi desenvolvido. Aborde o impacto acadêmico, científico, tecnológico ou social do estudo. A justificativa deve convencer o leitor da relevância do projeto.
-    \input{2. textuais/1.1 - justificativas}
+	% SECÇÃO FUNDAMENTOS
+	\input{fundamentais/12-9}
+	\input{fundamentais/12-15}
+	\input{fundamentais/12-17}
+	\input{fundamentais/12-20}
+	\input{fundamentais/12-22}
+	\input{fundamentais/12-23}
+	\input{fundamentais/12-27}
+	\input{fundamentais/12-30}
+	\input{fundamentais/12-31}
+	\input{fundamentais/12-33}
+	\input{fundamentais/12-34}
+	\input{fundamentais/12-39}
+	\input{fundamentais/12-40}
+	\input{fundamentais/12-47}
 
-    % objetivos: Liste e descreva os objetivos gerais e específicos do trabalho. O objetivo geral deve refletir o propósito principal do estudo, enquanto os específicos detalham as etapas que serão necessárias para atingir o objetivo geral.
-    \input{2. textuais/1.2 - objetivos}
-
-    % requisitos: Defina os requisitos funcionais e não funcionais que o projeto deve atender. Descreva as necessidades e especificações técnicas que o sistema, software ou pesquisa deve cumprir.
-    \input{2. textuais/1.3 - requisitos}
-    
-    	% metodologia: Descreva a metodologia utilizada para a realização do trabalho. Detalhe os procedimentos, técnicas e ferramentas empregadas na pesquisa, desenvolvimento ou análise do projeto.
-    \input{2. textuais/3.1 - desenvolvimento teórico}
-    
-    % desenvolvimento: Apresente o desenvolvimento do trabalho, dividindo-o em seções e subseções conforme a necessidade. Descreva as etapas, resultados e discussões do projeto, incluindo gráficos, tabelas, imagens e outros elementos visuais.
-    \input{2. textuais/3.2 - desenvolvimento técnico}
-    
-    % resultados: Apresente os resultados obtidos durante a realização do trabalho. Descreva as análises, interpretações e conclusões a partir dos dados coletados, destacando os principais achados e contribuições do estudo.
-    \input{2. textuais/4 - testes}
-    
-    % conclusão: Faça uma síntese dos resultados obtidos, destacando os principais achados e contribuições do trabalho. Apresente as limitações do estudo e sugestões para pesquisas futuras.
-    \input{2. textuais/6 - considerações finais}
-    
+	% SECÇÃO PROBLEMAS
 
 
-	\addcontentsline{toc}{section}{Referências} %adiona a seção das referências no sumário
-	\bibliographystyle{abntex2cite}
-    \newpage
-	\bibliography{referencias}
 \end{document}
