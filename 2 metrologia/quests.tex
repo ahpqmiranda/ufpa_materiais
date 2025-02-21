@@ -1,0 +1,191 @@
+\section{Sistema de Tolerâncias e Ajustes}
+
+\begin{enumerate}
+    \item \textbf{Qual a unidade de tolerância para 7 mm?}
+    \begin{itemize}
+        \item A unidade de tolerância (\( i \)) é calculada por:
+        \[
+            i = 0,45 \times \sqrt[3]{D} + 0,001 \times D
+        \]
+        \item Para \( D = 7 \) mm:
+        \[
+            i = 0,45 \times \sqrt[3]{7} + 0,001 \times 7
+        \]
+        \[
+            i \approx 0,45 \times 1,913 + 0,007
+        \]
+        \[
+            i \approx 0,867 \text{ µm}
+        \]
+    \end{itemize}
+    De acordo com o 4.5.3.2 da norma ABNT NBR 6158:1995, a tolerância fundamental para a qualidade IT9 é dada por:
+    \[
+        i = 0,45 \times \sqrt[3]{D} + 0,001 \times D
+    \]
+    onde D é a média geométrica do grupo de dimensões nominais, em mm (Tabela 4.5.1)
+
+    \item \textbf{Determinar a tolerância de 7 mm, qualidade IT9.}
+    \begin{itemize}
+        \item A tolerância (\( T \)) é dada por:
+        \[
+            T = k \times i
+        \]
+        \item Para IT9, \( k = 16 \):
+        \[
+            T = 16 \times 0,867
+        \]
+        \[
+            T \approx 13,87 \text{ µm}
+        \]
+    \end{itemize}
+    De acordo com o item
+
+    \item \textbf{Qual a unidade de tolerância para 70 mm?}
+    \begin{itemize}
+        \item Como \( 50 \leq D \leq 80 \):
+        \[
+            i = 0,45 \times \sqrt[3]{70} + 0,001 \times 70
+        \]
+        \[
+            i \approx 0,45 \times 4,12 + 0,07
+        \]
+        \[
+            i \approx 1,92 \text{ µm}
+        \]
+    \end{itemize}
+
+    \item \textbf{Determinar a tolerância de 70 mm, qualidade IT9.}
+    \begin{itemize}
+        \item IT9: \( T = 16 \times i \)
+        \[
+            T = 16 \times 1,92
+        \]
+        \[
+            T \approx 30,72 \text{ µm}
+        \]
+    \end{itemize}
+
+    \item \textbf{Determinar a tolerância de 8 mm, qualidade IT1.}
+    \begin{itemize}
+        \item Para IT1, \( k = 0,3 \)
+        \item Usando \( i \approx 0,9 \) µm:
+        \[
+            T = 0,3 \times 0,9
+        \]
+        \[
+            T \approx 0,27 \text{ µm}
+        \]
+    \end{itemize}
+
+    \item \textbf{Calcular a tolerância para a dimensão de 15 mm nas qualidades IT2, IT3 e IT4.}
+    \begin{itemize}
+        \item IT2: \( k = 0,7 \)
+        \item IT3: \( k = 1 \)
+        \item IT4: \( k = 1,6 \)
+        \item Para \( i \approx 1,2 \) µm:
+        \[
+            T_{IT2} = 0,7 \times 1,2 = 0,84 \text{ µm}
+        \]
+        \[
+            T_{IT3} = 1,0 \times 1,2 = 1,2 \text{ µm}
+        \]
+        \[
+            T_{IT4} = 1,6 \times 1,2 = 1,92 \text{ µm}
+        \]
+    \end{itemize}
+
+    \item \textbf{Tolerâncias para IT6 até IT16 considerando IT5 = 6 µm.}
+    \begin{itemize}
+        \item IT6: \( 1,6 \times IT5 = 9,6 \) µm
+        \item IT7: \( 2,5 \times IT5 = 15 \) µm
+        \item IT8: \( 4,0 \times IT5 = 24 \) µm
+        \item IT9: \( 6,3 \times IT5 = 37,8 \) µm
+    \end{itemize}
+
+    \item \textbf{Qual a unidade de tolerância para 150 mm?}
+    \begin{itemize}
+        \item \( i \approx 2,8 \) µm
+    \end{itemize}
+
+    \item \textbf{Determinar a tolerância fundamental de 150 mm para IT7.}
+    \begin{itemize}
+        \item IT7: \( k = 2,5 \)
+        \[
+            T = 2,5 \times 2,8 = 7 \text{ µm}
+        \]
+    \end{itemize}
+
+    \item \textbf{Qual a unidade de tolerância para 320 mm?}
+    \begin{itemize}
+        \item \( i \approx 3,9 \) µm
+    \end{itemize}
+
+    \item \textbf{Determinar a tolerância fundamental de 320 mm para IT15.}
+    \begin{itemize}
+        \item IT15: \( k = 400 \)
+        \[
+            T = 400 \times 3,9 = 1560 \text{ µm}
+        \]
+    \end{itemize}
+
+    \item \textbf{Calcular afastamento para eixo ø40 g6.}
+    \begin{itemize}
+        \item Afastamento superior (\( e_s \)) para g6 e ø40 mm: \(-10\) µm
+        \item Afastamento inferior (\( e_i \)): \(-22\) µm
+    \end{itemize}
+
+    \item \textbf{Calcular afastamento para furo ø150 E8.}
+    \begin{itemize}
+        \item Afastamento superior (\( ES \)) para E8 e ø150 mm: \(+110\) µm
+        \item Afastamento inferior (\( EI \)): \(+70\) µm
+    \end{itemize}
+
+    \item \textbf{Calcular afastamento para furo ø270 S7.}
+    \begin{itemize}
+
+        \item \( S7, \ \varnothing 270 \) mm:
+        \item \( ES = -175 \) µm
+        \item \( EI = -245 \) µm
+    \end{itemize}
+
+    \item \textbf{Calcular afastamento para furo ø25 JS5.}
+    \begin{itemize}
+        \item \( JS5, \ \varnothing 25 \) mm:
+        \item Simétrico ao redor da linha zero.
+        \item \( ES = +6 \) µm, \( EI = -6 \) µm
+    \end{itemize}
+
+    \item \textbf{Determinar afastamentos do eixo ø110 m4.}
+    \begin{itemize}
+        \item \( m4, \ \varnothing 110 \) mm:
+        \item \( e_s = +10 \) µm, \( e_i = 0 \) µm
+    \end{itemize}
+
+    \item \textbf{Determinar afastamentos do furo ø40 N6.}
+    \begin{itemize}
+        \item Ajuste normalizado.
+        \item \( N6, \ \varnothing 40 \) mm:
+        \item \( ES = +14 \) µm, \( EI = -14 \) µm
+    \end{itemize}
+
+    \item \textbf{Calcular afastamento para eixo ø15 d5.}
+    \begin{itemize}
+        \item Usar a relação da posição "d" na tabela.
+        \item \( d5, \ \varnothing 15 \) mm:
+        \item \( e_s = -40 \) µm, \( e_i = -60 \) µm
+    \end{itemize}
+
+    \item \textbf{Calcular afastamento para eixo ø63 g7.}
+    \begin{itemize}
+        \item Aplicação direta das tabelas.
+        \item \( g7, \ \varnothing 63 \) mm:
+        \item \( e_s = -8 \) µm, \( e_i = -20 \) µm
+    \end{itemize}
+
+    \item \textbf{Calcular afastamento para eixo ø85 k5.}
+    \begin{itemize}
+        \item Ajuste específico da classe "k".
+        \item \( k5, \ \varnothing 85 \) mm:
+        \item \( e_s = +30 \) µm, \( e_i = +10 \) µm
+    \end{itemize}
+\end{enumerate}
